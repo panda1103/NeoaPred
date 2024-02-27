@@ -96,8 +96,8 @@ export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ```
 
 ## Usage
-* NeoaPred-PepConf
-For peptide conformation prediction, you can
+### NeoaPred-PepConf
+For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_1.csv --output_dir test_1 --mode PepConf
 ```
@@ -106,14 +106,14 @@ or
 python run_NeoaPred.py --input_file test_2.csv --output_dir test_2 --mode PepConf
 ```
 ```
-\# test_1.csv and test_2.csv are input files of \*.csv format.
-\# Here's an example of test_1.csv:
+# test_1.csv and test_2.csv are input files of *.csv format.
+# Here's an example of test_1.csv:
 ID,Allele,Pep
 id_0,A2402,ELKFVTLVF
 id_1,A2402,RYTRRKNRQ
 id_2,A1101,SSKYITFTK
 
-\# Here's an example of test_2.csv:
+# Here's an example of test_2.csv:
 ID,Allele,WT,Mut
 ID_0,A2402,ELKFVTLVF,KLKFVTLVF
 ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
