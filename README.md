@@ -131,3 +131,10 @@ Output file:
 ```test2_out/Surface/FeatFilter/*_outer_surface.ply```(surface features of peptide)  
 ```test2_out/Foreignness/MhcPep_foreignness.csv```(foreignness score)
 
+## PyMOL plugin
+
+A PyMOL plugin to visualize protein surfaces.  
+This plugin was developed based on the MaSIF paper and had some modifications made by NeoaPred.  
+Please see the MaSIF's tutorial on how to install and use it:
+[MaSIF: https://github.com/LPDI-EPFL/masif]
+
