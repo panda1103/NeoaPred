@@ -4,14 +4,14 @@ This package contains deep learning models and related scripts to run NeoaPred.
 
 ## Installation
 
-1.Clone NeoaPred to a local directory
+### 1.Clone NeoaPred to a local directory
 
 ```
 git clone https://github.com/DeepImmune/NeoaPred.git
 cd NeoaPred
 ```
 
-2.Create conda environment and prepare the required software
+### 2.Create conda environment and prepare the required software
 * python=3.6
 ```
 conda create -n my_environment_name python=3.6
@@ -85,7 +85,7 @@ pip install networkx=2.5.1
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
 * PDB2PQR (2.1.1), multivalue, and [APBS](http://www.poissonboltzmann.org/) (1.5). These programs are necessary to compute electrostatics charges.
 
-3.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
+### 3.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
 ```
 export APBS_BIN=/path_to_apbs/APBS-3.0.0.Linux/bin/apbs
