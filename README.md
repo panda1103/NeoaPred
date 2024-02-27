@@ -101,10 +101,12 @@ For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_in.csv --output_dir test_out --mode PepConf
 ```
-'test_in.csv' is an input files of '.csv' format.  
-The results will be generated in 'test_out/Structure'.  
-' * .relaxed_pep.pdb' is the predicted conformation of peptide.  
-' * .relaxed.pdb' is the structure of pHLA complex.
+The input file(```test_in.csv```) is '.csv' format.  
+
+The out results will be generated in ```test_out/Structure```:  
+ * .relaxed_pep.pdb is the predicted conformation of peptide.  
+ * .relaxed.pdb is the structure of pHLA complex.
+
 ```
 #Input files example: test_1.csv
 ID,Allele,Pep
@@ -118,3 +120,12 @@ ID_0,A2402,ELKFVTLVF,KLKFVTLVF
 ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
 ID_2,A1101,SSKYITFTK,SSKYVTFTK
 ```
+
+### NeoaPred-PepFore
+For peptide foreignness score prediction, you can:
+```
+python run_NeoaPred.py --input_file test_2.csv --output_dir test2_out --mode PepFore
+```
+The input file (```test_2.csv```) must contain two columns: 'WT' and 'Mut'  
+The out results will be generated in ```test2_out/Foreignness```
+
