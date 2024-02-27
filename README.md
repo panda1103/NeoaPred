@@ -116,7 +116,7 @@ ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
 ID_2,A1101,SSKYITFTK,SSKYVTFTK
 ```
 
-Output file:
+Output file:  
 The out results will be generated in ```test_out/Structure```:  
 ```*.relaxed_pep.pdb``` is the predicted conformation of peptide.  
 ```*.relaxed.pdb``` is the structure of pHLA complex.
@@ -127,7 +127,7 @@ For peptide foreignness score prediction, you can:
 python run_NeoaPred.py --input_file test_2.csv --output_dir test2_out --mode PepFore
 ```
 Input file: ```test_2.csv``` (must contain two columns: 'WT' and 'Mut')  
-Output file: 
+Output file:   
 ```test2_out/Surface/FeatFilter/*_outer_surface.ply```(surface features of peptide)  
 ```test2_out/Foreignness/MhcPep_foreignness.csv```(foreignness score)
 
