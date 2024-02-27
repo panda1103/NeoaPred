@@ -69,13 +69,13 @@ PepFore: Predict the conformation of peptide binding to the HLA-I molecule, comp
     parser.add_argument(
         '--trained_model_1',
         default=os.path.dirname(os.path.abspath(__file__))+"/NeoaPred/PepConf/trained_model/model_1.pth",
-        help="Pre-trained model for step 1.\n(default = NeoaPred/PepConf/trained_model/model_1.pth)",
+        help="Pre-trained model for PepConf.\n(default = NeoaPred/PepConf/trained_model/model_1.pth)",
         required=False,
     )
     parser.add_argument(
         '--trained_model_2',
         default=os.path.dirname(os.path.abspath(__file__))+"/NeoaPred/PepFore/trained_model/model_2.pth",
-        help="Pre-trained model for step 4.\n(default = NeoaPred/PepFore/trained_model/model_2.pth)",
+        help="Pre-trained model for PepFore.\n(default = NeoaPred/PepFore/trained_model/model_2.pth)",
         required=False,
     )
     args = parser.parse_args()
