@@ -101,9 +101,9 @@ For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_in.csv --output_dir test_out --mode PepConf
 ```
-'test_in.csv' is an input files of '.csv' format.
-The results will be generated in 'test_out/Structure'.
-'relaxed_pep.pdb' is the predicted conformation of peptide.
+'test_in.csv' is an input files of '.csv' format.  
+The results will be generated in 'test_out/Structure'.  
+'relaxed_pep.pdb' is the predicted conformation of peptide.  
 'relaxed.pdb' is the structure of pHLA complex.
 ```
 #Input files example: test_1.csv
