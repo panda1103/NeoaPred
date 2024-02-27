@@ -136,7 +136,9 @@ Output file:
 ## PyMOL plugin
 
 A PyMOL plugin to visualize protein surfaces.  
-This plugin was developed based on the MaSIF paper and had some modifications made by NeoaPred.  
+This plugin was developed by MaSIF and had some modifications made by NeoaPred.  
 Please see the MaSIF's tutorial on how to install and use it:
 [MaSIF: https://github.com/LPDI-EPFL/masif]
 
+## HLA-I structure templates
+Structure templates of 200 HLA-I alleles are stored in ```NeoaPred/PepConf/data/MHC_template_PDB```.
