@@ -4,14 +4,14 @@ This package contains deep learning models and related scripts to run NeoaPred.
 
 ## Installation
 
-### 1.Clone NeoaPred to a local directory
+1.Clone NeoaPred to a local directory
 
 ```
 git clone https://github.com/DeepImmune/NeoaPred.git
 cd NeoaPred
 ```
 
-### 2.Create conda environment and prepare the required software
+2.Create conda environment and prepare the required software
 * python=3.6
 ```
 conda create -n my_environment_name python=3.6
@@ -85,7 +85,7 @@ pip install networkx=2.5.1
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
 * PDB2PQR (2.1.1), multivalue, and [APBS](http://www.poissonboltzmann.org/) (1.5). These programs are necessary to compute electrostatics charges.
 
-### 3.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
+3.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
 ```
 export APBS_BIN=/path_to_apbs/APBS-3.0.0.Linux/bin/apbs
@@ -99,21 +99,20 @@ export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ### NeoaPred-PepConf
 For peptide conformation prediction, you can:
 ```
-python run_NeoaPred.py --input_file test_1.csv --output_dir test_1 --mode PepConf
+python run_NeoaPred.py --input_file test_in.csv --output_dir test_out --mode PepConf
 ```
-or
+'test_in.csv' is an input files of '.csv' format.
+The results will be generated in 'test_out/Structure'.
+'relaxed_pep.pdb' is the predicted conformation of peptide.
+'relaxed.pdb' is the structure of pHLA complex.
 ```
-python run_NeoaPred.py --input_file test_2.csv --output_dir test_2 --mode PepConf
-```
-```
-# test_1.csv and test_2.csv are input files of *.csv format.
-# Here's an example of test_1.csv:
+#Input files example: test_1.csv
 ID,Allele,Pep
 id_0,A2402,ELKFVTLVF
 id_1,A2402,RYTRRKNRQ
 id_2,A1101,SSKYITFTK
 
-# Here's an example of test_2.csv:
+#Input files example: test_2.csv
 ID,Allele,WT,Mut
 ID_0,A2402,ELKFVTLVF,KLKFVTLVF
 ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
