@@ -101,12 +101,7 @@ For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_in.csv --output_dir test_out --mode PepConf
 ```
-The input file(```test_in.csv```) is '.csv' format.  
-
-The out results will be generated in ```test_out/Structure```:  
- * .relaxed_pep.pdb is the predicted conformation of peptide.  
- * .relaxed.pdb is the structure of pHLA complex.
-
+Input file: ```test_in.csv```('.csv' format)  
 ```
 #Input files example: test_1.csv
 ID,Allele,Pep
@@ -121,11 +116,18 @@ ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
 ID_2,A1101,SSKYITFTK,SSKYVTFTK
 ```
 
+Output file:
+The out results will be generated in ```test_out/Structure```:  
+```*.relaxed_pep.pdb``` is the predicted conformation of peptide.  
+```*.relaxed.pdb``` is the structure of pHLA complex.
+
 ### NeoaPred-PepFore
 For peptide foreignness score prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_2.csv --output_dir test2_out --mode PepFore
 ```
-The input file (```test_2.csv```) must contain two columns: 'WT' and 'Mut'  
-The out results will be generated in ```test2_out/Foreignness```
+Input file: ```test_2.csv``` (must contain two columns: 'WT' and 'Mut')  
+Output file: 
+```test2_out/Surface/FeatFilter/*_outer_surface.ply```(surface features of peptide)  
+```test2_out/Foreignness/MhcPep_foreignness.csv```(foreignness score)
 
