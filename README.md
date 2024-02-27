@@ -103,8 +103,8 @@ python run_NeoaPred.py --input_file test_in.csv --output_dir test_out --mode Pep
 ```
 'test_in.csv' is an input files of '.csv' format.  
 The results will be generated in 'test_out/Structure'.  
-'relaxed_pep.pdb' is the predicted conformation of peptide.  
-'relaxed.pdb' is the structure of pHLA complex.
+' * .relaxed_pep.pdb' is the predicted conformation of peptide.  
+' * .relaxed.pdb' is the structure of pHLA complex.
 ```
 #Input files example: test_1.csv
 ID,Allele,Pep
