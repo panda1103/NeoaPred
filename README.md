@@ -1,5 +1,20 @@
 
-## NeoaPred - Neoantigen Prediction
+## NeoaPred - Neoantigen Prediction: a deep-learning framework for deciphering tumor neoantigen based on surface and structural features of peptides  
+
+
+## Table of Contents:
+ - [Description](#Description)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+      * [NeoaPred](#NeoaPred)
+      * [NeoaPred-PepConf](#NeoaPred-PepConf)
+      * [NeoaPred-PepFore](#NeoaPred-PepFore)
+ - [PyMOL plugin](#PyMOL plugin)
+ - [HLA-I structure templates](#HLA-I structure templates)
+
+
+
+## Description
 This package contains deep learning models and related scripts to run NeoaPred.  
 NeoaPred includes two model: PepConf and PepFore.
 
