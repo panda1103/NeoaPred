@@ -133,7 +133,7 @@ python run_NeoaPred.py --input_file test_2.csv --output_dir test2_out --mode Pep
 ```
 Input file: ```test_2.csv``` (must contain two columns: 'WT' and 'Mut')  
 Output file:   
-```test2_out/Surface/Feat/*__si_ddc_dm.ply```(surface features of peptide)  
+```test2_out/Surface/Feat/*_si_ddc_dm.ply```(surface features of peptide)  
 ![Feature](https://github.com/DeepImmune/NeoaPred/blob/main/img/features.png)
 ```test2_out/Foreignness/MhcPep_foreignness.csv```(foreignness score)
 
