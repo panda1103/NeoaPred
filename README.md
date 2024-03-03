@@ -1,4 +1,6 @@
 ![NeoaPred workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.png)
+![workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.pdf)
+[workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.pdf)
 
 ## NeoaPred - Neoantigen Prediction
 This package contains deep learning models and related scripts to run NeoaPred.
