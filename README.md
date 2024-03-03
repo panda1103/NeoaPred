@@ -132,7 +132,14 @@ For peptide foreignness score prediction, you can:
 python run_NeoaPred.py --input_file test_2.csv --output_dir test2_out --mode PepFore
 ```
 Input file: ```test_2.csv``` (must contain two columns: 'WT' and 'Mut')  
-Output file:   
+```
+#Input files example: test_2.csv
+ID,Allele,WT,Mut
+ID_0,A2402,ELKFVTLVF,KLKFVTLVF
+ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
+ID_2,A1101,SSKYITFTK,SSKYVTFTK
+```
+Output files:   
 ```test2_out/Surface/Feat/*_si_ddc_dm.ply```(surface features of peptide)  
 ![Feature](https://github.com/DeepImmune/NeoaPred/blob/main/img/features.png)
 ```test2_out/Foreignness/MhcPep_foreignness.csv```(foreignness score)
