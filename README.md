@@ -1,6 +1,4 @@
 ![NeoaPred workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.png)
-![workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.pdf)
-[workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.pdf)
 
 ## NeoaPred - Neoantigen Prediction
 This package contains deep learning models and related scripts to run NeoaPred.
@@ -123,7 +121,9 @@ ID_2,A1101,SSKYITFTK,SSKYVTFTK
 Output file:  
 The out results will be generated in ```test_out/Structure```:  
 ```*.relaxed_pep.pdb``` is the predicted conformation of peptide.  
+![Peptide](https://github.com/DeepImmune/NeoaPred/blob/main/img/pep.png)
 ```*.relaxed.pdb``` is the structure of pHLA complex.
+![Peptide-HLA](https://github.com/DeepImmune/NeoaPred/blob/main/img/pHLA.png)
 
 ### NeoaPred-PepFore
 For peptide foreignness score prediction, you can:
