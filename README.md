@@ -45,30 +45,44 @@ The following is the list of required libraries/programs.
 ```
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
-* [Pymesh2](https://github.com/PyMesh/PyMesh) (0.1.14). To handle ply surface files, attributes, and to regularize meshes. Only python 3.6 is supported.)
+* [Pymesh2](https://github.com/PyMesh/PyMesh) (0.1.14).  
+To handle ply surface files, attributes, and to regularize meshes. Only python 3.6 is supported.
 ```
 conda install -c "conda-forge/label/cf202003" pymesh2
 ```
-* biopython
+* [BioPython](https://github.com/biopython/biopython) (1.78).  
+To parse PDB files.
 ```
 conda install -c conda-forge biopython
 ```
-* PeptideConstructor
+* [PeptideConstructor](https://github.com/CharlesHahn/PeptideConstructor) (0.2.1).  
+Create an initial peptide PDB file.
 ```
 pip install PeptideConstructor
 ```
-* ml_collections
+* [ml_collections](https://github.com/google/ml_collections) (0.1.1).  
+ML Collections is a library of Python collections designed for ML usecases.
 ```
 pip install ml_collections
 ```
-* importlib-resources
+* [importlib-resources](https://github.com/python/importlib_resources) (5.4.0).  
+Read resources from Python packages.
 ```
 pip install importlib-resources
 ```
-* openmm
+* [openmm](https://openmm.org) (7.6.0).  
+Required by pdbfixer.
 ```
 conda install openmm
 ```
+* [pdbfixer](https://github.com/openmm/pdbfixer) (1.8.1).  
+Fixing problems in predicted structure of peptides.
+```
+conda install -c conda-forge pdbfixer
+```
+NOTE:
+Check the installed file "anaconda3/envs/my_environment_name/lib/python3.6/site-packages/pdbfixer/soft.xml", 
+change "import simtk.openmm as mm" to "import openmm as mm" in line_4226, unless you install openmm from simtk.
 * dm-tree
 ```
 conda install dm-tree
@@ -85,13 +99,6 @@ pip install einops
 ```
 pip install pytorch_lightning
 ```
-* pdbfixer
-```
-conda install -c conda-forge pdbfixer
-```
-NOTE:
-Check the installed file "anaconda3/envs/my_environment_name/lib/python3.6/site-packages/pdbfixer/soft.xml", 
-change "import simtk.openmm as mm" to "import openmm as mm" in line_4226, unless you install openmm from simtk.
 * sklearn
 ```
 pip install sklearn
