@@ -99,7 +99,27 @@ export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ```
 
 ## Usage
-### NeoaPred-PepConf
+### NeoaPred-PepConf  
+```
+python run_NeoaPred.py --help
+usage: run_NeoaPred.py [-h] --input_file INPUT_FILE [--output_dir OUTPUT_DIR]
+                       [--mode MODE] [--trained_model_1 TRAINED_MODEL_1]
+                       [--trained_model_2 TRAINED_MODEL_2]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --input_file          Input file (*.csv)
+  --output_dir          Output directory (default = ./)
+  --mode                Prediction mode (default = PepFore)
+                        PepConf: Predict the conformation of peptide binding to the HLA-I molecule.
+                        PepFore: Predict the conformation of peptide binding to the HLA-I molecule, compute the features of peptide surface and compute a foreignness score between mutant and wild-type peptide.
+
+  --trained_model_1     Pre-trained model for PepConf.
+                        (default = NeoaPred/PepConf/trained_model/model_1.pth)
+  --trained_model_2     Pre-trained model for PepFore.
+                        (default = NeoaPred/PepFore/trained_model/model_2.pth)
+```
+
 For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_in.csv --output_dir test_out --mode PepConf
