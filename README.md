@@ -112,7 +112,10 @@ optional arguments:
   --output_dir          Output directory (default = ./)
   --mode                Prediction mode (default = PepFore)
                         PepConf: Predict the conformation of peptide binding to the HLA-I molecule.
-                        PepFore: Predict the conformation of peptide binding to the HLA-I molecule, compute the features of peptide surface and compute a foreignness score between mutant and wild-type peptide.
+
+                        PepFore: Predict the conformations of Mut and WT peptides,
+                                 compute the features of peptides surface,
+                                 and compute a foreignness score between Mut and WT.
 
   --trained_model_1     Pre-trained model for PepConf.
                         (default = NeoaPred/PepConf/trained_model/model_1.pth)
