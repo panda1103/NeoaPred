@@ -11,6 +11,7 @@
       * [NeoaPred-PepFore](#NeoaPred-PepFore)
  - [PyMOL plugin](#PyMOL-plugin)
  - [HLA-I structure templates](#HLA-I-structure-templates)
+ - [License](#License)
 
 
 
@@ -192,3 +193,11 @@ Please see the MaSIF's tutorial on how to install and use it:
 
 ## HLA-I structure templates
 Structure templates of 200 HLA-I alleles are stored in ```NeoaPred/PepConf/data/MHC_template_PDB```.
+The numbers of HLA-A, HLA-B, and HLA-C alleles are 66, 105, and 29.
+To simplify the PepConf model and focus on the HLA-I binding groove domain, 
+we only retained the residues of HLA-I from 1 to 180.
+
+## License
+
+NeoaPred is released under an [Apache v2.0 license](LICENSE).
+
