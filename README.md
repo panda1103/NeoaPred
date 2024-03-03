@@ -23,10 +23,10 @@ NeoaPred includes two model: PepConf and PepFore. PepConf utilizes the sequence 
 
 ![NeoaPred workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.png)
 
-###PepConf-Overview
+### PepConf-Overview
 ![PepConf-Overview](https://github.com/DeepImmune/NeoaPred/blob/main/img/PepConf.png)
 
-###PepFore-Overview
+### PepFore-Overview
 ![PepFore-Overview](https://github.com/DeepImmune/NeoaPred/blob/main/img/PepFore.png)
 
 ## Installation
