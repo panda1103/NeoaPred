@@ -99,7 +99,7 @@ export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ```
 
 ## Usage
-### NeoaPred-PepConf  
+### NeoaPred  
 ```
 python run_NeoaPred.py --help
 usage: run_NeoaPred.py [-h] --input_file INPUT_FILE [--output_dir OUTPUT_DIR]
@@ -123,6 +123,7 @@ optional arguments:
                         (default = NeoaPred/PepFore/trained_model/model_2.pth)
 ```
 
+### NeoaPred-PepConf  
 For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_in.csv --output_dir test_out --mode PepConf
