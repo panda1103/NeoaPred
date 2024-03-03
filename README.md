@@ -45,7 +45,7 @@ The following is the list of required libraries/programs.
 ```
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
-* pymesh2 (Only python 3.6 is supported.)
+* [Pymesh2](https://github.com/PyMesh/PyMesh) (0.1.14). To handle ply surface files, attributes, and to regularize meshes. Only python 3.6 is supported.)
 ```
 conda install -c "conda-forge/label/cf202003" pymesh2
 ```
