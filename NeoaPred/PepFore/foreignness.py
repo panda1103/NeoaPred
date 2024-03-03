@@ -57,8 +57,9 @@ def evaluate(model, df, device, batch_size, cache_data):
             labels_eval[torch.where(labels_eval>=0.5)[0]] = 1.0
             labels_eval[torch.where(labels_eval<0.5)[0]] = 0.0
             labels_eval_list.extend(labels_eval.cpu().numpy())
-    df_res = pd.DataFrame([id_list, labels_eval_list, eval_list]).T
-    df_res.columns = ['SampleID', 'Foreignness', 'Score']
+    #df_res = pd.DataFrame([id_list, labels_eval_list, eval_list]).T
+    df_res = pd.DataFrame([id_list, eval_list]).T
+    df_res.columns = ['SampleID', 'Foreignness_Score']
     return df_res
 
 def foreignness_predicter(
@@ -83,9 +84,8 @@ def foreignness_predicter(
         allele = df[df["ID"]==sam_ID]["Allele"].values[0]
         seq_wt = df[df["ID"]==sam_ID]["WT"].values[0]
         seq_mut = df[df["ID"]==sam_ID]["Mut"].values[0]
-        fore = df_res[df_res["SampleID"]==sam_ID]["Foreignness"].values[0]
-        score = df_res[df_res["SampleID"]==sam_ID]["Score"].values[0]
-        data_pair_list.append([sam_ID, allele, seq_wt, seq_mut, fore, score])
-    df_pair = pd.DataFrame(data_pair_list, columns = ["ID", "Allele", "WT", "Mut", "Predict", "Score"])
+        score = df_res[df_res["SampleID"]==sam_ID]["Foreignness_Score"].values[0]
+        data_pair_list.append([sam_ID, allele, seq_wt, seq_mut, score])
+    df_pair = pd.DataFrame(data_pair_list, columns = ["ID", "Allele", "WT", "Mut", "Foreignness_Score"])
     df_pair.to_csv(output_file, index=False)
 
