@@ -19,15 +19,17 @@
 
 ## Description
 This package contains deep learning models and related scripts to run NeoaPred.  
-NeoaPred includes two model: PepConf and PepFore. PepConf utilizes the sequence of peptide and HLA-I, as well as the structure of HLA-I to construct the conformation of peptide binding to HLA-I. PepConf has two peculiarities: 1) The model computes a two-dimensional matrix to describe the spatial distance between the peptide and HLA-I molecule; 2) The model uses a intermolecular loss to achieve the constraints of spatial distance between peptide and HLA-I molecule. PepFore integrates the differences in surface features, spatial structure, and atom groups between the mutant peptide and wild-type counterpart to predict a foreignness score. 
+NeoaPred includes two model: PepConf and PepFore.
 
 ![NeoaPred workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.png)
 
 ### PepConf-Overview
 ![PepConf-Overview](https://github.com/DeepImmune/NeoaPred/blob/main/img/PepConf.png)
+PepConf utilizes the sequence of peptide and HLA-I, as well as the structure of HLA-I to construct the conformation of peptide binding to HLA-I. PepConf has two peculiarities: 1) The model computes a two-dimensional matrix to describe the spatial distance between the peptide and HLA-I molecule; 2) The model uses a intermolecular loss to achieve the constraints of spatial distance between peptide and HLA-I molecule.
 
 ### PepFore-Overview
 ![PepFore-Overview](https://github.com/DeepImmune/NeoaPred/blob/main/img/PepFore.png)
+PepFore integrates the differences in surface features, spatial structure, and atom groups between the mutant peptide and wild-type counterpart to predict a foreignness score. 
 
 ## Installation
 
