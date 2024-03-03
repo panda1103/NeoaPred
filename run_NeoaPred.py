@@ -22,7 +22,7 @@ def main(args):
     if (args.mode == "PepConf"):
         step = ["0", "1"]
     elif (args.mode == "PepFore"):
-        step = [0, 1, 2, 3]
+        step = ["0", "1", "2", "3"]
     else:
         print("mode parameter error.\nExample: \"--mode PepFore\" ")
 
