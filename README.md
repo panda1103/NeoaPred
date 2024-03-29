@@ -1,5 +1,5 @@
 
-## NeoaPred: a deep-learning framework for deciphering tumor neoantigen based on surface and structural features of peptides  
+## NeoaPred: a deep-learning framework for predicting immunogenic neoantigen based on surface and structural features of peptide-HLA complexes  
 
 
 ## Table of Contents:
