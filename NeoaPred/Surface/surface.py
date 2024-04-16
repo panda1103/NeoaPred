@@ -148,7 +148,7 @@ def pdb2ImAtom(out_dir, pdb_ply_list2):
                        )
 
 def for_feat_filter(feat_dir, out_featfilt_dir, ID, padding_patch_size):
-    dm_threshold = 4.5
+    dm_threshold = 4.0
     ply_wt = feat_dir + "/" + ID + "_wt_si_ddc_dm.ply"
     ply_mut = feat_dir + "/" + ID + "_mut_si_ddc_dm.ply"
     new_ply_wt = out_featfilt_dir + '/' + ID + '_wt_outer_surface.ply'
