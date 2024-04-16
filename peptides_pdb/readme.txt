@@ -1,1 +1,1 @@
-Peptide structure files used to create molecular models described in Table 1 and Figure 5.
+Peptide structure files used to create molecular models described in Table 1 and Figure 6.
