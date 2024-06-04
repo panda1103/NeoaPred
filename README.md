@@ -159,9 +159,9 @@ optional arguments:
 ### NeoaPred-PepConf  
 For peptide conformation prediction, you can:
 ```
-python run_NeoaPred.py --input_file test_1.csv --output_dir test_out --mode PepConf
+python run_NeoaPred.py --input_file test_1.csv --output_dir test_out_1 --mode PepConf
 or   
-python run_NeoaPred.py --input_file test_2.csv --output_dir test_out --mode PepConf
+python run_NeoaPred.py --input_file test_2.csv --output_dir test_out_2 --mode PepConf
 ```
 Input file: ```test_1.csv``` or ```test_2.csv``` ('.csv' format)  
 ```
