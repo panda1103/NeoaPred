@@ -188,7 +188,7 @@ The out results will be generated in ```test_out/Structure```:
 ### NeoaPred-PepFore
 For peptide foreignness score prediction, you can:
 ```
-python run_NeoaPred.py --input_file test_2.csv --output_dir test2_out --mode PepFore
+python run_NeoaPred.py --input_file test_2.csv --output_dir test2_foreignness_score --mode PepFore
 ```
 Input file: ```test_2.csv``` (must contain two columns: 'WT' and 'Mut')  
 ```
