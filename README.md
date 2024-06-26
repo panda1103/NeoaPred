@@ -119,7 +119,8 @@ pip install networkx=2.5.1
 ```
 * [reduce](http://kinemage.biochem.duke.edu/software/reduce.php) (3.23). To add protons to proteins.
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
-* PDB2PQR (2.1.1), multivalue, and [APBS](http://www.poissonboltzmann.org/) (1.5). These programs are necessary to compute electrostatics charges. Note: PDB2PQR can be found in the installation path of pymesh2; multivalue can be found in the installation path of APBS.
+* PDB2PQR (2.1.1), multivalue, and [APBS](http://www.poissonboltzmann.org/) (1.5). These programs are necessary to compute electrostatics charges.  
+**Note**: PDB2PQR can be found in the installation path of pymesh2; multivalue can be found in the installation path of APBS.
 
 3.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
@@ -132,7 +133,7 @@ export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ```
 **Note**:  
 ```path_to_apbs``` is the installation path of APBS.  
-```path_to_anaconda3_envs_pymesh2``` is the installation path of pymesh2.  
+```path_to_anaconda3_envs_pymesh2``` is the installation path of pymesh2, which can be found in the environment directory within conda.  
 ```path_to_msms``` is the installation path of MSMS.  
 
 ## Usage
