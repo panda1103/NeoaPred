@@ -130,10 +130,10 @@ export PDB2PQR_BIN=/path_to_anaconda3_envs_pymesh2/bin/pdb2pqr_cli
 export MSMS_BIN=/path_to_msms/msms
 export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ```
-**Note**:
-**path_to_apbs** is the installation path of APBS.  
-**path_to_anaconda3_envs_pymesh2** is the installation path of pymesh2.  
-**path_to_msms** is the installation path of MSMS.  
+**Note**:  
+```path_to_apbs``` is the installation path of APBS.  
+```path_to_anaconda3_envs_pymesh2``` is the installation path of pymesh2.  
+```path_to_msms``` is the installation path of MSMS.  
 
 ## Usage
 ### NeoaPred  
