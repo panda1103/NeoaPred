@@ -33,8 +33,8 @@ PepFore integrates the differences in surface features, spatial structure, and a
 
 ## Installation
 Two methods exist to run NeoaPred:  
-1.Docker
-2.Linux
+1.Docker  
+2.Linux  
 ### Docker ####
 ```
 docker pull xxxx/NeoaPred:1.0  
@@ -60,7 +60,7 @@ git clone https://github.com/DeepImmune/NeoaPred.git
 cd NeoaPred
 ```
 
-2.Create conda environment and prepare the required python package. 
+2.Create conda environment and prepare the required python package.  
 You may choose either a conda YAML file-based approach: 
 ```
 conda env create -f environment.yml -n my_environment_name
@@ -115,7 +115,7 @@ Fixing problems in predicted structure of peptides.
 ```
 conda install -c conda-forge pdbfixer
 ```
-NOTE:
+**Note**:
 Check the installed file "anaconda3/envs/my_environment_name/lib/python3.6/site-packages/pdbfixer/soft.xml", 
 change "import simtk.openmm as mm" to "import openmm as mm" in line_4226, unless you install openmm from simtk.
 * dm-tree
