@@ -32,7 +32,27 @@ PepFore integrates the differences in surface features, spatial structure, and a
 ![PepFore-Overview](https://github.com/DeepImmune/NeoaPred/blob/main/img/PepFore.png)
 
 ## Installation
-
+Two methods exist to run NeoaPred:  
+1.Docker
+2.Linux
+### Docker ####
+```
+docker pull xxxx/NeoaPred:1.0  
+cmd=$(docker run -it -d xxxx/NeoaPred:1.0 /bin/bash)  
+```
+Copy prepared input file to the container:  
+```
+docker cp input.csv  $cmd:/input.csv
+```
+enter the container:  
+```
+docker exec $cmd
+```
+run the work script: 
+```
+python run_NeoaPred.py  
+```
+### Linux ####
 1.Clone NeoaPred to a local directory
 
 ```
@@ -40,7 +60,12 @@ git clone https://github.com/DeepImmune/NeoaPred.git
 cd NeoaPred
 ```
 
-2.Create conda environment and prepare the required software
+2.Create conda environment and prepare the required python package. 
+You may choose either a conda YAML file-based approach: 
+```
+conda env create -f environment.yml -n my_environment_name
+```
+or a manual, step-by-step process:
 * python=3.6
 ```
 conda create -n my_environment_name python=3.6
@@ -117,12 +142,13 @@ pip install sklearn
 ```
 pip install networkx=2.5.1
 ```
+3.Prepare the required software. 
 * [reduce](http://kinemage.biochem.duke.edu/software/reduce.php) (3.23). To add protons to proteins.
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
 * PDB2PQR (2.1.1), multivalue, and [APBS](http://www.poissonboltzmann.org/) (1.5). These programs are necessary to compute electrostatics charges.  
 **Note**: PDB2PQR can be found in the installation path of pymesh2; multivalue can be found in the installation path of APBS.
 
-3.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
+4.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
 ```
 export APBS_BIN=/path_to_apbs/APBS-3.0.0.Linux/bin/apbs
