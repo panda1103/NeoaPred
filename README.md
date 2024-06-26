@@ -131,9 +131,8 @@ export MULTIVALUE_BIN=/path_to_apbs/APBS-3.0.0.Linux/share/apbs/tools/bin/multiv
 #"path_to_anaconda3_envs_pymesh2" is the installation path of pymesh2
 export PDB2PQR_BIN=/path_to_anaconda3_envs_pymesh2/bin/pdb2pqr_cli
 ```
-```
-
 **path_to_msms** is the installation path of MSMS
+```
 export MSMS_BIN=/path_to_msms/msms
 export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ```
