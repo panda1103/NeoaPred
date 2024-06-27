@@ -37,20 +37,33 @@ Two methods exist to run NeoaPred:
 2.Linux  
 ### Docker ####
 ```
-docker pull xxxx/NeoaPred:1.0  
-cmd=$(docker run -it -d xxxx/NeoaPred:1.0 /bin/bash)  
+docker pull panda1103/neoapred:1.0.0
+cmd=$(docker run -it -d panda1103/neoapred:1.0.0 /bin/bash)
+
 ```
 Copy prepared input file to the container:  
 ```
 docker cp input.csv  $cmd:/input.csv
 ```
-enter the container:  
+
+To run the program, you can enter the container:  
 ```
-docker exec $cmd
+docker exec -it $cmd bash
 ```
-run the work script: 
+run the work script in the container: 
 ```
-python run_NeoaPred.py  
+python /var/software/NeoaPred/run_NeoaPred.py  --input_file input.csv  --output_dir test_out --mode XXX
+```
+Or, you may want to run program outside of the container:
+```
+docker exec -it $cmd bash -c "source ~/.bashrc && conda activate neoa && python /var/software/NeoaPred/run_NeoaPred.py"
+```
+When you complete your analysis, copy any desired output files off the container to your local machine with the docker cp command. Shut down and clean up your container like this:
+```
+docker cp $cmd:/test_out ~/test_out
+docker stop $cmd
+docker rm $cmd
+
 ```
 ### Linux ####
 1.Clone NeoaPred to a local directory
