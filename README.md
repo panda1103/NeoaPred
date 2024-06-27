@@ -157,7 +157,6 @@ export LD_LIBRARY_PATH=/path_to_conda3/lib:/path_to_apbs/lib/:$LD_LIBRARY_PATH
 
 export APBS_BIN=/path_to_apbs/bin/apbs
 export MULTIVALUE_BIN=/path_to_apbs/share/apbs/tools/bin/multivalue
-
 export PDB2PQR_BIN=/path_to_conda3/envs/name/bin/pdb2pqr
 export MSMS_BIN=/path_to_msms/msms
 export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
