@@ -21,16 +21,15 @@
 This package contains deep learning models and related scripts to run NeoaPred.  
 NeoaPred includes two model: PepConf and PepFore.
 
-![NeoaPred workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.png)
 ![NeoaPred workflow](img/workflow.png)
 
 ### PepConf-Overview
 PepConf utilizes the sequence of peptide and HLA-I, as well as the structure of HLA-I to construct the conformation of peptide binding to HLA-I. PepConf has two peculiarities: 1) The model computes a two-dimensional matrix to describe the spatial distance between the peptide and HLA-I molecule; 2) The model uses a intermolecular loss to achieve the constraints of spatial distance between peptide and HLA-I molecule.
-![PepConf-Overview](https://github.com/DeepImmune/NeoaPred/blob/main/img/PepConf.png)
+![PepConf-Overview](img/PepConf.png)
 
 ### PepFore-Overview
 PepFore integrates the differences in surface features, spatial structure, and atom groups between the mutant peptide and wild-type counterpart to predict a foreignness score. 
-![PepFore-Overview](https://github.com/DeepImmune/NeoaPred/blob/main/img/PepFore.png)
+![PepFore-Overview](img/PepFore.png)
 
 ## Installation
 Two methods exist to run NeoaPred:  
@@ -144,17 +143,17 @@ pip install networkx==2.5.1
 * [reduce](https://github.com/rlabduke/reduce). To add protons to proteins.
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
 * [APBS](https://www.poissonboltzmann.org/) (3.0.0),[PDB2PQR](https://anaconda.org/schrodinger/pdb2pqr/) (2.1.1) and multivalue. These programs are necessary to compute electrostatics charges.  
-**Note**: multivalue can be found in the installation path of APBS.
-```
-#PDB2PQR
-conda install schrodinger::pdb2pqr
-conda install schrodinger/label/archive::pdb2pqr
-
-#APBS
+* APBS
 APBS can be obtained from this website: https://www.poissonboltzmann.org/   
 We have also prepared a Linux version of the binary software in the repository in case you are unable to download it.
-APBS-3.0.0.Linux
+[APBS-3.0.0.Linux](./APBS-3.0.0.Linux/)
+
+* PDB2PQR
 ```
+conda install schrodinger::pdb2pqr
+conda install schrodinger/label/archive::pdb2pqr
+```
+**Note**: multivalue can be found in the installation path of APBS.
 
 4.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
@@ -225,9 +224,9 @@ ID_2,A1101,SSKYITFTK,SSKYVTFTK
 Output file:  
 The out results will be generated in ```test_out/Structure```:  
 ```*.relaxed_pep.pdb``` is the predicted conformation of peptide.  
-![Peptide](https://github.com/DeepImmune/NeoaPred/blob/main/img/pep.png)
+![Peptide](img/pep.png)
 ```*.relaxed.pdb``` is the structure of pHLA complex.
-![Peptide-HLA](https://github.com/DeepImmune/NeoaPred/blob/main/img/pHLA.png)
+![Peptide-HLA](img/pHLA.png)
 
 ### NeoaPred-PepFore
 For peptide foreignness score prediction, you can:
@@ -244,7 +243,7 @@ ID_2,A1101,SSKYITFTK,SSKYVTFTK
 ```
 Output files:   
 ```test2_out/Surface/Feat/*_si_ddc_dm.ply```(surface features of peptide)  
-![Feature](https://github.com/DeepImmune/NeoaPred/blob/main/img/features.png)
+![Feature](img/features.png)
 ```test2_out/Foreignness/MhcPep_foreignness.csv```(foreignness score)
 
 ## PyMOL plugin
