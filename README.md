@@ -146,7 +146,7 @@ pip install networkx==2.5.1
 #APBS  
 APBS can be obtained from this website: https://www.poissonboltzmann.org/   
 We have also prepared a Linux version of the binary software in the repository in case you are unable to download it: [APBS-3.0.0.Linux](./APBS-3.0.0.Linux/)
-# PDB2PQR  
+#PDB2PQR  
 ```
 conda install schrodinger::pdb2pqr
 conda install schrodinger/label/archive::pdb2pqr
