@@ -143,12 +143,10 @@ pip install networkx==2.5.1
 * [reduce](https://github.com/rlabduke/reduce). To add protons to proteins.
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
 * [APBS](https://www.poissonboltzmann.org/) (3.0.0),[PDB2PQR](https://anaconda.org/schrodinger/pdb2pqr/) (2.1.1) and multivalue. These programs are necessary to compute electrostatics charges.  
-* APBS  
+#APBS  
 APBS can be obtained from this website: https://www.poissonboltzmann.org/   
-We have also prepared a Linux version of the binary software in the repository in case you are unable to download it.
-[APBS-3.0.0.Linux](./APBS-3.0.0.Linux/)
-
-* PDB2PQR  
+We have also prepared a Linux version of the binary software in the repository in case you are unable to download it: [APBS-3.0.0.Linux](./APBS-3.0.0.Linux/)
+# PDB2PQR  
 ```
 conda install schrodinger::pdb2pqr
 conda install schrodinger/label/archive::pdb2pqr
@@ -158,19 +156,20 @@ conda install schrodinger/label/archive::pdb2pqr
 4.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
 ```
-export LD_LIBRARY_PATH=/path_to_conda3/lib:/path_to_apbs_APBS-3.0.0.Linux/lib/:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/path_to_conda3/lib:/path_to_apbs/lib/:$LD_LIBRARY_PATH
 
-export APBS_BIN=/path_to_apbs/APBS-3.0.0.Linux/bin/apbs
-export MULTIVALUE_BIN=/path_to_apbs/APBS-3.0.0.Linux/share/apbs/tools/bin/multivalue
+export APBS_BIN=/path_to_apbs/bin/apbs
+export MULTIVALUE_BIN=/path_to_apbs/share/apbs/tools/bin/multivalue
 
-export PDB2PQR_BIN=/path_to_anaconda3_envs/bin/pdb2pqr
+export PDB2PQR_BIN=/path_to_conda3/envs/name/bin/pdb2pqr
 export MSMS_BIN=/path_to_msms/msms
 export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
 ```
 **Note**:  
-```path_to_apbs``` is the installation path of APBS.  
-```path_to_anaconda3_envs``` is the installation path of pdb2pqr, which can be found in the environment directory within conda.  
-```path_to_msms``` is the installation path of MSMS.  
+```path_to_conda3``` is the installation directory of conda.  
+```path_to_apbs``` is the installation directory of APBS.  
+```/path_to_conda3/envs/name/bin/pdb2pqr``` is the installation path of pdb2pqr, which can be found in the environment directory within conda, e.g., "/var/software/miniconda3/envs/neoa/bin/pdb2pqr"  
+```path_to_msms``` is the installation directory of MSMS.  
 
 ## Usage
 ### NeoaPred  
