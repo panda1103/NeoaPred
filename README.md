@@ -22,6 +22,7 @@ This package contains deep learning models and related scripts to run NeoaPred.
 NeoaPred includes two model: PepConf and PepFore.
 
 ![NeoaPred workflow](https://github.com/DeepImmune/NeoaPred/blob/main/img/workflow.png)
+![NeoaPred workflow](img/workflow.png)
 
 ### PepConf-Overview
 PepConf utilizes the sequence of peptide and HLA-I, as well as the structure of HLA-I to construct the conformation of peptide binding to HLA-I. PepConf has two peculiarities: 1) The model computes a two-dimensional matrix to describe the spatial distance between the peptide and HLA-I molecule; 2) The model uses a intermolecular loss to achieve the constraints of spatial distance between peptide and HLA-I molecule.
@@ -115,9 +116,6 @@ Fixing problems in predicted structure of peptides.
 ```
 conda install -c conda-forge pdbfixer
 ```
-**Note**:
-Check the installed file "anaconda3/envs/my_environment_name/lib/python3.6/site-packages/pdbfixer/soft.xml", 
-change "import simtk.openmm as mm" to "import openmm as mm" in line_4226, unless you install openmm from simtk.
 * dm-tree
 ```
 conda install dm-tree
@@ -145,20 +143,27 @@ pip install networkx==2.5.1
 3.Prepare the required software. 
 * [reduce](https://github.com/rlabduke/reduce). To add protons to proteins.
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
-* [PDB2PQR](https://anaconda.org/schrodinger/pdb2pqr/) (2.1.1)
+* [APBS](https://www.poissonboltzmann.org/) (3.0.0),[PDB2PQR](https://anaconda.org/schrodinger/pdb2pqr/) (2.1.1) and multivalue. These programs are necessary to compute electrostatics charges.  
+**Note**: multivalue can be found in the installation path of APBS.
 ```
+#PDB2PQR
 conda install schrodinger::pdb2pqr
 conda install schrodinger/label/archive::pdb2pqr
+
+#APBS
+APBS can be obtained from this website: https://www.poissonboltzmann.org/   
+We have also prepared a Linux version of the binary software in the repository in case you are unable to download it.
+APBS-3.0.0.Linux
 ```
-* [APBS](https://sourceforge.net/projects/apbs/) (3.0.0) and multivalue. These programs are necessary to compute electrostatics charges.  
-**Note**: PDB2PQR can be found in the installation path of pymesh2; multivalue can be found in the installation path of APBS.
 
 4.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
 ```
 export LD_LIBRARY_PATH=/path_to_conda3/lib:/path_to_apbs_APBS-3.0.0.Linux/lib/:$LD_LIBRARY_PATH
+
 export APBS_BIN=/path_to_apbs/APBS-3.0.0.Linux/bin/apbs
 export MULTIVALUE_BIN=/path_to_apbs/APBS-3.0.0.Linux/share/apbs/tools/bin/multivalue
+
 export PDB2PQR_BIN=/path_to_anaconda3_envs/bin/pdb2pqr
 export MSMS_BIN=/path_to_msms/msms
 export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
