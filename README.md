@@ -144,7 +144,7 @@ pip install networkx==2.5.1
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins.
 * [APBS](https://www.poissonboltzmann.org/) (3.0.0),[PDB2PQR](https://anaconda.org/schrodinger/pdb2pqr/) (2.1.1) and multivalue. These programs are necessary to compute electrostatics charges.  
     ***APBS*** can be obtained from this website: https://www.poissonboltzmann.org/. We have also prepared a Linux version of the binary software in the repository ([APBS-3.0.0.Linux](./APBS-3.0.0.Linux/)) in case you are unable to download it.   
-    ***multivalue*** can be found in the installation directory of APBS.
+    ***multivalue*** can be found in the installation directory of APBS.   
     ***PDB2PQR***  
     ```
     conda install schrodinger::pdb2pqr
