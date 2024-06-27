@@ -145,13 +145,14 @@ pip install networkx==2.5.1
 * [APBS](https://www.poissonboltzmann.org/) (3.0.0),[PDB2PQR](https://anaconda.org/schrodinger/pdb2pqr/) (2.1.1) and multivalue. These programs are necessary to compute electrostatics charges.  
 #APBS  
 APBS can be obtained from this website: https://www.poissonboltzmann.org/   
-We have also prepared a Linux version of the binary software in the repository in case you are unable to download it: [APBS-3.0.0.Linux](./APBS-3.0.0.Linux/)
+We have also prepared a Linux version of the binary software in the repository in case you are unable to download it: [APBS-3.0.0.Linux](./APBS-3.0.0.Linux/)   
 #PDB2PQR  
-```
-conda install schrodinger::pdb2pqr
-conda install schrodinger/label/archive::pdb2pqr
-```
-**Note**: multivalue can be found in the installation path of APBS.
+    ```
+    conda install schrodinger::pdb2pqr
+    conda install schrodinger/label/archive::pdb2pqr
+    ```
+#multivalue   
+multivalue can be found in the installation path of APBS.
 
 4.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
