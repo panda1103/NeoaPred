@@ -36,6 +36,7 @@ Two methods exist to run NeoaPred:
 1.Docker  
 2.Linux  
 ### Docker ####
+Download Docker image:
 ```
 docker pull panda1103/neoapred:1.0.0
 cmd=$(docker run -it -d panda1103/neoapred:1.0.0 /bin/bash)
@@ -52,6 +53,8 @@ docker exec -it $cmd bash
 ```
 run the work script in the container: 
 ```
+source ~/.bashrc
+conda activate neoa
 python /var/software/NeoaPred/run_NeoaPred.py  --input_file input.csv  --output_dir test_out --mode XXX
 ```
 Or, you may want to run program outside of the container:
