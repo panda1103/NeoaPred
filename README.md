@@ -53,13 +53,14 @@ docker exec -it $cmd bash
 ```
 run the work script in the container: 
 ```
+source ~/.bash_profile
 source ~/.bashrc
 conda activate neoa
 python /var/software/NeoaPred/run_NeoaPred.py  --input_file input.csv  --output_dir test_out --mode XXX
 ```
 Or, you may want to run program outside of the container:
 ```
-docker exec -it $cmd bash -c "source ~/.bashrc && conda activate neoa && python /var/software/NeoaPred/run_NeoaPred.py"
+docker exec -it $cmd bash -c "source ~/.bash_profile && source ~/.bashrc && conda activate neoa && python /var/software/NeoaPred/run_NeoaPred.py"
 ```
 When you complete your analysis, copy any desired output files off the container to your local machine with the docker cp command. Shut down and clean up your container like this:
 ```
