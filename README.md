@@ -46,8 +46,9 @@ Copy prepared input file to the container:
 ```
 docker cp input.csv  $cmd:/input.csv
 ```
+
+Input files example:
 ```
-#Input files example:
 ID,Allele,WT,Mut
 ID_0,A2402,ELKFVTLVF,KLKFVTLVF
 ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
