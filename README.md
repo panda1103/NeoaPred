@@ -221,7 +221,7 @@ For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_1.csv --output_dir test_out_1 --mode PepConf
 ```
-#Input files example: test_1.csv
+Input files example: test_1.csv
 ```
 ID,Allele,Pep
 id_0,A2402,ELKFVTLVF
@@ -232,7 +232,7 @@ or
 ```
 python run_NeoaPred.py --input_file test_2.csv --output_dir test_out_2 --mode PepConf
 ```
-#Input files example: test_2.csv
+Input files example: test_2.csv
 ```
 ID,Allele,WT,Mut
 ID_0,A2402,ELKFVTLVF,KLKFVTLVF
@@ -263,6 +263,13 @@ Output files:
 ```test2_out/Surface/Feat/*_si_ddc_dm.ply```(surface features of peptide)  
 ![Feature](img/features.png)
 ```test2_out/Foreignness/MhcPep_foreignness.csv```(foreignness score)
+```
+ID,Allele,WT,Mut,Foreignness_Score
+ID_0,A2402,ELKFVTLVF,KLKFVTLVF,0.00015244049427565187
+ID_1,A2402,RYTRRKNRQ,RYTRRKNRI,0.993889331817627
+ID_2,A1101,SSKYITFTK,SSKYVTFTK,0.00021008570911362767
+```
+In our tests, we considered samples with a Foreignness Score > 0.5 as candidate neoantigens.
 
 ## PyMOL plugin
 
