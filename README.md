@@ -46,7 +46,13 @@ Copy prepared input file to the container:
 ```
 docker cp input.csv  $cmd:/input.csv
 ```
-
+```
+#Input files example:
+ID,Allele,WT,Mut
+ID_0,A2402,ELKFVTLVF,KLKFVTLVF
+ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
+ID_2,A1101,SSKYITFTK,SSKYVTFTK
+```
 To run the program, you can enter the container:  
 ```
 docker exec -it $cmd bash
@@ -60,7 +66,7 @@ python /var/software/NeoaPred/run_NeoaPred.py  --input_file input.csv  --output_
 ```
 Or, you may want to run program outside of the container:
 ```
-docker exec -it $cmd bash -c "source ~/.bash_profile && source ~/.bashrc && conda activate neoa && python /var/software/NeoaPred/run_NeoaPred.py"
+docker exec -it $cmd bash -c "source ~/.bash_profile && source ~/.bashrc && conda activate neoa && python /var/software/NeoaPred/run_NeoaPred.py --input_file input.csv  --output_dir test_out --mode XXX"
 ```
 When you complete your analysis, copy any desired output files off the container to your local machine with the docker cp command. Shut down and clean up your container like this:
 ```
