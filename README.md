@@ -221,19 +221,19 @@ For peptide conformation prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_1.csv --output_dir test_out_1 --mode PepConf
 ```
-or   
-```
-python run_NeoaPred.py --input_file test_2.csv --output_dir test_out_2 --mode PepConf
-```
-Input file: ```test_1.csv``` or ```test_2.csv``` ('.csv' format)  
-```
 #Input files example: test_1.csv
+```
 ID,Allele,Pep
 id_0,A2402,ELKFVTLVF
 id_1,A2402,RYTRRKNRQ
 id_2,A1101,SSKYITFTK
-
+```
+or   
+```
+python run_NeoaPred.py --input_file test_2.csv --output_dir test_out_2 --mode PepConf
+```
 #Input files example: test_2.csv
+```
 ID,Allele,WT,Mut
 ID_0,A2402,ELKFVTLVF,KLKFVTLVF
 ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
@@ -252,9 +252,8 @@ For peptide foreignness score prediction, you can:
 ```
 python run_NeoaPred.py --input_file test_2.csv --output_dir test2_foreignness_score --mode PepFore
 ```
-Input file: ```test_2.csv``` (must contain two columns: 'WT' and 'Mut')  
+Input files example: test_2.csv (must contain two columns: 'WT' and 'Mut')  
 ```
-#Input files example: test_2.csv
 ID,Allele,WT,Mut
 ID_0,A2402,ELKFVTLVF,KLKFVTLVF
 ID_1,A2402,RYTRRKNRQ,RYTRRKNRI
