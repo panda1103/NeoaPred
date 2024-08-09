@@ -33,7 +33,7 @@ PepFore integrates the differences in surface features, spatial structure, and a
 
 ## Installation
 Two methods exist to run NeoaPred:  
-1.Docker  
+1.Docker (Recommended)  
 2.Linux  
 ### Docker ####
 Download Docker image:
@@ -174,7 +174,7 @@ pip install networkx==2.5.1
     conda install schrodinger::pdb2pqr
     ```
 
-4.After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
+After preinstalling dependencies, add the following environment variables to your path, changing the appropriate directories:
 
 ```
 export LD_LIBRARY_PATH=/path_to_conda3/lib:/path_to_apbs/lib/:$LD_LIBRARY_PATH
@@ -184,12 +184,14 @@ export MULTIVALUE_BIN=/path_to_apbs/share/apbs/tools/bin/multivalue
 export PDB2PQR_BIN=/path_to_conda3/envs/name/bin/pdb2pqr
 export MSMS_BIN=/path_to_msms/msms
 export PDB2XYZRN=/path_to_msms/pdb_to_xyzrn
+export REDUCE_HET_DICT=/path_to_reduce/reduce
 ```
 **Note**:  
 ```path_to_conda3``` is the installation directory of conda.  
 ```path_to_apbs``` is the installation directory of APBS.  
 ```/path_to_conda3/envs/name/bin/pdb2pqr``` is the installation path of pdb2pqr, which can be found in the environment directory within conda, e.g., "/var/software/miniconda3/envs/neoa/bin/pdb2pqr"  
 ```path_to_msms``` is the installation directory of MSMS.  
+```path_to_reduce```is the installation directory of reduce.  
 
 ## Usage
 ### NeoaPred  
