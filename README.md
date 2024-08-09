@@ -71,7 +71,7 @@ docker exec -it $cmd bash -c "source ~/.bash_profile && source ~/.bashrc && cond
 ```
 When you complete your analysis, copy any desired output files off the container to your local machine with the docker cp command. Shut down and clean up your container like this:
 ```
-docker cp $cmd:/test_out ~/test_out
+docker cp $cmd:/test_out ./
 docker stop $cmd
 docker rm $cmd
 
