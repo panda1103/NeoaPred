@@ -1,3 +1,4 @@
+import NeoaPred.masif_tools.default_config.global_vars
 import os
 import pandas as pd
 from NeoaPred.PepConf.utils.seq2pdb import seq2pdb
