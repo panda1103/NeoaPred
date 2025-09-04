@@ -1,0 +1,1019 @@
+ID	MhcChain	PepChain	MhcLen	PepLen	Header	Organism1	Gene1	Organism2	Gene2	Organism3	Gene3	PepSeq	pos
+1a1m	A	C	278	9	mhc class i molecule b*5301 complexed with peptide tpydinqml from gag protein of hiv2	homo sapiens	gag	homo sapiens	gag	human immunodeficiency virus 2		TPYDINQML	28
+1a1n	A	C	276	8	mhc class i molecule b*3501 complexed with peptide vplrpmty from the nef protein (75-82) of hiv1	homo sapiens	t7	homo sapiens	t7	human immunodeficiency virus 1		VPLRPMTY	28
+1a1o	A	C	276	9	mhc class i molecule b*5301 complexed with peptide ls6 (kpivqydnf) from the malaria parasite p. falciparum	homo sapiens	t7	homo sapiens	t7	human immunodeficiency virus 1		KPIVQYDNF	28
+1a9b	D	F	277	9	decamer-like conformation of a nano-peptide bound to hla- b3501 due to nonstandard positioning of the c-terminus	homo sapiens		homo sapiens				LPPLDITPY	28
+1a9e	A	C	277	9	decamer-like conformation of a nano-peptide bound to hla- b3501 due to nonstandard positioning of the c-terminus	homo sapiens		homo sapiens				LPPLDITPY	28
+1agb	A	C	276	8	antagonist hiv-1 gag peptides induce structural changes in hla b8-hiv-1 gag peptide (ggrkkykl-3r mutation)	homo sapiens	gag	homo sapiens	gag	human immunodeficiency virus 1		GGRKKYKL	28
+1agc	A	C	276	8	antagonist hiv-1 gag peptides induce structural changes in hla b8-hiv-1 gag peptide (ggkkkyql-7q mutation)	homo sapiens	gag	homo sapiens	gag	human immunodeficiency virus 1		GGKKKYQL	28
+1agd	A	C	276	8	antagonist hiv-1 gag peptides induce structural changes in hla b8-hiv-1 gag peptide (ggkkkykl-index peptide)	homo sapiens	gag	homo sapiens	gag	human immunodeficiency virus 1		GGKKKYKL	28
+1age	A	C	276	8	antagonist hiv-1 gag peptides induce structural changes in hla b8-hiv-1 gag peptide (ggkkkyrl-7r mutation)	homo sapiens	gag	homo sapiens	gag	human immunodeficiency virus 1		GGKKKYRL	28
+1agf	A	C	276	8	antagonist hiv-1 gag peptides induce structural changes in hla b8-hiv-1 gag peptide (ggkkrykl-5r mutation)	homo sapiens	gag	homo sapiens	gag	human immunodeficiency virus 1		GGKKRYKL	28
+1akj	A	C	276	9	complex of the human mhc class i glycoprotein hla-a2 and the t cell coreceptor cd8	homo sapiens	beta-2-microglobulin	homo sapiens	beta-2-microglobulin	human immunodeficiency virus		ILKEPVHGV	28
+1ao7	A	C	274	9	complex between human t-cell receptor, viral peptide (tax), and hla-a 0201	homo sapiens	hla-a 0201	homo sapiens	v beta 12.3 [bv13s1] - d beta 2.1 - j beta 2.1 -	human t-lymphotropic virus 1		LLFGYPVYV	28
+1b0g	D	F	275	9	class i histocompatibility antigen (hla-a2.1)/beta 2- microglobulin/peptide p1049 complex	homo sapiens		homo sapiens				ALWGFFPVL	28
+1bii	A	P	274	10	the crystal structure of h-2dd mhc class i in complex with the hiv-1 derived peptide p18-110	mus musculus		mus musculus				RGPGRAFVTI	28
+1bz9	A	C	273	9	crystal structure of murine class i mhc h2-db complexed with a synthetic peptide p1027	mus musculus		mus musculus				FAPGVFPYM	27
+1ce6	A	C	274	9	mhc class i h-2db complexed with a sendai virus nucleoprotein peptide	mus musculus		homo sapiens				FAPGNYPAL	28
+1cg9	A	C	277	9	complex recognition of the supertypic bw6-determinant on hla-b and-c molecules by the monoclonal antibody sfr8-b6	homo sapiens		homo sapiens				LPPLDITPY	28
+1ddh	A	P	274	10	mhc class i h-2dd heavy chain complexed with beta-2 microglobulin and an immunodominant peptide p18-i10 from the human immunodeficiency virus envelope glycoprotein 120	mus musculus		mus musculus		human immunodeficiency virus 1		RGPGRAFVTI	28
+1duy	D	F	275	8	crystal structure of hla-a*0201/octameric tax peptide complex	homo sapiens		homo sapiens				LFGYPVYV	28
+1duz	D	F	275	9	human class i histocompatibility antigen (hla-a 0201) in complex with a nonameric peptide from htlv-1 tax protein	homo sapiens		homo sapiens				LLFGYPVYV	28
+1e27	A	C	276	9	nonstandard peptide binding of hla-b*5101 complexed with hiv immunodominant epitope km1(lppvvakei)	homo sapiens		homo sapiens		human immunodeficiency virus type 1		LPPVVAKEI	28
+1e28	A	C	276	8	nonstandard peptide binding of hla-b*5101 complexed with hiv immunodominant epitope km2(taftipsi)	homo sapiens		homo sapiens		human immunodeficiency virus type 1		TAFTIPSI	28
+1ed3	D	F	275	13	crystal structure of rat minor histocompatibility antigen complex rt1- aa/mtf-e.	rattus norvegicus		rattus norvegicus				ILFPSSERLISNR	28
+1eey	D	F	275	9	crystal structure determination of hla a2 complexed to peptide gp2 with the substitution (i2l/v5l/l9v)	homo sapiens		homo sapiens				ILSALVGIV	28
+1eez	D	F	275	9	crystal structure determination of hla-a2.1 complexed to gp2 peptide variant(i2l/v5l)	homo sapiens		homo sapiens				ILSALVGIL	28
+1efx	A	C	278	9	structure of a complex between the human natural killer cell receptor kir2dl2 and a class i mhc ligand hla-cw3	homo sapiens		homo sapiens				GAVDPLLAL	28
+1ffn	D	F	273	9	crystal structure of murine class i h-2db complexed with peptide gp33(c9m)	mus musculus		mus musculus				KAVYNFATM	27
+1ffo	D	F	273	9	crystal structure of murine class i h-2db complexed with synthetic peptide gp33 (c9m/k1a)	mus musculus		mus musculus				AAVYNFATM	27
+1ffp	D	F	273	9	crystal structure of murine class i h-2db complexed with peptide gp33 (c9m/k1s)	mus musculus		mus musculus				SAVYNFATM	27
+1fg2	J	L	273	9	crystal structure of the lcmv peptidic epitope gp33 in complex with the murine class i mhc molecule h-2db	mus musculus		mus musculus				KAVYNFATC	27
+1fzj	A	P	273	8	mhc class i natural mutant h-2kbm1 heavy chain complexed with beta-2 microglobulin and vesicular stomatitis virus nucleoprotein	mus musculus		mus musculus				RGYVYQGL	28
+1fzk	A	P	273	9	mhc class i natural mutant h-2kbm1 heavy chain complexed with beta-2 microglobulin and sendai virus nucleoprotein	mus musculus		mus musculus				FAPGNYPAL	28
+1fzm	A	P	273	8	mhc class i natural mutant h-2kbm8 heavy chain complexed with beta-2 microglobulin and vesicular stomatitis virus nucleoprotein	mus musculus		mus musculus				RGYVYQGL	28
+1fzo	A	P	273	9	mhc class i natural mutant h-2kbm8 heavy chain complexed with beta-2 microglobulin and sendai virus nucleoprotein	mus musculus		mus musculus				FAPGNYPAL	28
+1g6r	I	Q	274	8	a functional hot spot for antigen recognition in a superagonist tcr/mhc complex	mus musculus		mus musculus		mus musculus		SIYRYYGL	28
+1g7p	A	P	274	9	crystal structure of mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and yeast alpha-glucosidase	mus musculus		mus musculus				SRDHSRTPM	28
+1g7q	A	P	274	8	crystal structure of mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and muc1 vntr peptide sapdtrpa	mus musculus		mus musculus				SAPDTRPA	28
+1hhg	D	F	275	9	the antigenic identity of peptide(slash)mhc complexes: a comparison of the conformation of five peptides presented by hla-a2	homo sapiens	beta-2-microglobulin	homo sapiens	beta-2-microglobulin	human immunodeficiency virus 1		TLTSCNTSV	28
+1hhh	A	C	275	10	the antigenic identity of peptide(slash)mhc complexes: a comparison of the conformation of five peptides presented by hla-a2	homo sapiens	beta-2-microglobulin	homo sapiens	beta-2-microglobulin	hepatitis b virus		FLPSDFFPSV	28
+1hhi	D	F	275	9	the antigenic identity of peptide(slash)mhc complexes: a comparison of the conformation of five peptides presented by hla-a2	homo sapiens	beta-2-microglobulin	homo sapiens	beta-2-microglobulin	influenza a virus		GILGFVFTL	28
+1hhj	D	F	275	9	the antigenic identity of peptide(slash)mhc complexes: a comparison of the conformation of five peptides presented by hla-a2	homo sapiens	beta-2-microglobulin	homo sapiens	beta-2-microglobulin	human immunodeficiency virus 1		ILKEPVHGV	28
+1hhk	D	F	275	9	the antigenic identity of peptide(slash)mhc complexes: a comparison of the conformation of five peptides presented by hla-a2	homo sapiens	beta-2-microglobulin	homo sapiens	beta-2-microglobulin	human t-lymphotropic virus 1		LLFGYPVYV	28
+1hoc	A	C	272	9	the three-dimensional structure of h-2db at 2.4 angstroms resolution: implications for antigen-determinant selection	mus musculus		mus musculus		influenza a virus (a/swine/hongkong/126/82(h3n2)) 		ASNENMETM	28
+1hsa	D	F	276	9	the three-dimensional structure of hla-b27 at 2.1 angstroms resolution suggests a general mechanism for tight peptide binding to mhc	homo sapiens		homo sapiens				ARAAAAAAA	28
+1i1f	D	F	275	9	crystal structure of human class i mhc (hla-a2.1) complexed with beta 2-microglobulin and hiv-rt variant peptide i1y	homo sapiens		homo sapiens				FLKEPVHGV	28
+1i1y	D	F	275	9	crystal structure of human class i mhc (hla-a2.1) complexed with beta 2-microglobulin and hiv-rt variant peptide i1y	homo sapiens		homo sapiens				YLKEPVHGV	28
+1i4f	A	C	275	10	crystal structure of hla-a*0201/mage-a4-peptide complex	homo sapiens	hla-a	homo sapiens	b2m			GVYDGREHTV	28
+1i7r	D	F	275	9	crystal structure of class i mhc a2 in complex with peptide p1058	homo sapiens	hlaa	homo sapiens	b2m			FAPGFFPYL	28
+1i7t	D	F	275	9	crystal structure of class i mhc a2 in complex with peptide p1049-5v	homo sapiens	hlaa	homo sapiens	b2m			ALWGVFPVL	28
+1i7u	D	F	275	9	crystal structure of class i mhc a2 in complex with peptide p1049-6v	homo sapiens	hlaa	homo sapiens	b2m			ALWGFVPVL	28
+1im3	M	O	275	9	crystal structure of the human cytomegalovirus protein us2 bound to the mhc class i molecule hla-a2/tax	homo sapiens	hla-a2	homo sapiens	beta 2-microglobulin			LLFGYPVYV	28
+1im9	E	G	275	9	crystal structure of the human natural killer cell inhibitory receptor kir2dl1 bound to its mhc ligand hla-cw4	homo sapiens		homo sapiens				QYDDAVYKL	28
+1inq	A	C	275	9	structure of minor histocompatibility antigen peptide, h13a, complexed to h2-db	mus musculus	h2-db	mus musculus	b2m			SSVVGVWYL	28
+1jf1	A	C	273	10	crystal structure of hla-a2*0201 in complex with a decameric altered peptide ligand from the mart-1/melan-a	homo sapiens		homo sapiens				ELAGIGILTV	28
+1jgd	A	C	276	10	hla-b*2709 bound to deca-peptide s10r	homo sapiens	hla-b or hlab	homo sapiens	b2m			RRLLRGHNQY	28
+1jge	A	C	276	9	hla-b*2705 bound to nona-peptide m9	homo sapiens	hla-b or hlab	homo sapiens	b2m			GRFAAAIAK	28
+1jht	A	C	273	9	crystal structure of hla-a2*0201 in complex with a nonameric altered peptide ligand (algigiltv) from the mart- 1/melan-a.	homo sapiens		homo sapiens				ALGIGILTV	28
+1jpf	A	C	275	11	crystal structure of the lcmv peptidic epitope gp276 in complex with the murine class i mhc molecule h-2db	mus musculus		mus musculus				SGVENPGGYCL	27
+1jpg	A	C	275	9	crystal structure of the lcmv peptidic epitope np396 in complex with the murine class i mhc molecule h-2db	mus musculus		mus musculus				FQPQNGQFI	27
+1juf	A	C	276	9	structure of minor histocompatibility antigen peptide, h13b, complexed to h2-db	mus musculus	h2-d	mus musculus	beta-2-microglobulin	mus musculus		SSVIGVWYL	28
+1k5n	A	C	276	9	hla-b*2709 bound to nona-peptide m9	homo sapiens	hla-b or hlab	homo sapiens	b2m			GRFAAAIAK	28
+1k8d	A	P	274	9	crystal structure of the non-classical mhc class ib qa-2 complexed with a self peptide	mus musculus	q9	mus musculus				ILMEHIHKL	28
+1kbg	H	P	274	7	mhc class i h-2kb presented glycopeptide rgy8-6h-gal2	mus musculus		mus musculus				RGYVYGL	28
+1kj3	I	Q	278	8	mhc class i h-2kb molecule complexed with pkb1 peptide	mus musculus				mus musculus		KVITFIDL	28
+1kjm	A	P	277	9	tap-a-associated rat mhc class i molecule	rattus norvegicus		rattus norvegicus				AQFSASASR	28
+1kjv	A	P	276	9	tap-b-associated rat mhc class i molecule	rattus norvegicus		rattus norvegicus				NPRAMQALL	28
+1kpr	C	Q	274	9	the human non-classical major histocompatibility complex molecule hla- e	homo sapiens	hla-e	homo sapiens	b2m			VMAPRTVLL	28
+1kpu	A	P	274	8	high resolution crystal structure of the mhc class i complex h- 2kb/vsv8	mus musculus		mus musculus				RGYVYQGL	28
+1kpv	A	P	274	9	high resolution crystal structure of the mhc class i complex h- 2kb/sev9	mus musculus		mus musculus				FAPGNYPAL	28
+1ktl	C	Q	274	9	the human non-classical major histocompatibility complex molecule hla- e	homo sapiens	hla-e	homo sapiens	b2m			VTAPRTLLL	28
+1ld9	D	F	268	9	the three-dimensional structure of an h-2ld peptide complex explains the unique interaction of ld with beta2m and peptide	mus musculus		mus musculus				YPNVNIHNF	28
+1ldp	H	Q	272	9	crystal structure of murine mhc class i h-2ld with a mixture of bound peptides	mus musculus	h-2ld	mus musculus	h-2ld	drosophila melanogaster		QLSPFPFDL	28
+1leg	A	P	273	8	crystal structure of h-2kb bound to the dev8 peptide	mus musculus		mus musculus				EQYKFYSV	28
+1lek	A	P	273	8	crystal structure of h-2kbm3 bound to dev8	mus musculus		mus musculus				EQYKFYSV	28
+1lk2	A	P	274	8	1.35a crystal structure of h-2kb complexed with the gnysfyal peptide	mus musculus		mus musculus				GNYSFYAL	28
+1lp9	H	J	275	9	xenoreactive complex ahiii 12.2 tcr bound to p1049/hla-a2.1	homo sapiens	hla-a*0201	homo sapiens	b2m			ALWGFFPVL	28
+1m05	C	F	269	9	hla b8 in complex with an epstein barr virus determinant	homo sapiens		homo sapiens				FLRGRAYGL	28
+1m6o	A	C	276	9	crystal structure of hla b*4402 in complex with hla dpa*0201 peptide	homo sapiens		homo sapiens				EEFGRAFSF	28
+1mhc	D	F	276	8	model of mhc class i h2-m3 with nonapeptide from rat nd1 refined at 2.3 angstroms resolution	mus musculus	h2-m3 b2m	mus musculus	h2-m3 b2m	rattus rattus		YFINILTL	28
+1mwa	I	Q	274	8	2c/h-2kbm3/dev8 allogeneic complex	mus musculus		mus musculus		mus musculus		EQYKFYSV	28
+1n2r	A	C	276	9	a natural selected dimorphism in hla b*44 alters self, peptide reportoire and t cell recognition.	homo sapiens	hla-b or hlab	homo sapiens	b2m			EEFGRAFSF	28
+1n3n	G	L	276	10	crystal structure of a mycobacterial hsp60 epitope with the murine class i mhc molecule h-2db	mus musculus		mus musculus				SALQNAASIA	28
+1n5a	J	L	273	9	crystal structure of the murine class i major histocompatibility complex of h-2db, b2-microglobulin, and a 9-residue immunodominant peptide epitope gp33 derived from lcmv	mus musculus	h2-d	mus musculus	b2m			KAVYNFATM	27
+1of2	A	C	276	9	crystal structure of hla-b*2709 complexed with the vasoactive intestinal peptide type 1 receptor (vipr) peptide (residues 400-408)	homo sapiens		homo sapiens		homo sapiens		RRKWRRWHL	28
+1oga	A	C	276	9	a structural basis for immunodominant human t-cell receptor recognition.	homo sapiens		homo sapiens		homo sapiens		GILGFVFTL	28
+1ogt	A	C	276	9	crystal structure of hla-b*2705 complexed with the vasoactive intestinal peptide type 1 receptor (vipr) peptide (residues 400-408)	homo sapiens		homo sapiens		homo sapiens		RRKWRRWHL	28
+1osz	A	C	274	8	mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and an (l4v) mutant of the vesicular stomatitis virus nucleoprotein	mus musculus	h-2b beta2m	mus musculus	h-2b beta2m			RGYLYQGL	28
+1p7q	A	C	276	9	crystal structure of hla-a2 bound to lir-1, a host and viral mhc receptor	homo sapiens	hla-a or hlaa	homo sapiens	b2m			ILKEPVHGV	28
+1q94	D	F	275	9	structures of hla-a*1101 in complex with immunodominant nonamer and decamer hiv-1 epitopes clearly reveal the presence of a middle anchor residue	homo sapiens	hla-a or hlaa	homo sapiens	b2m	human immunodeficiency virus type 1 group msubtype d (isolate z2/cdc-z34) (hiv-1) 		AIFQSSMTK	28
+1qew	A	C	275	9	human class i histocompatibility antigen (hla-a 0201) complex with a nonameric peptide from melanoma-associated antigen 3 (residues 271- 279)	homo sapiens		homo sapiens		homo sapiens		FLWGPRALV	28
+1qlf	A	C	276	9	mhc class i h-2db complexed with glycopeptide k3g	mus musculus		homo sapiens		sendai virus		FAPSNYPAL	28
+1qqd	A	C	273	9	crystal structure of hla-cw4, a ligand for the kir2d natural killer cell inhibitory receptor	homo sapiens		homo sapiens				QYDDAVYKL	27
+1qr1	D	F	275	9	poor binding of a her-2/neu epitope (gp2) to hla-a2.1 is due to a lack of interactions in the center of the peptide	homo sapiens		homo sapiens				IISAVVGIL	28
+1qrn	A	C	274	9	crystal structure of human a6 tcr complexed with hla-a2 bound to altered htlv-1 tax peptide p6a	homo sapiens		homo sapiens				LLFGYAVYV	28
+1qse	A	C	274	9	structure of human a6-tcr bound to hla-a2 complexed with altered htlv- 1 tax peptide v7r	homo sapiens		homo sapiens				LLFGYPRYV	28
+1qsf	A	C	274	9	structure of a6-tcr bound to hla-a2 complexed with altered htlv-1 tax peptide y8a	homo sapiens		homo sapiens				LLFGYPVAV	28
+1qvo	D	F	275	10	structures of hla-a*1101 in complex with immunodominant nonamer and decamer hiv-1 epitopes clearly reveal the presence of a middle anchor residue	homo sapiens	hla-a or hlaa	homo sapiens	b2m	human immunodeficiency virus 1		QVPLRPMTYK	28
+1rjy	D	Q	278	8	mhc class i natural mutant h-2kbm8 heavy chain complexed with beta-2 microglobulin and herpes simplex virus glycoprotein b peptide	mus musculus	h2-k	mus musculus	b2m	herpes simplex virus		SSIEFARL	28
+1rjz	D	Q	278	8	mhc class i natural mutant h-2kbm8 heavy chain complexed with beta-2 microglobulin and herpies simplex virus mutant glycoprotein b peptide	mus musculus	h2-k	mus musculus	b2m			SEIEFARL	28
+1rk0	A	P	274	8	mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and herpes simplex virus glycoprotein b peptide	mus musculus	h2-k	mus musculus	b2m			SSIEFARL	28
+1rk1	A	P	274	8	mhc class i natural h-2kb heavy chain complexed with beta-2 microglobulin and herpes simplex virus mutant glycoprotein b peptide	mus musculus	h2-k	mus musculus	b2m			SEIEFARL	28
+1s7r	D	F	276	9	crystal structures of the murine class i major histocompatibility complex h-2kb in complex with lcmv-derived gp33 index peptide and three of its escape variants	mus musculus	h2-k	mus musculus	b2m			KAVYNLATM	28
+1s7u	J	L	273	9	crystal structures of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 index peptide and three of its escape variants	mus musculus	h2-d1	mus musculus	b2m			KAVYNFATM	27
+1s7w	J	L	276	9	crystal structures of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 index peptide and three of its escape variants	mus musculus	h2-d1	mus musculus	b2m			KALYNFATM	28
+1s7x	J	L	276	9	crystal structures of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 index peptide and three of its escape variants	mus musculus	h2-d1	mus musculus	b2m			KAVFNFATM	28
+1s8d	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9-3a	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLANTVATL	28
+1s9w	A	C	274	9	crystal structure analysis of ny-eso-1 epitope, sllmwitqc, in complex with hla-a2	homo sapiens		homo sapiens				SLLMWITQC	28
+1s9x	A	C	274	9	crystal structure analysis of ny-eso-1 epitope analogue, sllmwitqa, in complex with hla-a2	homo sapiens		homo sapiens				SLLMWITQA	28
+1s9y	A	C	274	9	crystal structure analysis of ny-eso-1 epitope analogue, sllmwitqs, in complex with hla-a2	homo sapiens		homo sapiens				SLLMWITQS	28
+1sys	A	C	276	9	crystal structure of hla, b*4403, and peptide eeptvikky	homo sapiens	hla-b, hlab	homo sapiens	b2m			EEPTVIKKY	28
+1syv	A	C	276	9	hla-b*4405 complexed to the dominant self ligand eefgraygf	homo sapiens	hla-b, hlab	homo sapiens	b2m			EEFGRAFSF	28
+1t0n	D	Q	278	8	conformational switch in polymorphic h-2k molecules containing an hsv peptide	mus musculus		mus musculus				SSIEFARL	28
+1t1w	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9-3f6i8v	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLFNTIAVL	28
+1t1x	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9-4l	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLYLTVATL	28
+1t1y	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9-5v	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLYNVVATL	28
+1t1z	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9-6a	homo sapiens	hla-a, hlaa	homo sapiens	b2m			ALYNTAAAL	28
+1t20	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9-6i	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLYNTIATL	28
+1t21	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9, monoclinic crystal	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLYNTVATL	28
+1t22	A	C	275	9	structural basis for degenerate recognition of hiv peptide variants by cytotoxic lymphocyte, variant sl9, orthorhombic crystal	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLYNTVATL	28
+1tvb	D	F	275	9	crystal structure of melanoma antigen gp100(209-217) bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m			ITDQVPFSV	28
+1tvh	D	F	275	9	crystal structure of modified melanoma antigen gp100(209-t2m) bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m			IMDQVPFSV	28
+1uxs	A	C	276	9	crystal structure of hla-b*2705 complexed with the latent membrane protein 2 peptide (lmp2)of epstein-barr virus	homo sapiens		homo sapiens		epstein-barr virus		RRRWRRLTV	28
+1uxw	A	C	276	9	crystal structure of hla-b*2709 complexed with the latent membrane protein 2 peptide (lmp2) of epstein-barr virus	homo sapiens		homo sapiens		human herpesvirus 4		RRRWRRLTV	28
+1vac	A	P	274	8	mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and chicken ovalbumin	mus musculus	beta-2-microglobulin	mus musculus	beta-2-microglobulin	gallus gallus		SIINFEKL	28
+1vad	A	P	274	9	mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and yeast alpha-glucosidase	mus musculus	beta-2-microglobulin	mus musculus	beta-2-microglobulin	saccharomyces cerevisiae		SRDHSRTPM	28
+1vgk	A	C	274	9	the crystal structure of class i major histocompatibility complex, h-2kd at 2.0 a resolution	mus musculus		homo sapiens				SYVNTNMGL	28
+1w0v	A	C	276	9	crystal structure of hla-b*2705 complexed with the self-peptide tis from egf-response factor 1	homo sapiens		homo sapiens		homo sapiens		RRLPIFSRL	28
+1w0w	A	C	276	9	crystal structure of hla-b*2709 complexed with the self-peptide tis from egf-response factor 1	homo sapiens		homo sapiens		homo sapiens		RRLPIFSRL	28
+1w72	D	F	274	9	crystal structure of hla-a1:mage-a1 in complex with fab- hyb3	homo sapiens		homo sapiens		homo sapiens		EADPTGHSY	28
+1wbx	A	C	275	10	crystal structures of murine mhc class i h-2 db and kb molecules in complex with ctl epitopes from influenza a virus: implications for tcr repertoire selection and immunodominance	mus musculus		mus musculus		influenza a virus		SQLKNNAKEI	27
+1wby	A	C	275	10	crystal structures of murine mhc class i h-2 db and kb molecules in complex with ctl epitopes from influenza a virus: implications for tcr repertoire selection and immunodominance	mus musculus		mus musculus		influenza a virus		SSLENFRAYV	27
+1wbz	C	Q	275	9	crystal structures of murine mhc class i h-2 db and kb molecules in complex with ctl epitopes from influenza a virus: implications for tcr repertoire selection and immunodominance	mus musculus		mus musculus		influenza a virus		SSYRRPVGI	28
+1x7q	A	C	275	9	crystal structure of hla-a*1101 with sars nucleocapsid peptide	homo sapiens		homo sapiens				KTFPPTEPK	28
+1xh3	A	C	276	14	conformational restraints and flexibility of 14-meric peptides in complex with hla-b*3501	homo sapiens	hla-b, hlab	homo sapiens	b2m			LPAVVGLSPGEQEY	28
+1xr8	A	C	276	9	crystal structures of hla-b*1501 in complex with peptides from human ubch6 and epstein-barr virus ebna-3	homo sapiens	hla-bw62.1	homo sapiens	b2m			LEKARGSTY	28
+1xr9	A	C	276	9	crystal structures of hla-b*1501 in complex with peptides from human ubch6 and epstein-barr virus ebna-3	homo sapiens	hla-bw62.1	homo sapiens	b2m			ILGPPGSVY	28
+1ydp	A	P	275	9	1.9a crystal structure of hla-g	homo sapiens		homo sapiens		synthetic construct		RIIPRHLQL	27
+1yn6	A	C	273	10	crystal structure of a mouse mhc class i protein, h2-db, in complex with a peptide from the influenza a acid polymerase	mus musculus		mus musculus				SSLENFRAYV	27
+1yn7	A	C	273	10	crystal structure of a mouse mhc class i protein, h2-db, in complex with a mutated peptide (r7a) of the influenza a acid polymerase	mus musculus		mus musculus				SSLENFAAYV	27
+1zhb	J	L	273	9	crystal structure of the murine class i major histocompatibility complex of h-2db, b2-microglobulin, and a 9-residue peptide derived from rat dopamine beta-monooxigenase	mus musculus	h2-d	mus musculus	b2m	rattus norvegicus		KALYNYAPI	27
+1zhk	A	C	276	13	crystal structure of hla-b*3501 presenting 13-mer ebv antigen lpeplpqgqltay	homo sapiens		homo sapiens				LPEPLPQGQLTAY	28
+1zhl	A	C	276	13	crystal structure of hla-b*3508 presenting 13-mer ebv antigen lpeplpqgqltay	homo sapiens		homo sapiens				LPEPLPQGQLTAY	28
+1zsd	A	C	276	11	crystal structure of hla-b*3501 presenting an 11-mer ebv antigen eplpqgqltay	homo sapiens	hla-b, hlab	homo sapiens	b2m			EPLPQGQLTAY	28
+1zt1	A	P	273	8	crystal structure of class i mhc h-2kk in complex with an octapeptide	mus musculus		mus musculus				FEANGNLI	29
+1zt7	C	Q	275	9	crystal structure of class i mhc h-2kk in complex with a nonapeptide	mus musculus		mus musculus				SEFLLEKRI	28
+1zvs	D	F	278	8	crystal structure of the first class mhc mamu and tat-tl8 complex	macaca mulatta		homo sapiens				TTPESANL	28
+2a83	A	C	276	9	crystal structure of hla-b*2705 complexed with the glucagon receptor (gr) peptide (residues 412-420)	homo sapiens	hla-b, hlab	homo sapiens	b2m			RRRWHRWRL	28
+2ak4	Q	S	276	13	crystal structure of sb27 tcr in complex with hla-b*3508- 13mer peptide	homo sapiens		homo sapiens				LPEPLPQGQLTAY	28
+2av1	D	F	275	9	crystal structure of htlv-1 tax peptide bound to human class i mhc hla-a2 with the e63q and k66a mutations in the heavy chain.	homo sapiens	hla-a, hlaa	homo sapiens	b2m	human t-cell leukemia virus 1 (isolate caribbeahs-35 subtype a) 		LLFGYPVYV	28
+2av7	D	F	275	9	crystal structure of htlv-1 tax peptide bound to human class i mhc hla-a2 with the k66a mutation in the heavy chain.	homo sapiens	hla-a, hlaa	homo sapiens	b2m	human t-cell leukemia virus 1 (isolate caribbeahs-35 subtype a) 		LLFGYPVYV	28
+2axf	A	C	276	10	the immunogenicity of a viral cytotoxic t cell epitope is controlled by its mhc-bound conformation	homo sapiens		homo sapiens				APQPAPENAY	28
+2axg	A	C	276	10	the immunogenicity of a viral cytotoxic t cell epitope is controlled by its mhc-bound conformation	homo sapiens		homo sapiens				APQPAPENAY	28
+2bck	D	F	286	9	crystal structure of hla-a*2402 complexed with a telomerase peptide	homo sapiens		homo sapiens				VYGFVRACL	28
+2bnq	A	C	276	9	structural and kinetic basis for heightened immunogenicity of t cell vaccines	homo sapiens		homo sapiens		homo sapiens		SLLMWITQV	28
+2bnr	A	C	276	9	structural and kinetic basis for heightened immunogenicity of t cell vaccines	homo sapiens		homo sapiens		homo sapiens		SLLMWITQC	28
+2bsr	A	C	276	9	crystal structures and kir3dl1 recognition of three immunodominant viral peptides complexed to hla-b2705	homo sapiens		homo sapiens		human herpesvirus 4		RRIYDLIEL	28
+2bss	A	C	276	10	crystal structures and kir3dl1 recognition of three immunodominant viral peptides complexed to hla-b2705	homo sapiens		homo sapiens		human immunodeficiency virus		KRWIILGLNK	28
+2bst	A	C	276	9	crystal structures and kir3dl1 recognition of three immunodominant viral peptides complexed to hla-b2705	homo sapiens		homo sapiens		influenza a virus		SRYWAIRTR	28
+2bvo	A	C	275	11	structures of three hiv-1 hla-b5703-peptide complexes and identification of related hlas potentially associated with long-term non-progression	homo sapiens		homo sapiens		human immunodeficiency virus 1		KAFSPEVIPMF	28
+2bvp	A	C	274	9	structures of three hiv-1 hla-b5703-peptide complexes and identification of related hlas potentially associated with long-term non-progression	homo sapiens		homo sapiens		human immunodeficiency virus		ISPRTLDAW	28
+2c7u	D	F	275	9	conflicting selective forces affect cd8 t-cell receptor contact sites in an hla-a2 immunodominant hiv epitope.	homo sapiens		homo sapiens		human immunodeficiency virus 1		SLFNTIAVL	28
+2cik	A	C	276	9	insights into crossreactivity in human allorecognition: the structure of hla-b35011 presenting an epitope derived from cytochrome p450.	homo sapiens		homo sapiens		homo sapiens		KPIVVLHGY	28
+2ckb	I	Q	274	8	structure of the 2c/kb/dev8 complex	mus musculus		mus musculus		mus musculus		EQYKFYSV	28
+2clr	D	F	275	10	three dimensional structure of a peptide extending out one end of a class i mhc binding site	homo sapiens	beta-2-microglobulin	homo sapiens	beta-2-microglobulin	homo sapiens		MLLSVPLLLG	28
+2clv	H	M	279	8	mhc class i natural mutant h-2kbm8 heavy chain complexed with beta-2 microglobulin and pbm8 peptide	mus musculus		mus musculus		mus musculus		SQYYYNSL	28
+2clz	H	M	279	8	mhc class i natural mutant h-2kbm8 heavy chain complexed with beta-2 microglobulin and pbm1 peptide	mus musculus		mus musculus		mus musculus		INFDFNTI	28
+2d31	D	F	262	9	crystal structure of disulfide-linked hla-g dimer	homo sapiens		homo sapiens		homo sapiens		RIIPRHLQL	28
+2esv	A	P	268	9	structure of the hla-e-vmaprtlil/kk50.4 tcr complex	homo sapiens		homo sapiens				VMAPRTLIL	27
+2f53	A	C	275	9	directed evolution of human t-cell receptor cdr2 residues by phage display dramatically enhances affinity for cognate peptide-mhc without apparent cross-reactivity	homo sapiens		homo sapiens				SLLMWITQC	28
+2f54	F	H	274	9	directed evolution of human t cell receptor cdr2 residues by phage display dramatically enhances affinity for cognate peptide-mhc without increasing apparent cross-reactivity	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLLMWITQC	28
+2f74	D	F	276	9	murine mhc class i h-2db in complex with human b2-microglobulin and lcmv-derived immunodminant peptide gp33	mus musculus	h2-d1	homo sapiens	b2m			KAVYNFATM	28
+2fo4	A	P	274	8	enhanced mhc class i binding and immune responses through anchor modification of the non-canonical tumor associated muc1-8 peptide	mus musculus		mus musculus				SAPDFRPL	28
+2fwo	A	P	275	9	mhc class i h-2kd heavy chain in complex with beta-2microglobulin and peptide derived from influenza nucleoprotein	mus musculus	h2-k1, h2-k	mus musculus	b2m			TYQRTRALV	28
+2fz3	A	C	276	11	the role of t cell receptor alpha genes in directing human mhc restriction	homo sapiens		homo sapiens				HPVGEADYFEY	28
+2git	D	F	275	9	human class i mhc hla-a2 in complex with the modified htlv-1 tax (y5k- 4-[3-indolyl]-butyric acid) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m			LLFGKPVYV	28
+2gj6	A	C	275	9	the complex between tcr a6 and human class i mhc hla-a2 with the modified htlv-1 tax (y5k-4-[3-indolyl]-butyric acid) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m			LLFGKPVYV	28
+2gt9	D	F	275	10	human class i mhc hla-a2 in complex with the decameric melan-a/mart- 1(26-35) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m			EAAGIGILTV	28
+2gtw	D	F	275	9	human class i mhc hla-a2 in complex with the nonameric melan-a/mart- 1(27-35) peptide having a27l substitution	homo sapiens	hla-a	homo sapiens	b2m			LAGIGILTV	28
+2gtz	D	F	275	9	human class i mhc hla-a2 in complex with the nonameric melan-a/mart- 1(27-35) peptide having a28l substitution	homo sapiens	hla-a	homo sapiens	b2m			ALGIGILTV	28
+2guo	D	F	275	9	human class i mhc hla-a2 in complex with the native nonameric melan- a/mart-1(27-35) peptide	homo sapiens	hla-a	homo sapiens	b2m			AAGIGILTV	28
+2h6p	A	C	276	9	crystal structure of hla-b*3501 presenting the human cytochrome p450 derived peptide, kpivvlhgy	homo sapiens		homo sapiens				KPIVVLHGY	28
+2hjk	A	C	274	11	crystal structure of hla-b5703 and hiv-1 peptide	homo sapiens		homo sapiens				KGFNPEVIPMF	28
+2hjl	A	C	274	11	crystal structure of hla-b5703 and hiv-1 peptide	homo sapiens		homo sapiens				KAFNPEIIPMF	28
+2hn7	A	C	274	10	hla-a*1101 in complex with hbv peptide homologue	homo sapiens	hla-a, hlaa	homo sapiens	b2m			AIMPARFYPK	28
+2j8u	H	J	275	9	large cdr3a loop alteration as a function of mhc mutation.	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALWGFFPVL	28
+2jcc	H	J	275	9	ah3 recognition of mutant hla-a2 w167a	homo sapiens		homo sapiens		homo sapiens		ALWGFFPVL	28
+2mha	C	F	270	8	crystal structure of the major histocompatibility complex class i h- 2kb molecule containing a single viral peptide: implications for peptide binding and t-cell receptor recognition	mus musculus		mus musculus		vesicular stomatitis virus		RGYVYQGL	28
+2nw3	A	C	276	11	crystal structure of hla-b*3508 presenting ebv peptide eplpqgqltay at 1.7a	homo sapiens	hla-b, hlab	homo sapiens				EPLPQGQLTAY	28
+2nx5	Q	S	276	11	crystal structure of els4 tcr bound to hla-b*3501 presenting ebv peptide eplpqgqltay at 1.7a	homo sapiens	b-3501	homo sapiens				EPLPQGQLTAY	28
+2p5e	A	C	276	9	crystal structures of high affinity human t-cell receptors bound to pmhc reveal native diagonal binding geometry	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLLMWITQC	28
+2p5w	A	C	276	9	crystal structures of high affinity human t-cell receptors bound to pmhc reveal native diagonal binding geometry	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLLMWITQC	28
+2pye	A	C	276	9	crystal structures of high affinity human t-cell receptors bound to pmhc revealnative diagonal binding geometry tcr clone c5c1 complexed with mhc	homo sapiens	hla-a, hlaa	homo sapiens	b2m			SLLMWITQC	28
+2rfx	A	C	275	9	crystal structure of hla-b*5701, presenting the self peptide, lsspvtksf	homo sapiens	hla-b	homo sapiens	b2m			LSSPVTKSF	28
+2uwe	H	J	275	9	large cdr3a loop alteration as a function of mhc mutation	homo sapiens		homo sapiens		homo sapiens		ALWGFFPVL	28
+2vaa	A	P	274	8	mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and vesicular stomatitis virus nucleoprotein	mus musculus	beta-2-microglobulin	mus musculus	beta-2-microglobulin	vesicular stomatitis virus		RGYVYQGL	28
+2vab	A	P	274	9	mhc class i h-2kb heavy chain complexed with beta-2 microglobulin and sendai virus nucleoprotein	mus musculus	beta-2-microglobulin	mus musculus	beta-2-microglobulin	sendai virus		FAPGNYPAL	28
+2ve6	J	L	276	8	crystal structure of a murine mhc class i h2-db molecule in complex with a photocleavable peptide	mus musculus		mus musculus		sendai virus		FAPGNYAL	28
+2vlj	A	C	276	9	the structural dynamics and energetics of an immunodominant t-cell receptor are programmed by its vbeta domain	homo sapiens		homo sapiens		unidentified influenza virus		GILGFVFTL	28
+2vlk	A	C	276	9	the structural dynamics and energetics of an immunodominant t-cell receptor are programmed by its vbeta domain	homo sapiens		homo sapiens		unidentified influenza virus		GILGFVFTL	28
+2vlr	F	H	276	9	the structural dynamics and energetics of an immunodominant t-cell receptor are programmed by its vbeta domain	homo sapiens		homo sapiens		unidentified influenza virus		GILGFVFTL	28
+2x4o	D	F	275	9	crystal structure of mhc class i hla-a2.1 bound to hiv-1 envelope peptide env120-128	homo sapiens		homo sapiens		human immunodeficiency virus 1		KLTPLCVTL	28
+2x4r	D	F	275	9	crystal structure of mhc class i hla-a2.1 bound to cytomegalovirus (cmv) pp65 epitope	homo sapiens		homo sapiens		human herpesvirus 5		NLVPMVATV	28
+2x4s	D	F	275	9	crystal structure of mhc class i hla-a2.1 bound to a peptide representing the epitope of the h5n1 (avian flu) nucleoprotein	homo sapiens		homo sapiens		influenza virus type a		AMDSNTLEL	28
+2x4t	D	F	275	8	crystal structure of mhc class i hla-a2.1 bound to a peiodate-cleavable peptide	homo sapiens		homo sapiens		human herpesvirus 5		NLVMVATV	28
+2x4u	D	F	275	9	crystal structure of mhc class i hla-a2.1 bound to hiv-1 peptide rt468-476	homo sapiens		homo sapiens		human immunodeficiency virus 1		ILKEPVHGV	28
+2x70	D	F	275	7	crystal structure of mhc class i hla-a2.1 bound to a photocleavable peptide	homo sapiens		homo sapiens		influenza a virus		KILGVFV	28
+2xfx	A	C	277	11	cattle mhc class i n01301 presenting an 11mer from theileria parva	bos taurus		bos taurus		theileria parva		VGYPKVKEEML	28
+2xpg	A	C	274	9	crystal structure of a mhc class i-peptide complex	homo sapiens		homo sapiens		homo sapiens		KLIETYFSK	28
+2yez	A	C	278	10	complex of a b21 chicken mhc class i molecule and a 10mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		TNPESKVFYL	28
+2ypk	A	C	274	11	structural features underlying t-cell receptor sensitivity to concealed mhc class i micropolymorphisms	homo sapiens		homo sapiens		human immunodeficiency virus		KAFSPEVIPMF	28
+2ypl	A	C	274	11	structural features underlying t-cell receptor sensitivity to concealed mhc class i micropolymorphisms	homo sapiens		homo sapiens		human immunodeficiency virus		KAFSPEVIPMF	28
+2zok	G	K	263	8	crystal structure of h-2db in complex with jhmv epitope s510	mus musculus		mus musculus				SLWNGPHL	27
+2zol	C	E	256	8	crystal structure of h-2db in complex with the w513s variant of jhmv epitope s510	mus musculus		mus musculus				SLSNGPHL	25
+2zsv	C	F	278	7	crystal structure of h-2kb in complex with jhmv epitope s598	mus musculus	h2-k1, h2-k	mus musculus	b2m			RQIFANI	28
+2zsw	G	P	277	7	crystal structure of h-2kb in complex with the q600y variant of jhmv epitope s598	mus musculus	h2-k1, h2-k	mus musculus	b2m			RYIFANI	28
+3am8	B	F	276	9	crystal structure of a human major histocompatibilty complex	homo sapiens		homo sapiens				VMGPRTLIL	28
+3bev	A	C	274	11	11mer structure of an mhc class i molecule from b21 chickens illustrate promiscuous peptide binding	gallus gallus	bfiv21, b-fiv, bf2	gallus gallus	b2m			GHAEEYGAETL	28
+3bew	D	F	271	10	10mer crystal structure of chicken mhc class i haplotype b21	gallus gallus	bfiv21, b-fiv, bf2	gallus gallus	b2m			REVDEQLLSV	28
+3bgm	A	C	274	8	crystal structure of pkd2 phosphopeptide bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m			RQALSISV	28
+3bh8	A	C	274	9	crystal structure of rqa_m phosphopeptide bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m			RQAIELPSM	28
+3bh9	A	C	275	9	crystal structure of rty phosphopeptide bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m			RTYGPMNKV	28
+3bhb	A	C	274	9	crystal structure of kmd phosphopeptide bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m			KMDFLDMQL	28
+3bo8	A	C	274	9	the high resolution crystal structure of hla-a1 complexed with the mage-a1 peptide	homo sapiens		homo sapiens				EADPTGHSY	28
+3bp4	A	C	276	9	the high resolution crystal structure of hla-b*2705 in complex with a cathepsin a signal sequence peptide pcata	homo sapiens		homo sapiens		homo sapiens		IRAAPPPLF	28
+3bp7	A	C	276	9	the high resolution crystal structure of hla-b*2709 in complex with a cathepsin a signal sequence peptide, pcata	homo sapiens		homo sapiens		homo sapiens		IRAAPPPLF	28
+3buy	A	C	275	9	mhc-i in complex with peptide	mus musculus	h2-d1	mus musculus	b2m	influenza a virus	pb1	LSLRNPILV	27
+3bvn	D	F	277	9	high resolution crystal structure of hla-b*1402 in complex with the latent membrane protein 2 peptide (lmp2) of epstein-barr virus	homo sapiens	hla-b	homo sapiens	b2m			RRRWRRLTV	28
+3bw9	A	C	276	12	crystal structure of hla b*3508 in complex with a hcmv 12-mer peptide from the pp65 protein	homo sapiens		homo sapiens				CPSQEPMSIYVY	28
+3bwa	A	C	276	8	crystal structure of hla b*3508 in complex with a hcmv 8-mer peptide from the pp65 protein	homo sapiens		homo sapiens				FPTKDVAL	28
+3bxn	A	C	276	9	the high resolution crystal structure of hla-b*1402 complexed with a cathepsin a signal sequence peptide, pcata	homo sapiens	hla-b	homo sapiens	b2m			IRAAPPPLF	28
+3bze	G	S	273	9	the human non-classical major histocompatibility complex molecule hla- e	homo sapiens		homo sapiens				VMAPRTLFL	27
+3bzf	C	Q	276	9	the human non-classical major histocompatibility complex molecule hla-e	homo sapiens		homo sapiens				VMAPRALLL	28
+3c9n	A	C	276	9	crystal structure of a sars corona virus derived peptide bound to the human major histocompatibility complex class i molecule hla-b*1501	homo sapiens	hla-b, hlab	homo sapiens	b2m			VQQESSFVM	28
+3cc5	D	F	276	9	h-2db complex with human gp100	mus musculus	h2-d1	mus musculus	b2m			KVPRNQDWL	28
+3cch	J	L	272	9	h-2db complex with murine gp100	mus musculus	h2-d1	mus musculus	b2m			EGSRNQDWL	28
+3ch1	J	L	272	9	crystal structure of h-2db in complex with chimeric gp100	mus musculus	h2-d1	mus musculus	b2m			EGPRNQDWL	27
+3cpl	C	F	275	9	crystal structure of h-2db in complex with a variant m6a of the np366 peptide from influenza a virus	mus musculus	h2-d1	mus musculus	b2m			ASNENAETM	28
+3czf	A	C	276	9	crystal structure of hla-b*2709 complexed with the glucagon receptor (gr) peptide (residues 412-420)	homo sapiens		homo sapiens				RRRWHRWRL	28
+3d3v	A	C	275	8	the complex between tcr a6 and human class i mhc hla-a2 with the modified htlv-1 tax (y5(3,4-difluorophenylalanine)) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			LLFGPVYV	28
+3d18	A	C	276	9	crystal structure of hla-b*2709 complexed with a variant of the latent membrane protein 2 peptide (lmp2(l)) of epstein-barr virus	homo sapiens	hla-b, hlab	homo sapiens	b2m	human gammaherpesvirus 4		RRRWRRLTL	28
+3d25	A	C	274	9	crystal structure of ha-1 minor histocompatibility antigen bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			VLHDDLLEA	28
+3d39	A	C	275	8	the complex between tcr a6 and human class i mhc hla-a2 with the modified htlv-1 tax (y5(4-fluorophenylalanine)) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			LLFGPVYV	28
+3dx6	A	C	276	10	crystal structure of b*4402 presenting a 10mer ebv epitope	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EENLLDFVRF	28
+3dx7	A	C	276	10	crystal structure of hla-b*4403 presenting 10mer ebv antigen	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EENLLDFVRF	28
+3dx8	A	C	276	10	crystal structure of b*4405 presenting a 10mer ebv epitope	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EENLLDFVRF	28
+3dxa	K	M	276	10	crystal structure of the dm1 tcr in complex with hla-b*4405 and decamer ebv antigen	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EENLLDFVRF	28
+3e6f	A	P	273	9	mhc class i h-2dd heavy chain complexed with beta-2 microglobulin and a variant peptide, pa9, from the human immunodeficiency virus (bal) envelope glycoprotein 120	mus musculus	h2-d1	mus musculus	b2m, rp23-34e24.5-001	human immunodeficiency virus 1		IGPGRAFYA	27
+3e6h	A	P	274	10	mhc class i h-2dd heavy chain complexed with beta-2 microglobulin and a variant peptide, pi10, from the human immunodeficiency virus (bal) envelope glycoprotein 120	mus musculus	h2-d1	mus musculus	b2m, rp23-34e24.5-001	human immunodeficiency virus 1		IGPGRAFYTI	27
+3ecb	A	P	273	10	crystal structure of mouse h-2dd in complex with peptide p18-i10 derived from human immunodeficiency virus envelope glycoprotein 120	mus musculus	h2-d1	mus musculus	b2m, rp23-34e24.5-001			RGPGRAFVTI	27
+3ffc	F	H	276	9	crystal structure of cf34 tcr in complex with hla-b8/flr	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		FLRGRAYGL	28
+3fol	A	P	274	8	crystal structure of the class i mhc molecule h-2kwm7 with a single self peptide vndiferi	mus musculus		mus musculus	b2m			VNDIFERI	28
+3fom	A	P	274	8	crystal structure of the class i mhc molecule h-2kwm7 with a single self peptide iqqsierl	mus musculus		mus musculus	b2m			IQQSIERI	28
+3fon	C	E	274	8	crystal structure of the class i mhc molecule h-2kwm7 with a single self peptide vndifeai	mus musculus		mus musculus	b2m	synthetic construct		VNDIFEAI	28
+3fqr	A	C	275	9	phosphorylation of self-peptides alters human leukocyte antigen class i-restricted antigen presentation and generates tumor specific epitopes	homo sapiens	hla-a, hlaa	homo sapiens	b2m			YLDGIHSGA	28
+3fqt	A	C	275	9	phosphorylation of self-peptides alters human leukocyte antigen class i-restricted antigen presentation and generates tumor specific epitopes	homo sapiens	hla-a, hlaa	homo sapiens	b2m			GLLGSPVRA	28
+3fqu	A	C	275	8	phosphorylation of self-peptides alters human leukocyte antigen class i-restricted antigen presentation and generates tumor specific epitopes	homo sapiens	hla-a, hlaa	homo sapiens	b2m			GLLGPVRA	28
+3fqw	A	C	275	9	phosphorylation of self-peptides alters human leukocyte antigen class i-restricted antigen presentation and generates tumor specific epitopes	homo sapiens	hla-a, hlaa	homo sapiens	b2m			RVASPTSGV	28
+3fqx	A	C	275	8	phosphorylation of self-peptides alters human leukocyte antigen class i-restricted antigen presentation and generates tumor specific epitopes	homo sapiens	hla-a, hlaa	homo sapiens	b2m			RVAPTSGV	28
+3ft3	A	P	275	9	crystal structure of the minor histocompatibility peptide ha-1his in complex with hla-a2	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubuline, cdabp0092, hdcma22p			VLHDDLLEA	28
+3ft4	A	P	275	9	crystal structure of the minor histocompatibility peptide ha-1arg in complex with hla-a2	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p, hla			VLRDDLLEA	28
+3giv	D	F	275	10	antigen processing influences hiv-specific cytotoxic t lymphocyte immunodominance	homo sapiens		homo sapiens				SLFNTVATLY	28
+3gjf	D	F	276	9	rational development of high-affinity t-cell receptor-like antibodies	homo sapiens		homo sapiens				SLLMWITQV	28
+3gsn	H	P	274	9	crystal structure of the public ra14 tcr in complex with the hcmv dominant nlv/hla-a2 epitope	homo sapiens	hla, hla-a, hlaa			homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	NLVPMVATV	28
+3gso	A	P	274	9	crystal structure of the binary complex between hla-a2 and hcmv nlv peptide	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p			NLVPMVATV	28
+3gsq	A	P	274	9	crystal structure of the binary complex between hla-a2 and hcmv nlv- m5s peptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p			NLVPSVATV	28
+3gsr	A	P	274	9	crystal structure of the binary complex between hla-a2 and hcmv nlv- m5v peptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p			NLVPVVATV	28
+3gsu	A	P	275	9	crystal structure of the binary complex between hla-a2 and hcmv nlv- m5t peptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p			NLVPTVATV	28
+3gsv	A	P	275	9	crystal structure of the binary complex between hla-a2 and hcmv nlv- m5q peptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p			NLVPQVATV	28
+3gsw	A	P	274	9	crystal structure of the binary complex between hla-a2 and hcmv nlv- t8a peptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p			NLVPMVAAV	28
+3gsx	A	P	274	9	crystal structure of the binary complex between hla-a2 and hcmv nlv- t8v peptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p			NLVPMVAVV	28
+3h7b	D	F	275	9	human class i mhc hla-a2 in complex with the tel1p peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			MLWGYLQYV	28
+3h9h	D	F	275	9	human class i mhc hla-a2(a150p) in complex with the tel1p peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			MLWGYLQYV	28
+3h9s	A	C	275	9	the complex between tcr a6 and human class i mhc hla-a2 with the bound tel1p peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			MLWGYLQYV	28
+3hae	P	R	276	9	rational development of high-affinity t-cell receptor-like antibodies	homo sapiens		homo sapiens				SLLMWITQV	28
+3hg1	A	C	276	10	germline-governed recognition of a cancer epitope by an immunodominant human t cell receptor	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+3hpj	D	F	275	9	human class i mhc hla-a2 in complex with the wt-1 (126-134) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human		RMFPNAPYL	28
+3i6g	D	F	275	9	newly identified epitope mn2 from sars-cov m protein complexed withhla-a*0201	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			GLMWLSYFV	28
+3i6k	E	G	273	10	newly identified epitope from sars-cov membrane protein complexed with hla-a*0201	homo sapiens	hla-a, hla-a*0201 allele, hlaa, homo sapiens mhc class iantigen (hla-a) 	homo sapiens	b2m, beta-2-microglobulin, cdabp0092, hdcma22p	sars coronavirus tjf		TLACFVLAAV	28
+3i6l	D	F	274	9	newly identified epitope n1 derived from sars-cov n protein complexed with hla-a*2402	homo sapiens	hla-a, hlaa, mhc class i antigen hla-a*2402	homo sapiens	b2m, beta-2-microglobulin, cdabp0092, hdcma22p	hcov-sars		QFKDNVILL	28
+3ixa	D	F	275	9	human class i mhc hla-a2(a150p) in complex with the tax peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human t-cell leukemia virus 1 (isolate caribbeahs-35 subtype a) 		LLFGYPVYV	28
+3jts	G	I	276	9	gy9-mamu-a*02-hb2m	macaca mulatta	mamu	homo sapiens	b2m			GSENLKSLY	28
+3jtt	G	I	276	9	cystal structure of rhesus macaque mhc class i:mamu-a*02	macaca mulatta	mamu	macaca mulatta	b2m			YTSGPGIRY	28
+3kla	D	F	275	9	ca2+ release from the endoplasmic reticulum of ny-eso-1 specific t cells is modulated by the affinity of t cell receptor and by the use of the cd8 co-receptor	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SLLMWITQL	28
+3kpl	A	C	276	9	crystal structure of hla b*4402 in complex with eeylqafty a self peptide from the abcd3 protein	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLQAFTY	28
+3kpm	A	C	276	9	crystal structure of hla b*4402 in complex with eeylkawtf, a mimotope	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLKAWTF	28
+3kpn	A	C	276	9	crystal structure of hla b*4403 in complex with eeylqafty a self peptide from the abcd3 protein	homo sapiens	hla-b, dama-387c9.2-001	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLQAFTY	28
+3kpo	A	C	276	9	crystal structure of hla b*4403 in complex with eeylkawtf, a mimotope	homo sapiens	hla-b, dama-387c9.2-001	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLKAWTF	28
+3kpp	A	C	276	9	crystal structure of hla b*4405 in complex with eeylqafty a self peptide from the abcd3 protein	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLQAFTY	28
+3kpq	A	C	276	9	crystal structure of hla b*4405 in complex with eeylkawtf, a mimotope	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLKAWTF	28
+3kpr	F	H	276	9	crystal structure of the lc13 tcr in complex with hla b*4405 bound to eeylkawtf a mimotope	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLKAWTF	28
+3kps	A	C	276	9	crystal structure of the lc13 tcr in complex with hla b*4405 bound to eeylqafty a self peptide from the abcd3 protein	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEYLQAFTY	28
+3kww	A	C	276	13	crystal structure of the 'restriction triad' mutant of hla b*3508, beta-2-microglobulin and ebv peptide	homo sapiens		homo sapiens				LPEPLPQGQLTAY	28
+3kxf	I	S	276	13	crystal structure of sb27 tcr in complex with the 'restriction triad' mutant hla-b*3508-13mer	homo sapiens		homo sapiens		homo sapiens		LPEPLPQGQLTAY	28
+3kyn	A	P	275	9	crystal structure of hla-g presenting kgppaaltl peptide	homo sapiens	hla-g	homo sapiens	b2m, cdabp0092, hdcma22p			KGPPAALTL	28
+3kyo	C	Q	273	9	crystal structure of hla-g presenting klpaqfyil peptide	homo sapiens	hla-g	homo sapiens	b2m, cdabp0092, hdcma22p			KLPAQFYIL	27
+3l3d	A	C	276	9	crystal structure of hla-b*4402 in complex with the f3a mutant of a self-peptide derived from dpa*0201	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEAGRAFSF	28
+3l3g	A	C	276	9	crystal structure of hla-b*4402 in complex with the r5a mutant of a self-peptide derived from dpa*0201	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEFGAAFSF	28
+3l3h	A	C	275	10	x-ray crystal structure of the f6a mutant of influenza a acid polymerase epitope pa224 bound to murine h2-db mhc	mus musculus	h2-d1	mus musculus	b2m			SSLENARAYV	27
+3l3i	A	C	276	9	crystal structure of hla-b*4402 in complex with the f7a mutant of a self-peptide derived from dpa*0201	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEFGRAASF	28
+3l3j	A	C	276	9	crystal structure of hla-b*4402 in complex with the f3a/r5a double mutant of a self-peptide derived from dpa*0201	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEAGAAFSF	28
+3l3k	A	C	276	9	crystal structure of hla-b*4402 in complex with the r5a/f7a double mutant of a self-peptide derived from dpa*0201	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			EEFGAAASF	28
+3lkn	A	C	276	9	crystal structure of hla b*3501 in complex with influenza np418 epitope from 1918 strain	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			LPFERATIM	28
+3lko	A	C	276	9	crystal structure of hla b*3501 in complex with influenza np418 epitope from 1934 strain	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			LPFDRTTIM	28
+3lkp	A	C	276	9	crystal structure of hla b*3501 in complex with influenza np418 epitope from 1972 strain	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			LPFDKSTIM	28
+3lkq	A	C	276	9	crystal structure of hla b*3501 in complex with influenza np418 epitope from 1977 strain	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			LPFDKTTIM	28
+3lkr	A	C	276	9	crystal structure of hla b*3501 in complex with influenza np418 epitope from 2009 h1n1 swine origin strain	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			LPFERATVM	28
+3lks	A	C	276	9	crystal structure of hla b*3501 in complex with influenza np418 epitope from 1980 strain	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			LPFEKSTVM	28
+3ln5	A	C	274	11	crystal structure of hla-b*4104 in complex with a 11mer self-peptide derived from s-methyl-5-thioadenosine phosphorylase	homo sapiens		homo sapiens		homo sapiens		HEEAVSVDRVL	28
+3lv3	A	C	276	9	crystal structure of hla-b*2705 complexed with a peptide derived from the human voltage-dependent calcium channel alpha1 subunit (residues 513-521)	homo sapiens		homo sapiens		homo sapiens		SRRWRRWNR	28
+3mgo	J	L	275	10	crystal structure of a h5-specific ctl epitope derived from h5n1 influenza virus in complex with hla-a*0201	homo sapiens	hla-a*0201 heavy chain	homo sapiens	beta2 microglobin	influenza a virus		RLYQNPTTYI	28
+3mgt	J	L	275	10	crystal structure of a h5-specific ctl epitope variant derived from h5n1 influenza virus in complex with hla-a*0201	homo sapiens	hla-a*0201	homo sapiens	beta2 microglobin	influenza a virus		KLYQNPTTYI	28
+3mr9	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with hcmv pp65-495-503 nonapeptide m5a variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	human cytomegalovirus hcmv		NLVPAVATV	28
+3mrb	A	P	275	9	crystal structure of mhc class i hla-a2 molecule complexed with hcmv pp65-495-503 nonapeptide a7h variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	human cytomegalovirus hcmv		NLVPMVHTV	28
+3mrc	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with hcmv pp65-495-503 nonapeptide v6c variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	human cytomegalovirus hcmv		NLVPMCATV	28
+3mrd	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with hcmv pp65-495-503 nonapeptide v6g variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	human cytomegalovirus hcmv		NLVPMGATV	28
+3mre	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with ebv bmlf1-280-288 nonapeptide	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	epstein-barr virus ebv		GLCTLVAML	28
+3mrf	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with ebv bmlf1-280-288 nonapeptide t4p variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	epstein-barr virus ebv		GLCPLVAML	28
+3mrg	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with hcv ns3-1073-1081 nonapeptide	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	hepatitis c virus genotype 1b (isolate hc-j1)		CINGVCWTV	28
+3mrh	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with hcv ns3-1073-1081 nonapeptide n3s variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	hepatitis c virus genotype 1b (isolate hc-j1)		CISGVCWTV	28
+3mri	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with hcv ns3-1073-1081 nonapeptide g4m-v5w variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	hepatitis c virus genotype 1b (isolate hc-j1)		CINMWCWTV	28
+3mrj	A	P	275	9	crystal structure of mhc class i hla-a2 molecule complexed with hcv ns3-1073-1081 nonapeptide v5m variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	hepatitis c virus genotype 1b (isolate hc-j1)		CINGMCWTV	28
+3mrk	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with afp137 nonapeptide	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	homo sapiens		PLFQVPEPV	28
+3mrl	A	P	274	9	crystal structure of mhc class i hla-a2 molecule complexed with hcv ns3-1073-1081 nonapeptide c6v variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	hepatitis c virus genotype 1b (isolate hc-j1)		CINGVVWTV	28
+3mrm	A	P	275	10	crystal structure of mhc class i hla-a2 molecule complexed with hcv ns3-1406-1415 decapeptide	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	hepatitis c virus hcv		KLVALGINAV	28
+3mrn	A	P	274	10	crystal structure of mhc class i hla-a2 molecule complexed with hcv ns4b-1807-1816 decapeptide	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	hepatitis c virus hcv		LLFNILGGWV	28
+3mro	A	P	275	10	crystal structure of mhc class i hla-a2 molecule complexed with melan- a mart1 decapeptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	homo sapiens		ELAGWGILTV	28
+3mrp	A	P	275	10	crystal structure of mhc class i hla-a2 molecule complexed with melan- a mart1 decapeptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	homo sapiens		ELAGLGINTV	28
+3mrq	A	P	274	10	crystal structure of mhc class i hla-a2 molecule complexed with melan- a mart1 decapeptide variant	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	homo sapiens		ELAGLGINTV	28
+3mrr	A	P	275	10	crystal structure of mhc class i hla-a2 molecule complexed with human prostaglandin transporter decapeptide	homo sapiens	hla, hla-a, hlaa	homo sapiens	b2m, beta-2 microglubulin, cdabp0092, hdcma22p	homo sapiens		LLAGIGTVPI	28
+3mv7	A	C	276	11	crystal structure of the tk3 tcr in complex with hla-b*3501/hpvg	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			HPVGEADYFEY	28
+3mv8	A	C	276	11	crystal structure of the tk3-gln55his tcr in complex with hla- b*3501/hpvg	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			HPVGEADYFEY	28
+3mv9	A	C	276	11	crystal structure of the tk3-gln55ala tcr in complex with hla- b*3501/hpvg	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p			HPVGEADYFEY	28
+3myj	D	F	275	9	human class i mhc hla-a2 in complex with the wt-1 (126-134) (r1y) peptide variant.	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		YMFPNAPYL	28
+3nfn	A	C	274	10	recognition of peptide-mhc by a v-delta/v-beta tcr	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RYPLTFGWCF	28
+3o4l	A	C	276	9	genetic and structural basis for selection of a ubiquitous t cell receptor deployed in epstein-barr virus	homo sapiens		homo sapiens		human herpesvirus 4		GLCTLVAML	28
+3ox8	D	F	275	10	crystal structure of hla a*02:03 bound to hbv core 18-27	homo sapiens	hla-a, mhc hla-a*02	homo sapiens	b2m, beta 2-microglobulin, cdabp0092, hdcma22p	hepatitis b virus		FLPSDFFPSV	28
+3oxr	A	C	275	10	crystal structure of hla a*02:06 bound to hbv core 18-27	homo sapiens	hla-a, mhc hla-a*02	homo sapiens	b2m, beta 2-microglobulin, cdabp0092, hdcma22p	hepatitis b virus		FLPSDFFPSV	28
+3oxs	A	C	275	10	crystal structure of hla a*02:07 bound to hbv core 18-27	homo sapiens	hla-a, mhc hla-a*02	homo sapiens	b2m, beta 2-microglobulin, cdabp0092, hdcma22p	hepatitis b virus		FLPSDFFPSV	28
+3p4m	D	F	277	8	crystal structure of h2-kb in complex with the np205-lcmv epitope ytvkypnl, an 8-mer peptide from the lcmv	mus musculus	h2-k1, h2-k	mus musculus	b2m			YTVKYPNL	28
+3p4n	D	F	277	8	crystal structure of h2-kb in complex with the np205-pv epitope ytvkfpnm, an 8-mer peptide from pv	mus musculus	h2-k1, h2-k	mus musculus	b2m			YTVKFPNM	28
+3p4o	D	F	277	8	crystal structure of h2-kb in complex with the mutant np205-lcmv-v3a epitope ytakypnl, an 8-mer modified peptide from the lcmv	mus musculus	h2-k1, h2-k	mus musculus	b2m			YTAKYPNL	28
+3p9l	D	F	278	8	crystal structure of h2-kb in complex with the chicken ovalbumin epitope ova	mus musculus	h2-k1, h2-k	mus musculus	b2m			SIINFEKL	28
+3p9m	D	F	277	8	crystal structure of h2-kb in complex with a mutant of the chicken ovalbumin epitope ova-g4	mus musculus	h2-k1, h2-k	mus musculus	b2m			SIIGFEKL	28
+3pab	D	F	278	8	crystal structure of h2-kb in complex with a mutant of the chicken ovalbumin epitope ova-e1	mus musculus	h2-k1, h2-k	mus musculus	b2m			EIINFEKL	28
+3pqy	P	R	273	10	crystal structure of 6218 tcr in complex with the h2db-pa224	mus musculus	h2-d1	mus musculus	b2m	synthetic construct		SSLENFRAYV	27
+3pwj	D	F	275	9	human class i mhc hla-a2 in complex with the hud (g2l,i9v) peptide variant	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			LLYGFVNYV	28
+3pwl	D	F	275	9	human class i mhc hla-a2 in complex with the hud peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			LGYGFVNYI	28
+3pwn	D	F	275	9	human class i mhc hla-a2 in complex with the hud (g2l) peptide variant	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			LLYGFVNYI	28
+3pwp	A	C	275	9	the complex between tcr a6 and human class i mhc hla-a2 with the bound hud peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			LGYGFVNYI	28
+3pwu	A	C	274	9	an immmunodominant ctl epitope from rinderpest virus presented by cattle mhc class i molecule n*01801(bola-a11)	bos taurus	la-a11	mus musculus	b2m			IPAYGVLTI	27
+3pwv	D	F	274	9	an immmunodominant ctl epitope from rinderpest virus presented by cattle mhc class i molecule n*01801 (bola-a11)	bos taurus	la-a11	bos taurus	b2m	rinderpest virus		IPAYGVLTI	27
+3qdg	A	C	275	10	the complex between tcr dmf5 and human class i mhc hla-a2 with the bound mart-1(26-35)(a27l) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			ELAGIGILTV	28
+3qdj	A	C	275	9	the complex between tcr dmf5 and human class i mhc hla-a2 with the bound mart-1(27-35) nonameric peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			AAGIGILTV	28
+3qdm	A	C	275	10	the complex between tcr dmf4 and human class i mhc hla-a2 with the bound mart-1(26-35)(a27l) decameric peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			ELAGIGILTV	28
+3qeq	A	C	275	9	the complex between tcr dmf4 and human class i mhc hla-a2 with the bound mart-1(27-35) nonameric peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			AAGIGILTV	28
+3qfd	D	F	275	9	human class i mhc hla-a2 in complex with mart-1(27-35) nonameric peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			AAGIGILTV	28
+3qfj	A	C	275	9	the complex between tcr a6 and human class i mhc hla-a2 with the modified tax (y5f) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			LLFGFPVYV	28
+3qq3	D	F	275	9	crystal structure of swine major histocompatibility complex class i sla-1 0401 and identification of 2009 pandemic swine-origin influenza a h1n1 virus cytotoxic t lymphocyte epitope peptides	sus scrofa	pd1, sla-1	sus scrofa	b2m	influenza a virus		NSDTVGWSW	28
+3qq4	A	C	275	9	crystal structure of swine major histocompatibility complex class i sla-1 0401 and identification of 2009 pandemic swine-origin influenza a h1n1 virus cytotoxic t lymphocyte epitope peptides	sus scrofa	pd1, sla-1	sus scrofa	b2m	sudan ebolavirus		ATAAATEAY	28
+3quk	D	F	261	9	crystal structures of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 altered peptide ligand (y4a)	mus musculus	h2-d1	mus musculus	b2m	lymphocytic choriomeningitis virus		KAVANFATM	28
+3qul	J	L	267	9	crystal structures of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 altered peptide ligand (y4s)	mus musculus	h2-d1	mus musculus	b2m	lymphocytic choriomeningitis virus		KAVSNFATM	28
+3qzw	D	F	274	10	plasticity of human cd8 binding to peptide-hla-a*2402	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RYPLTFGWCF	28
+3rew	D	F	271	9	crystal structure of an lmp2a-derived peptide bound to human class i mhc hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4 (strain b95-8)		CLGGLLTMV	28
+3rgv	C	E	275	13	a single tcr bound to mhci and mhc ii reveals switchable tcr conformers	mus musculus		mus musculus		mus musculus	h2-k1, h2-k	WIYVYRPMGCGGS	28
+3rl1	A	C	274	9	hiv rt derived peptide complexed to hla-a*0301	homo sapiens	hlaa	homo sapiens	b2m	human immunodeficiency virus 1		AIFQSSMTK	28
+3rl2	A	C	274	10	hiv nef derived peptide nef73 complexed to hla-a*0301	homo sapiens	hlaa	homo sapiens	b2m	human immunodeficiency virus 1		QVPLRPMTYK	28
+3rol	C	F	272	7	murine class i major histocompatibility complex h-2kb in complex with post-translationally modified lcmv-derived gp34-41 peptide, comprising a nitrotyrosine at position 3	mus musculus	h-2kb, h2-k, h2-k1	mus musculus	b2m	lymphocytic choriomeningitis virus		AVNFATM	28
+3roo	C	F	271	8	murine class i major histocompatibility complex h-2kb in complex with immunodominant lcmv-derived gp34-41 peptide	mus musculus	h-2kb	mus musculus	b2m	lymphocytic choriomeningitis virus		AVYNFATM	28
+3rwc	D	F	276	9	crystal structure of rhesus macaque mhc class i molecule mamu-b*17-iw9	macaca mulatta	mhci-b	macaca mulatta	b2m	simian immunodeficiency virus		IRYPKTFGW	28
+3rwd	D	F	276	11	rhesus macaque mhc class i molecule mamu-b*17-iw11	macaca mulatta	mhci-b	macaca mulatta	b2m	simian immunodeficiency virus		IRYPKTFGWLW	28
+3rwe	A	C	276	9	rhesus macaque mhc class i molecule mamu-b*17-fw9	macaca mulatta	mhci-b	macaca mulatta	b2m	simian immunodeficiency virus		FQWMGYELW	28
+3rwf	A	C	276	9	rhesus macaque mhc class i molecule mamu-b*17-qw9	macaca mulatta	mhci-b	macaca mulatta	b2m	simian immunodeficiency virus		QTSQWDDPW	28
+3rwg	A	C	276	9	rhesus macaque mhc class i molecule mamu-b*17-mw9	macaca mulatta	mhci-b	macaca mulatta	b2m	simian immunodeficiency virus		MHPAQTSQW	28
+3rwh	D	F	276	8	rhesus macaque mhc class i molecule mamu-b*17-mf8	macaca mulatta	mhci-b	macaca mulatta	b2m	simian immunodeficiency virus		MRHVLEPF	28
+3rwi	A	C	276	10	rhesus macaque mhc class i molecule mamu-b*17-gw10	macaca mulatta	mhci-b	macaca mulatta	b2m	simian immunodeficiency virus		GSHLEVQGYW	28
+3rwj	A	C	276	8	rhesus macaque mhc class i molecule mamu-b*17-hw8	macaca mulatta	mhci-b	homo sapiens	b2m	simian immunodeficiency virus		HLEVQGYW	28
+3sjv	P	R	277	9	crystal structure of the rl42 tcr in complex with hla-b8-flr	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		FLRGRAYGL	28
+3skm	A	C	270	9	crystal structure of the hla-b8flrgrayvl, mutant g8v of the flr peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		FLRGRAYVL	28
+3sko	A	C	273	9	crystal structure of the hla-b8-a66-flr, mutant a66 of the hla b8	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		FLRGRAYGL	28
+3spv	A	C	276	8	crystal structure of a peptide-hla complex	homo sapiens	hla-b	homo sapiens	b2m	human herpesvirus 4		RAKFKQLL	28
+3tbs	D	F	271	9	crystal structure of the murine class i major histocompatibility complex h-2db in complex the with lcmv-derived gp33 altered peptide ligand (v3p,y4a)	mus musculus	h2-d1, h2-db	mus musculus	b2m	lymphocytic choriomeningitis virus		KAPANFATM	28
+3tbt	J	L	268	9	crystal structure of the murine class i major histocompatibility complex h-2db in complex with the lcmv-derived gp33 altered peptide ligand (v3p, y4s)	mus musculus	h2-d1, h2-db	mus musculus	b2m	lymphocytic choriomeningitis virus		KAPSNFATM	28
+3tbv	G	L	276	9	crystal structure of the murine class i major histocompatibility complex h-2db in complex with the lcmv-derived gp33 altered peptide ligand (a2g,v3p,y4a)	mus musculus	h2-d1, h2-db	mus musculus	b2m	lymphocytic choriomeningitis virus		KGPANFATM	28
+3tbw	G	L	267	9	crystal structure of the murine class i major histocompatibility complex h-2db in complex with the lcmv-derived gp33 altered peptide ligand (a2g, v3p, y4s)	mus musculus	h2-d1, h2-db	mus musculus	b2m	lymphocytic choriomeningitis virus		KGPSNFATM	28
+3tby	J	L	262	9	crystal structure of the murine class i major histocompatibility complex h-2db in complex with the lcmv-derived gp33 altered peptide ligand (v3p, y4f)	mus musculus	h2-d1, h2-db	mus musculus	b2m	lymphocytic choriomeningitis virus		KAPFNFATM	28
+3tid	A	C	277	8	crystal structure of the lcmv derived peptide gp34 in complex with the murine mhc class i h-2 kb	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	lymphocytic choriomeningitis virus		AVYNFATM	28
+3tie	D	F	277	8	crystal structure of the vaccinia derived peptide a11r in complex with the murine mhc class i h-2 kb	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	vaccinia virus		AIVNYANL	28
+3to2	A	C	275	9	structure of hla-a*0201 complexed with peptide md3-c9 derived from a clustering region of restricted cytotoxic t lymphocyte epitope from sars-cov m protein	homo sapiens	hla	homo sapiens	b2m	sars coronavirus tjf		LACFVLAAV	28
+3upr	C	Q	275	9	hla-b*57:01 complexed to pep-v and abacavir	homo sapiens	hla-b, hlab			homo sapiens	b2m, cdabp0092, hdcma22p	HSITYLLPV	27
+3utq	A	C	276	10	human hla-a*0201-alwgpdpaaa	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALWGPDPAAA	28
+3uts	F	H	276	10	1e6-a*0201-alwgpdpaaa complex, monoclinic	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALWGPDPAAA	28
+3utt	F	H	275	10	1e6-a*0201-alwgpdpaaa complex, triclinic	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALWGPDPAAA	28
+3v5d	D	F	275	9	hla-a2.1 kvaelvhfl	homo sapiens	hla*0201, hla-a, hlaa	homo sapiens	b2m, beta-2-microglobulin, cdabp0092, hdcma22p	human		KVAELVHFL	28
+3v5h	D	F	275	9	hla-a2.1 kvaeivhfl	homo sapiens	hla*0201, hla-a, hlaa	homo sapiens	b2m, beta-2-microglobulin, cdabp0092, hdcma22p	human		KVAEIVHFL	28
+3v5k	D	F	275	9	hla2.1 kvaelvwfl	homo sapiens	hla*0201, hla-a, hlaa	homo sapiens	b2m, beta-2-microglobulin, cdabp0092, hdcma22p	human		KVAELVWFL	28
+3vcl	A	C	275	11	crystal structure of hla-b7 with the hcmv pp65 peptide rpherngftvl	homo sapiens	hla-b	homo sapiens	b2m	human herpesvirus 5		RPHERNGFTVL	28
+3vfm	A	C	276	13	crystal structure of hla b*3508 lpep155a, hla mutant ala155	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLPQGQLTAY	28
+3vfn	A	C	276	13	crystal structure of hla b*3508lpep151a, hla mutant ala151	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLPQGQLTAY	28
+3vfo	A	C	276	13	crystal structure of hla b*3508 lpep157a, hla mutant ala157	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLPQGQLTAY	28
+3vfp	A	C	276	13	crystal structure of hla b*3508 lpep158g, hla mutant gly158	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLPQGQLTAY	28
+3vfr	A	C	276	13	crystal structure of hla b*3508lpep-p4ala, peptide mutant p4-ala	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEALPQGQLTAY	28
+3vfs	A	C	276	13	crystal structure of hla b*3508lpep-p5ala , peptide mutant p5-ala	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPAPQGQLTAY	28
+3vft	A	C	276	13	crystal structure of hla b*3508lpep-p6ala, peptide mutant p6-ala	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLAQGQLTAY	28
+3vfu	A	C	276	13	crystal structure of hla b*3508 lpep-p7ala, peptide mutant p7-ala	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLPAGQLTAY	28
+3vfv	A	C	276	13	crystal structure of hla b*3508 lpep-p9ala, peptide mutant p9-ala	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLPQGALTAY	28
+3vfw	A	C	276	13	crystal structure of hla b*3508 lpep-p10ala, peptide mutant p10-ala	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p			LPEPLPQGQATAY	28
+3vh8	A	F	264	9	kir3dl1 in complex with hla-b*5701	homo sapiens	hla-b*5701	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LSSPVTKSF	28
+3vj6	A	P	277	9	structure of the mhc class ib molecule qa-1b	mus musculus	h2-t23	mus musculus	b2m	mus musculus		AMAPRTLLL	28
+3vri	A	C	275	10	hla-b*57:01-rvaqlenvyi in complex with abacavir	homo sapiens	hla-b	homo sapiens	b2m			RVAQLEQVYI	27
+3vrj	A	C	275	10	hla-b*57:01-lttkltntni in complex with abacavir	homo sapiens	hla-b	homo sapiens	b2m			LTTKLTNTNI	27
+3vxm	A	C	274	10	the complex between c1-28 tcr and hla-a24 bound to hiv-1 nef134-10(2f) peptide	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus 1		RFPLTFGWCF	28
+3vxn	A	C	274	10	hla-a24 in complex with hiv-1 nef134-10(wt)	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus 1		RYPLTFGWCF	28
+3vxo	D	F	274	10	hla-a24 in complex with hiv-1 nef134-10(2f)	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus 1		RFPLTFGWCF	28
+3vxp	D	F	274	10	hla-a24 in complex with hiv-1 nef134-10(6l)	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus 1		RYPLTLGWCF	28
+3vxr	A	C	274	10	the complex between h27-14 tcr and hla-a24 bound to hiv-1 nef134- 10(wt) peptide	homo sapiens	hla-a	homo sapiens	b2m	homo sapiens		RYPLTFGWCF	28
+3vxs	A	C	274	10	the complex between h27-14 tcr and hla-a24 bound to hiv-1 nef134- 10(6l) peptide	homo sapiens	hla-a	homo sapiens	b2m	homo sapiens		RYPLTLGWCF	28
+3vxu	F	H	274	10	the complex between t36-5 tcr and hla-a24 bound to hiv-1 nef134-10(2f) peptide	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus 1		RFPLTFGWCF	28
+3w0w	A	C	279	10	the complex between t36-5 tcr and hla-a24 bound to hiv-1 nef134-10(2f) peptide in space group p212121	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus 1		RFPLTFGWCF	28
+3w39	D	F	277	8	crystal structure of hla-b*5201 in complexed with hiv immunodominant epitope (taftipsi)	homo sapiens	hla-b	homo sapiens	b2m	human immunodeficiency virus type 1 (z2/cdc-z34isolate) 		TAFTIPSI	29
+3wl9	A	C	274	10	hla-a24 in complex with hiv-1 nef126-10(8i10f)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		NYTPGPGIRF	28
+3wlb	A	C	274	10	hla-a24 in complex with hiv-1 nef126-10(8t10f)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		NYTPGPGTRF	28
+3ws3	C	F	271	9	crystal structure of h-2d in complex with an insulin derived peptide	mus musculus	h-2db, h2-d1	mus musculus	b2m			YQLENYCGL	25
+3ws6	B	F	270	9	crystal structure of h-2d in complex with a mimotopic peptide	mus musculus	h-2db, h2-d1	mus musculus	b2m			YAIENYLEL	24
+3wuw	A	C	281	9	kir3dl1 in complex with hla-b*57:01.i80t	homo sapiens	hla-b, hla-b*57	homo sapiens	b2m, beta 2 microglobulin, cdabp0092, hdcma22p	homo sapiens		LSSPVTKSF	28
+3x11	A	C	276	9	crystal structure of hla-b*57:01.i80n.l82r.r83g	homo sapiens	hla-b, hla-b*57	homo sapiens	b2m, beta-2-microglobulin, cdabp0092, hdcma22p	homo sapiens		LSSPVTKSF	28
+3x12	A	C	275	9	crystal structure of hla-b*57:01.i80n	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LSSPVTKSF	27
+3x13	A	C	276	9	crystal structure of hla-b*0801.n80i	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	epstein-barr virus		FLRGRAYGL	28
+3x14	A	C	276	9	crystal structure of hla-b*0801.n80i.r82l.g83r	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	epstein-barr virus		FLRGRAYGL	28
+4cvx	D	F	272	9	complex of a b2 chicken mhc class i molecule and a 9mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		YPYLGPNTL	28
+4cvz	A	C	277	10	complex of a b21 chicken mhc class i molecule and a 10mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		YELDEKFDRL	27
+4cw1	D	F	271	9	complex of a b14 chicken mhc class i molecule and a 9mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		SWFRKPMTR	27
+4d0b	A	C	277	10	complex of a b21 chicken mhc class i molecule and a 10mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		TAGQEDYDRL	28
+4d0c	A	C	276	10	complex of a b21 chicken mhc class i molecule and a 10mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		TAGQSNYDRL	28
+4d0d	J	L	274	8	complex of a b2 chicken mhc class i molecule and a 8mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		VIFPAKSL	28
+4e0r	D	F	272	8	structure of the chicken mhc class i molecule bf2*0401	gallus gallus	b-fiv, bf2	gallus gallus	b-f-s-b2m02	gallus gallus		IDWFDGKE	28
+4e5x	D	F	275	9	crystal structure of a complex between the human adenovirus type 2 e3- 19k protein and mhc class i molecule hla-a2/tax	homo sapiens	hla-a, hlaa	homo sapiens	b2m, beta-2-m, cdabp0092, hdcma22p	human t-cell lymphotropic virus type 1 (africanisolate) 		LLFGYPVYV	28
+4eup	A	C	267	9	the complex between tcr jkf6 and human class i mhc hla-a2 presenting the mart-1(27-35)(a27l) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALGIGILTV	28
+4f7m	D	F	274	10	crystal structure of hla-a*2402 complexed with a newly identified peptide from 2009 h1n1 pa (649-658)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus h3n2		LYASPQLEGF	28
+4f7t	D	F	274	8	crystal structure of hla-a*2402 complexed with a newly identified peptide from 2009 h1n1 pb1 (498-505)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus h3n2		RYGFVANF	28
+4ftv	A	C	275	9	the complex between the high affinity version of a6 tcr (a6c134) and human class i mhc hla-a2 with the bound tax nonameric peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human t-cell lymphotropic virus type 1 (africanisolate) 		LLFGYPVYV	28
+4g8g	A	C	276	10	crystal structure of c12c tcr-ha b2705-kk10	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		KRWIILGLNK	28
+4g8i	A	C	276	10	crystal structure of hla b2705-kk10-l6m	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		KRWIIMGLNK	28
+4g9d	A	C	276	10	crystal structure of hla b2705-kk10	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		KRWIILGLNK	28
+4g9f	A	C	276	10	crystal structure of c12c tcr-hlab2705-kk10-l6m	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		KRWIIMGLNK	28
+4g42	D	F	272	8	structure of the chicken mhc class i molecule bf2*0401 complexed to pepitde p8d	gallus gallus		gallus gallus		gallus gallus		IDWFDGKD	28
+4g43	D	F	270	8	structure of the chicken mhc class i molecule bf2*0401 complexed to p5e	gallus gallus		gallus gallus		gallus gallus		IDWFEGKE	28
+4gkn	D	F	276	10	a2-mhc complex carrying fatgigiitv	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		FATGIGIITV	28
+4gks	D	F	276	10	a2-mhc complex carrying fltgigiitv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		FLTGIGIITV	28
+4hs3	A	C	276	8	crystal structure of h-2kb with a disulfide stabilized f pocket in complex with the lcmv derived peptide gp34	mus musculus	h2-k1, h2-k	mus musculus	b2m	lymphocytic choriomeningitis virus		AVYNFATM	28
+4huv	D	F	275	9	crystal structure of h2db-npm6w	mus musculus	h2-d1	mus musculus	b2m	synthetic construct		ASNENWETM	28
+4hux	A	C	273	9	crystal structure of h2db-h155a-np	mus musculus	h2-d1	mus musculus	b2m			ASNENMETM	28
+4hwz	A	C	274	9	structure of hla-a68 complexed with an hiv derived peptide	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus 1		AIFQSSMTK	28
+4hx1	A	C	274	9	structure of hla-a68 complexed with a tumor antigen derived peptide	homo sapiens	hla-a	homo sapiens	b2m	homo sapiens		SVYDFFVWL	28
+4i4w	A	C	276	9	peptide length determines the outcome of t cell receptor/peptide-mhci engagement	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILAKFLHRL	28
+4i48	A	C	274	9	structure of hla-a68 complexed with an hiv env derived peptide	homo sapiens	hla-a	homo sapiens	b2m	human immunodeficiency virus type 1 lw12.3isolate 		TLTSCNTSV	28
+4iho	D	F	272	9	crystal structure of h-2db y159f in complex with chimeric gp100	mus musculus	h2-d1	mus musculus	b2m			EGPRNQDWL	28
+4jfd	A	C	276	10	preservation of peptide specificity during tcr-mhc contact dominated affinity enhancement of a melanoma-specific tcr	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			ELAAIGILTV	28
+4jfe	A	C	276	10	preservation of peptide specificity during tcr-mhc contact dominated affinity enhancement of a melanoma-specific tcr	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			ELAGIGALTV	28
+4jff	A	C	276	10	preservation of peptide specificity during tcr-mhc contact dominated affinity enhancement of a melanoma-specific tcr	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+4jfo	D	F	275	10	a2 hla complex with e1a heteroclitic variant of melanoma peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			ALAGIGILTV	28
+4jfp	D	F	276	10	a2 hla complex with g4a heteroclitic variant of melanoma peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			ELAAIGILTV	28
+4jfq	D	F	276	10	a2 hla complex with l8a heteroclitic variant of melanoma peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p			ELAGIGIATV	28
+4jqv	A	B	276	8	hla-b*18:01 in complex with epstein-barr virus bzlf1-derived peptide (residues 173-180)	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		SELEIKRY	28
+4jqx	A	B	276	12	hla-b*44:03 in complex with epstein-barr virus bzlf1-derived peptide (residues 169-180)	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		EECDSELEIKRY	28
+4jrx	A	C	276	13	crystal structure of ca5 tcr-hla b*3505-lpep complex	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		LPEPLPQGQLTAY	28
+4jry	A	C	276	13	crystal structure of sb47 tcr-hla b*3505-lpep complex	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		LPEPLPQGQLTAY	28
+4k7f	D	F	275	9	newly identified epitope v60 from hbv core protein complexed with hla- a*0201	homo sapiens	hla-a	homo sapiens	b2m	hepatitis b virus		VCWGELMNL	28
+4l3c	a	j	276	9	structure of hla-a2 in complex with d76n b2m mutant and ny-eso1 double mutant	homo sapiens	hla-a, hlaa, hla_a0201	homo sapiens	b2m, cdabp0092, hdcma22p, nm_004048			YLLMWITQV	28
+4l3e	A	C	275	10	the complex between high affinity tcr dmf5(alpha-d26y,beta-l98w) and human class i mhc hla-a2 with the bound mart-1(26-35)(a27l) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+4l8b	A	C	276	9	crystal structure of the h2db in complex with the np-n5h peptide	mus musculus	h2-d1	mus musculus	b2m			ASNEHMETM	28
+4l8c	G	L	275	9	crystal structure of the h2db in complex with the np-n3d peptide	mus musculus	h2-d1	mus musculus	b2m			ASDENMETM	28
+4l8d	C	F	277	9	crystal structure of the h2db in complex with the np-n5d peptide	mus musculus	h2-d1	mus musculus	b2m			ASNEDMETM	28
+4l29	a	j	276	9	structure of wtmhc class i with ny-eso1 double mutant	homo sapiens	hla-a, hlaa, hla_a0201	homo sapiens	b2m, cdabp0092, hdcma22p, nm_004048			YLLMWITQV	28
+4lcy	F	J	274	9	crystal structure of hla-b46 at 1.6 angstrom resolution	homo sapiens	hla, hla-b, hlab	homo sapiens	b2m, beta 2 microglobulin, cdabp0092, hdcma22p	dengue virus 1		FTMRLLSPV	28
+4lnr	A	C	276	11	the structure of hla-b*35:01 in complex with the peptide (rpqvplrpmty)	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RPQVPLRPMTY	28
+4mj5	A	C	274	11	crystal structure of hla-a*1101 in complex with h1-22, an influenza a(h1n1) virus epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		TIAMELIRMIK	28
+4mj6	A	C	274	11	crystal structure of hla-a*1101 in complex with h7-22, an influenza a(h7n9) virus epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		TMVMELIRMIK	28
+4mji	F	H	275	8	t cell response to a hiv reverse transcriptase epitope presented by the protective allele hla-b*51:01	homo sapiens	hla-b	homo sapiens	b2m	human immunodeficiency virus 1		TAFTIPSI	28
+4mnq	A	C	276	9	tcr-peptide specificity overrides affinity enhancing tcr-mhc interactions	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILAKFLHWL	28
+4n8v	D	F	274	9	crystal structure of killer cell immunoglobulin-like receptor kir2ds2 in complex with hla-a	homo sapiens	kir2ds2	homo sapiens	hla-a	homo sapiens	b2m	MLIYSMWGK	28
+4nnx	A	C	274	8	crystal structure of pkd2 phosphopeptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQALSISV	28
+4nny	A	C	274	9	crystal structure of non-phosphorylated form of pkd2 phosphopeptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQASLSISV	28
+4no0	A	C	276	12	crystal structure of non-phosphorylated form of rqa_v phosphopeptide bound to hla-a2 in complex with lilrb1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQASIELPSMAV	28
+4no2	A	C	274	11	crystal structure of rqa_v phosphopeptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQAIELPSMAV	28
+4no3	A	C	274	8	crystal structure of ampd2 phosphopeptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQIQDVKL	28
+4no5	A	C	275	9	crystal structure of non-phosphorylated form of ampd2 phosphopeptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQISQDVKL	28
+4nqv	K	R	274	9	crystal structure of hla a*0101 in complex with np44, an 9-mer influenza epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	h7n9 subtype		CTELKLSDY	28
+4nqx	K	R	275	9	crystal structure of hla a*0101 in complex with np44-s7n, an 9-mer influenza epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	h7n9 subtype		CTELKLNDY	28
+4nsk	A	C	274	9	crystal structure of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 altered peptide ligand v3p	mus musculus	h2-d1	mus musculus	b2m			KAPYNFATM	28
+4nt6	A	C	274	9	hla-c*0801 crystal structure	homo sapiens	hla-c	homo sapiens	b2m	influenza a virus (a/boston/115jc/2009(h1n1))		GILGFVFTL	28
+4o2c	A	C	274	9	an nt-acetylated peptide complexed with hla-b*3901	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SHVAVENAL	28
+4o2e	D	F	274	9	a peptide complexed with hla-b*3901	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SHVAVENAL	28
+4o2f	D	F	274	8	a peptide complexed with hla-b*3901	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		HVAVENAL	28
+4pg2	A	D	254	9	the crystal structure of h-2db with a s-glutathionylated peptide	mus musculus	h2-d1	mus musculus	b2m	synthetic construct		CSLWNGPHL	27
+4pg9	A	C	276	9	mhc class i in complex with sendai virus nucleoprotein peptide fapgnypal	mus musculus	h2-k1, h2-k	mus musculus	b2m	sendai virus		FAPGNYPAL	28
+4pgb	D	F	278	9	mhc class i in complex with modified sendai virus nucleoprotein peptide fapgnwpal	mus musculus	h2-k1, h2-k	mus musculus	b2m	sendai virus		FAPGNWPAL	28
+4pgd	A	C	274	9	mhc class i in complex with modified sendai virus nucleoprotein peptide fapgnypaf	mus musculus	h2-k1, h2-k	mus musculus	b2m	sendai virus		FAPGNYPAF	28
+4pge	A	C	274	9	mhc class i in complex with modified sendai virus nucleoprotein peptide fapgnypaw	mus musculus	h2-k1, h2-k	mus musculus	b2m	sendai virus		FAPGNYPAW	28
+4pr5	A	C	276	11	crystal structure of a hla-b*35:01-hpvg-d5	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		HPVGDADYFEY	28
+4pra	A	C	276	11	crystal structure of a hla-b*35:01-hpvg-q5	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		HPVGQADYFEY	28
+4prb	A	C	276	11	crystal structure of a hla-b*35:08-hpvg-a4	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	epstein-barr virus		HPVAEADYFEY	28
+4prd	A	C	276	11	crystal structure of a hla-b*35:08-hpvg-d5	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		HPVGDADYFEY	28
+4pre	A	C	276	11	crystal structure of a hla-b*35:08-hpvg-q5	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		HPVGQADYFEY	28
+4pri	A	C	276	11	crystal structure of tk3 tcr-hla-b*35:08-hpvg complex	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		HPVGEADYFEY	28
+4prn	A	C	276	11	crystal structure of a hla-b*35:01-hpvg-a4	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	epstein-barr virus		HPVAEADYFEY	28
+4prp	A	C	276	11	crystal structure of tk3 tcr-hla-b*35:01-hpvg-q5 complex	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 4		HPVGQADYFEY	28
+4pv8	C	F	278	7	crystal structure of h2kb-q600f complex	mus musculus	h2-k1, h2-k	mus musculus	b2m			RFIFANI	28
+4pv9	C	F	277	7	crystal structure of h2kb-q600v complex	mus musculus	h2-k1, h2-k	mus musculus	b2m			RVIFANI	28
+4qok	A	C	276	10	structural basis for ineffective t-cell responses to mhc anchor residue improved heteroclitic peptides	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EAAGIGILTV	28
+4qrp	F	H	276	9	crystal structure of hla b*0801 in complex with hskkkcdel and dd31 tcr	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	hepatitis c virus		HSKKKCDEL	28
+4qrq	A	C	269	9	crystal structure of hla b*0801 in complex with hskkkcdel	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	hepatitis c virus		HSKKKCDEL	28
+4qrr	A	P	276	9	crystal structure of hla b*3501-ips in complex with a delta-beta tcr, clone 12 tcr	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		IPSINVHHY	28
+4qrs	A	C	276	9	crystal structure of hla b*0801 in complex with elk_iym, elkrkmiym	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 5		ELKRKMIYM	28
+4qrt	A	C	276	9	crystal structure of hla b*0801 in complex with eln_yym, elnrkmiym	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 5		ELNRKMIYM	28
+4qru	A	C	276	9	crystal structure of hla b*0801 in complex with elr_mym, elrrkmmym	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human herpesvirus 5 strain towne		ELRRKMMYM	28
+4u1h	A	C	277	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		TPQDLNTML	29
+4u1i	A	C	278	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		TPQDLNTML	29
+4u1j	A	C	278	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		TPQDLNTML	29
+4u1k	D	F	277	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RPQVPLRPM	29
+4u1l	D	F	277	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RPQVPLRPM	29
+4u1m	A	C	277	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RPQVPLRPM	28
+4u1n	A	C	278	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RPQVPLRPM	29
+4u1s	A	C	278	9	hla class i micropolymorphisms determine peptide-hla landscape and dictate differential hiv-1 escape through identical epitopes	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		FPRPWLHGL	29
+4wdi	D	F	277	9	weak tcr binding to an unstable insulin epitope drives type 1 diabetes	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	ins	LYLVCGERG	29
+4wj5	D	F	275	7	structure of hla-a2 in complex with an altered peptide ligands based on mart-1 variant epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AGIGILT	28
+4wu5	D	F	274	8	hla-a24 in complex with hiv-1 nef134-8(wt)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RYPLTFGW	28
+4wu7	D	F	274	8	hla-a24 in complex with hiv-1 nef134-8(2f)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RFPLTFGW	28
+4wuu	A	C	275	9	structure of esk1 in complex with hla-a*0201/wt1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RMFPNAPYL	28
+4xxc	A	B	276	8	hla-b*1801 in complex with a self-peptide, deleikay	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		DELEIKAY	28
+4z76	D	F	277	9	weak tcr binding to an unstable insulin epitope drives type 1 diabetes	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	ins	LYLVCGERV	29
+4z77	D	F	277	9	weak tcr binding to an unstable insulin epitope drives type 1 diabetes	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	ins	LYLVCGERV	29
+4z78	G	I	277	10	weak tcr binding to an unstable insulin epitope drives type 1 diabetes	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	ins	LYLVCGERGF	29
+4zus	A	C	274	11	crystal structure of equine mhc i(eqca-n*00602) in complexed with equine infectious anaemia virus (eiav) derived peptide rev-qw11	equus caballus		mus musculus	b2m	equine infectious anemia virus		QAEVLQERLEW	28
+4zut	A	C	274	12	crystal structure of equine mhc i(eqca-n*00602) in complexed with equine infectious anaemia virus (eiav) derived peptide gag-gw12	equus caballus		mus musculus	b2m	equine infectious anemia virus		GSQKLTTGNCNW	28
+4zuu	A	C	274	9	crystal structure of equine mhc i(eqca-n*00602) in complexed with equine infectious anaemia virus (eiav) derived peptide gag-cf9	equus caballus		mus musculus	b2m	equine infectious anemia virus		CTSEEMNAF	28
+4zuv	D	F	274	12	crystal structure of equine mhc i(eqca-n*00602) in complexed with equine infectious anaemia virus (eiav) derived peptide env-rw12	equus caballus		mus musculus	b2m	equine infectious anemia virus		RVEDVTNTAEYW	28
+4zuw	A	C	274	12	crystal structure of equine mhc i(eqca-n*00601) in complexed with equine infectious anaemia virus (eiav) derived peptide gag-gw12	equus caballus		mus musculus	b2m	equine infectious anemia virus		GSQKLTTGNCNW	28
+5acz	A	C	269	11	complex of a b21 chicken mhc class i molecule and a 11mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		GRAEEYGADTL	27
+5ad0	A	C	269	11	complex of a b21 chicken mhc class i molecule and a 11mer chicken peptide	gallus gallus		gallus gallus		gallus gallus		GHAEEYGADTL	27
+5b38	A	C	273	9	kir3dl1*005 in complex with hla-b*57:01	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LSSPVTKSF	28
+5b39	A	C	277	9	kir3dl1*015 in complex with hla-b*57:01	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LSSPVTKSF	28
+5brz	A	C	275	9	mage-a3 reactive tcr in complex with mage-a3 in hla-a1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EVDPIGHLY	28
+5bs0	A	C	275	9	mage-a3 reactive tcr in complex with titin epitope in hla-a1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ESDPIVAQY	28
+5c0a	F	H	276	10	1e6 tcr in complex with hla-a02 carrying mvw peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		MVWGPDPLYV	28
+5c0b	F	H	275	10	1e6 tcr in complex with hla-a02 carrying rqfgpdfpti	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQFGPDFPTI	28
+5c0c	F	H	277	10	1e6 tcr in complex with hla-a02 carrying rqfgpdwiva	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQFGPDWIVA	29
+5c0d	A	C	276	10	hla-a02 carrying aqwgpdpaaa	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AQWGPDPAAA	28
+5c0e	A	C	277	10	hla-a02 carrying ylggpdfpti	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		YQFGPDFPIA	29
+5c0f	A	C	277	10	hla-a02 carrying rqwgpdpaav	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQWGPDPAAV	29
+5c0g	A	C	276	10	hla-a02 carrying ylggpdfpti	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		YLGGPDFPTI	28
+5c0i	A	C	277	10	hal-a02 carrying rqfgpdfpti	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQFGPDFPTI	29
+5c0j	A	C	277	10	hla-a02 carrying rqfgpdwiva	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQFGPDWIVA	29
+5c07	F	H	277	10	1e6 tcr in complex with hla-a02 carrying yqfgpdfpia	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		YQFGPDFPIA	29
+5c08	F	H	276	10	1e6 tcr in complex with hla-a0e carrying rqwgpdpaav	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RQWGPDPAAV	28
+5c09	F	H	276	10	hla class i histocompatibility antigen	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		YLGGPDFPTI	28
+5d2l	C	R	274	9	crystal structure of tcr c7 in complex with hcmv nlv epitope presented by hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		NLVPMVATV	27
+5d2n	A	I	273	9	crystal structure of c25-nlv-hla-a2 complex	homo sapiens		homo sapiens		homo sapiens	hla-a, hlaa	NLVPMVATV	27
+5d9s	A	C	274	11	structure of hla-a2:01 with the 11-mer peptide f11v	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		FVLELEPEWTV	28
+5ddh	A	C	274	12	structure of hla-a2:01 with the 12-mer peptide f12k	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		FVLELEPEWTVK	28
+5def	A	C	276	9	crystal structure of b*27:04 complex bound to the pvipr peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWHL	28
+5deg	A	C	276	9	crystal structure of b*27:06 bound to the pvipr peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWHL	28
+5e00	A	C	275	9	structure of hla-a2 p130	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GVWIRTPPA	28
+5e8n	J	L	258	9	the structure of the teipp associated trh4 peptide in complex with h- 2d(b)	mus musculus	h2-d1	mus musculus	b2m	mus musculus		MCLRMTAVM	28
+5e8o	D	F	274	8	the structure of the teipp associated altered peptide ligand trh4- p2abu in complex with h-2d(b)	mus musculus	h2-d1	mus musculus		mus musculus	b2m	MLRMTAVM	28
+5e8p	D	F	271	8	the structure of the teipp associated altered peptide ligand trh4- p5nle in complex with h-2d(b)	mus musculus	h2-d1	mus musculus	b2m	mus musculus		MCLRTAVM	28
+5e9d	F	H	272	10	rd-1 mart-1 high bound to mart-1 decameric peptide (ela) in complex with hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+5enw	A	C	274	9	structure of hla-a2:01 with peptide g9l	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		GLKEGIPAL	28
+5eo0	A	C	275	9	crystal structure of hla-b0702-rfl9	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		RPMTFKGAL	28
+5eo1	A	C	275	9	crystal structure of hla-b0702-rl9	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		RPMTYKGAL	28
+5eot	A	C	273	11	structure of hla-a2:01 with peptide g13e	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		GLLPELPAVGG	27
+5eu3	A	C	276	9	hla class i antigen	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		YLEPGPVTA	28
+5eu4	D	F	276	9	hla class i antigen	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		YLAPGPVTA	28
+5eu5	A	C	276	9	hla class i antigen	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		YLEPAPVTA	28
+5eu6	A	C	276	9	hla class i antigen	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		YLEPGPVTV	28
+5euo	C	J	275	9	pf6-m1-hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GILGFVFTL	28
+5f1i	V	X	271	9	mhc with 9-mer peptide	canis lupus familiaris		canis lupus familiaris		canis lupus familiaris		KLFSGELTK	28
+5f1n	D	F	275	11	mhc complexed to 11mer peptide	canis lupus familiaris	dla-88	canis lupus familiaris	b2m	canis lupus familiaris		RFLDKDGFIDK	28
+5f7d	A	C	273	10	structure of hla-a2:01 with peptide g11n	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GLKEGIPALD	27
+5f9j	A	C	274	9	structure of hla-a2:01 with peptide y9l	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		YLSPIASPL	28
+5fa3	A	C	273	9	structure of hla-a2:01 with peptide g9v	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		GLLPELPAV	27
+5fa4	A	C	273	11	structure of hla-a2:01 with peptide y16r	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		YLSPIASPLLD	27
+5fdw	A	C	274	10	structure of hla-a2:01 with peptide y10l	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	toxoplasma gondii		YLSPIASPLL	28
+5gjx	A	C	266	9	crystal structure of duck mhc i for 2.06 angstrom	anas platyrhynchos	du5mhc i	anas platyrhynchos	b2m	unidentified influenza virus		RLIQNSITI	28
+5gr7	A	C	274	9	mouse mhc class i h-2kd with a mers-cov-derived peptide 37-1	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	middle east respiratory syndrome coronavirus		YYSIIPHSI	28
+5grd	A	C	274	10	crystal structure of 10-mer peptide from ebv in complex with hla- a1101.	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		SSCSSCPLSK	28
+5gsd	A	C	274	7	crystal structure of lmp2 peptide from ebv in complex with hla-a*11:01	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		SSCPLSK	28
+5gsr	C	Q	274	9	mouse mhc class i h-2kd with a mers-cov-derived peptide i5a	homo sapiens	b2m, cdabp0092, hdcma22p	mus musculus	h2-k1, h2-k	middle east respiratory syndrome coronavirus		YYSIAPHSI	28
+5gsv	A	C	274	10	mouse mhc class i h-2kd with a mers-cov-derived peptide 142-5	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	middle east respiratory syndrome coronavirus		FYAPEPITSL	28
+5gsx	D	F	274	10	mouse mhc class i h-2kd with a mers-cov-derived peptide 142-2	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	middle east respiratory syndrome coronavirus		FYAPEPITSL	28
+5h5z	A	C	275	9	crystal structure of bony fish mhc class i, peptide and b2m ii	ctenopharyngodon idella	uaa106	ctenopharyngodon idella	b2m	spring viraemia of carp virus		FANFCLMMI	27
+5h94	D	F	275	9	crystal structure of swine mhc classi for 1.48 angstroms	sus scrofa	sla-3*hs0202	sus scrofa	b2m	h1n1 swine influenza virus		KMNTQFTAV	28
+5hga	D	F	274	8	hla*a2402 complex with hiv nef138 y2f-8mer mutant epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus type 1		RFPLTFGW	28
+5hgb	J	L	274	8	hla*a2402 complexed with hiv nef138 8mer epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus type 1		RYPLTFGW	28
+5hgd	D	F	274	10	hla*a2402 complexed with hiv nef138 y2f mutant 10mer epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus type 1		RFPLTFGWCF	28
+5hgh	A	C	274	10	hla*a2402 complexed with hiv nef138 10mer epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus type 1		RYPLTFGWCF	28
+5hhn	A	C	274	9	crystal structure of hla-a*0201 in complex with m1-f5l	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GILGLVFTL	28
+5hho	A	C	276	9	crystal structure of the jm22 tcr in complex with hla-a*0201 in complex with m1-g4e	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GILEFVFTL	28
+5hhp	A	C	274	9	crystal structure of hla-a*0201 in complex with m1-g4e	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GILEFVFTL	28
+5hhq	A	C	274	9	crystal structure of hla-a*0201 in complex with m1-l3w	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GIWGFVFTL	28
+5hyj	F	H	276	10	1e6 tcr in complex with hla-a02 carrying aqwgpdpaaa	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AQWGPDPAAA	28
+5ib1	A	C	276	9	crystal structure of hla-b*27:05 complexed with the self-peptide pvipr measured at 295 k	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWHL	28
+5ib2	A	C	276	9	crystal structure of hla-b*27:05 complexed with the self-peptide pvipr	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWHL	28
+5ib3	A	C	276	9	crystal structure of hla-b*27:05 complexed with the self-peptide pvipr and copper	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWHL	28
+5ib4	A	C	276	9	crystal structure of hla-b*27:05 complexed with the self-peptide pvipr and nickel	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWHL	28
+5ib5	D	F	276	9	crystal structure of hla-b*27:09 complexed with the self-peptide pvipr and copper	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWHL	28
+5ieh	A	C	276	8	structure of hla-b*40:02 in complex with the phosphorylated endogenous peptide ref(p)skepel	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		REFKEPEL	28
+5iek	A	C	276	9	structure of hla-b*40:02 in complex with the endogenous peptide refskepel	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		REFSKEPEL	28
+5im7	C	F	277	9	crystal structure of hla-b5801, a protective hla allele for hiv-1 infection	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		QASQEVKNW	28
+5inc	C	F	277	9	crystal structure of hla-b5801, a protective hla allele for hiv-1 infection	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified		QATQEVKNW	28
+5ind	C	F	277	9	crystal structure of hla-b5801, a protective hla allele for hiv-1 infection	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified		QASQDVKNW	28
+5iro	Q	V	259	9	crystal structure of a complex between the human adenovirus type 4 e3- 19k protein and mhc class molecule hla-a2/tax	homo sapiens	hla-a, hlaa	human t-lymphotropic virus 1		homo sapiens	b2m, cdabp0092, hdcma22p	LLFGYPVYV	28
+5isz	A	C	275	9	crystal structure of ls01-tcr/m1-hla-a*02 complex	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		GILGFVFTL	28
+5iue	I	N	275	8	human leukocyte antigen f (hla-f) presents peptides and regulates immunity through interactions with nk-cell receptors	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	trichoplusia ni		LILRWEQD	28
+5ivx	A	P	274	10	crystal structure of b4.2.3 t-cell receptor and h2-dd p18-i10 complex	mus musculus	h2-d1	mus musculus	b2m	mus musculus	tcrav2s6j38	RGPGRAFVTI	28
+5j6h	A	F	275	8	recognition of the mhc class ib molecule h2-q10 by the natural killer cell receptor ly49c	mus musculus	h2-q10	mus musculus	b2m	mus musculus		VGITNVDL	28
+5jhd	F	H	276	9	crystal structure of ls10-tcr/m1-hla-a*02 complex	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		GILGFVFTL	28
+5jwd	A	C	258	9	crystal structure of h-2db in complex with the lcmv-derived gp392-401 peptide	mus musculus	h2-d1	mus musculus	b2m	lymphocytic choriomeningitis virus		WLVTNGSYL	28
+5jwe	G	S	273	10	crystal structure of h-2db in complex with the lcmv-derived gp92-101 peptide	mus musculus	h2-d1	mus musculus	b2m	lymphocytic choriomeningitis virus		CSANNSHHYI	28
+5jzi	F	H	262	10	crystal structure of 1406 tcr bound to hla-a2 with hcv 1406-1415 antigen peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	hepatitis c virus		KLVALGINAV	28
+5kd4	C	Q	273	10	crystal structure of murine mhc-i h-2dd in complex with murine beta2- microglobulin and a variant of peptide (pvi10) of hiv gp120 mn isolate (igpgrafyvi)	mus musculus	h2-d1	mus musculus	b2m	human immunodeficiency virus 1	env	IGPGRAFYVI	27
+5kd7	I	K	266	9	crystal structure of murine mhc-i h-2dd in complex with murine beta2- microglobulin and a variant of peptide (pv9) of hiv gp120 mn isolate (igpgrafyv)	mus musculus	h2-d1	mus musculus	b2m	human immunodeficiency virus type 1 group msubtype b (isolate mn) 		IGPGRAFYV	27
+5m00	A	P	276	9	crystal structure of murine p14 tcr complex with h-2db and y4a, modified gp33 peptide from lcmv	mus musculus	h2-d1	mus musculus	b2m	mus musculus	trav14-1	KAVANFATM	28
+5m01	A	P	276	9	crystal structure of murine p14 tcr/ h-2db complex with pa, modified gp33 peptide from lcmv	mus musculus	h2-d1	mus musculus	b2m	mus musculus	trav14-1, tcra	KAPANFATM	28
+5m02	A	P	275	9	crystal structure of murine p14 tcr / h-2db with pf, modified gp33 peptide from lcmv	mus musculus	h2-d1	mus musculus	b2m	mus musculus	trav14-1, tcra	KAPFNFATM	28
+5men	A	C	276	9	human leukocyte antigen a02 presenting ilakflhwl, in complex with cognate t-cell receptor	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILAKFLHWL	28
+5meo	A	C	276	9	human leukocyte antigen presenting ilgkflhrl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILGKFLHRL	28
+5mep	D	F	276	9	human leukocyte antigen a02 presenting ilgkflhwl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILGKFLHWL	28
+5meq	A	C	276	9	human leukocyte antigen a02 presenting ilakflhtl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILAKFLHTL	28
+5mer	D	F	276	9	human leukocyte antigen a02 presenting ilakflhel	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILAKFLHEL	28
+5mzm	D	F	271	9	structure of h-2db in complex with teipp apl trh4 p3p	mus musculus	h2-d1	mus musculus	b2m	mus musculus		MCPRMTAVM	28
+5n1y	A	C	277	10	hla-a02 carrying mvwgpdplyv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		MVWGPDPLYV	29
+5n6b	D	F	276	9	human leukocyte antigen class i a02 carrying llwnpgmav	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	yellow fever virus		LLWNGPMAV	28
+5nht	H	P	275	10	human 199.54-16 tcr in complex with melan-a/mart-1 (26-35) peptide and hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+5nme	F	H	276	9	868 tcr in complex with hla a02 presenting slyntvatl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		SLYNTVATL	28
+5nmf	F	H	276	9	868 tcr in complex with hla a02 presenting slyntiatl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		SLYNTIATL	28
+5nmg	F	H	276	9	868 tcr in complex with hla a02 presenting slyfntiavl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		SLFNTIAVL	28
+5nmh	A	C	276	9	hla a02 presenting slyntiatl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		SLYNTIATL	28
+5nmk	A	C	276	9	hla a02 presenting slfntiavl	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		SLFNTIAVL	28
+5npz	A	C	277	9	porcine (sus scrofa) major histocompatibility complex, class i, presenting efedltfla	sus scrofa	sla-1	sus scrofa	b2m	unidentified influenza virus		EFEDLTFLA	29
+5nq0	A	C	275	9	porcine (sus scrofa) major histocompatibility complex, class i, presenting dferegysl	sus scrofa	sla-1	sus scrofa	b2m	unidentified influenza virus		DFEREGYSL	28
+5nq1	D	F	276	9	porcine (sus scrofa) major histocompatibility complex, class i, with human beta2 micro globulin, presenting dferegysl	sus scrofa	sla-1	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		DFEREGYSL	29
+5nq2	A	C	277	9	'porcine (sus scrofa) major histocompatibility complex, class i, presenting iayermcni	sus scrofa	sla-2	sus scrofa	b2m	unidentified influenza virus		IAYERMCNI	29
+5nq3	D	F	276	9	'porcine (sus scrofa) major histocompatibility complex, class i, with human beta2 micro globulin, presenting efedltfla	sus scrofa	sla-1	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		EFEDLTFLA	29
+5nqk	H	P	275	10	human 199.16 tcr in complex with melan-a/mart-1 (26-35) peptide and hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+5swq	A	C	275	9	crystal structure of hla-a*0201 in complex with na231, an influenza epitope	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		CVNGSCFTV	28
+5sws	A	C	273	9	crystal structure of np2-b17 tcr-h2db-np complex	mus musculus	h2-d1	mus musculus	b2m	unidentified influenza virus		ASNENMETM	28
+5swz	K	R	277	9	crystal structure of np1-b17 tcr-h2db-np complex	mus musculus	h2-d1	mus musculus	b2m	unidentified influenza virus		ASNENMETM	28
+5t6w	A	C	275	10	hla-b*57:01 presenting sstrgisqlw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		SSTRGISQLW	28
+5t6x	A	C	275	10	hla-b*57:01 presenting tsttsvassw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TSTTSVASSW	28
+5t6y	A	C	276	12	hla-b*57:01 presenting tstfedvkilaf	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TSTFEDVKILAF	28
+5t6z	A	C	283	10	kir3dl1 in complex with hla-b*57:01-tw10	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TSTLQEQIGW	28
+5t7g	C	Q	273	9	crystal structure of murine mhc-i h-2dd in complex with murine beta2- microglobulin and a variant of peptide (pt9) of hiv gp120 mn isolate (igpgrafyt)	mus musculus	h2-d1	mus musculus	b2m	human immunodeficiency virus type 1 group msubtype b (isolate mn) 		IGPGRAFYT	27
+5t70	A	C	288	10	kir3dl1 in complex with hla-b*57:01 presenting tsnlqeqigw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	kir3dl1, cd158e, nkat3, nkb1	TSNLQEQIGW	28
+5tez	A	C	275	9	tcr f50 recgonizing m1-hla-a2	influenza a virus		homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	GILGFVFTL	28
+5ts1	G	S	273	9	crystal structure of mhc-i h2-kd complexed with peptides of mycobacterial tuberculosis (yyqsglsiv)	mus musculus	h2-k1, h2-k	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis		YYQSGLSIV	27
+5txs	A	C	276	9	crystal structure of an anaplastic lymphoma kinase-derived neuroblastoma tumor antigen bound to the human major histocompatibility complex class i molecule hla-b*1501	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AQDIYRASY	28
+5u98	D	F	273	9	the crystal structure of a self-peptide complexed to abacavir and hla- b*57:01	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		VTTDIQVKV	27
+5v5l	C	F	277	10	crystal structure of hla-b*5801 complex with hiv-1 gag derived peptide tw10	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		TSTLQEQIGW	28
+5v5m	C	F	276	10	crystal structure of hla-b*5701 complex with hiv-1 gag derived peptide tw10	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		TSTLQEQIGW	28
+5vcl	A	P	277	9	structure of the qdm peptide bound to qa-1a	mus musculus	h2-t23	mus musculus	b2m	mus musculus		AMAPRTLLL	28
+5vgd	A	C	273	9	crystal structure of hla-c*0501 in complex with sae	homo sapiens	hla-c, hlac	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		SAEPVPLQL	27
+5vge	A	C	275	9	crystal structure of hla-c*07:02 in complex with ryr peptide	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RYRPGTVAL	27
+5vud	A	C	276	9	hla-b*57:01 presenting lsspvtksw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LSSPVTKSW	28
+5vue	A	C	276	9	hla-b*57:01 presenting ltvqvarvw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LTVQVARVW	28
+5vuf	A	C	276	9	hla-b*57:01 presenting ltvqvarvy	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LTVQVARVY	28
+5vvp	A	C	276	9	hla-b*57:03 presenting lsspvtksw	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LSSPVTKSW	28
+5vwd	A	C	276	9	hla-b*57:03 presenting ltvqvarvw	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LTVQVARVW	28
+5vwf	A	C	276	9	hla-b*58:03 presenting ltvqvarvy	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LTVQVARVY	28
+5vwh	A	C	276	9	hla-b*58:01 presenting lsspvtksw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LSSPVTKSW	28
+5vwj	A	C	276	9	hla-b*58:01 presenting ltvqvarvw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LTVQVARVW	28
+5vz5	A	C	277	10	crystal structure of an anaplastic lymphoma kinase-derived neuroblastoma tumor antigen bound to the human major histocompatibility complex class i molecule hla-b*1501	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AQDIYRASYY	28
+5w6a	C	F	273	9	hla-c*06:02 presenting artelyrsl	homo sapiens	hla-c, hlac	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		ARTELYRSL	27
+5w67	A	C	273	8	hla-c*06:02 presenting vrsrr(aba)lrl	homo sapiens	hla-c, hlac	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		VRSRRLRL	27
+5w69	G	L	268	9	hla-c*06:02 presenting arfndlrfv	homo sapiens	hla-c, hlac	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		ARFNDLRFV	27
+5weu	A	P	273	10	crystal structure of h2-dd with disulfide-linked 10mer peptide	mus musculus	h2-d1	mus musculus	b2m	human immunodeficiency virus type 1 group msubtype b 		RGPGCAFVTI	27
+5wjl	G	I	274	10	crystal structure of hla-a*11:01 with gts1 peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	dengue virus 1		GTSGSPIVNR	28
+5wjn	G	I	274	10	crystal structure of hla-a*11:01-gts3	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	dengue virus 3		GTSGSPIINR	28
+5wkf	F	H	274	10	d30 tcr in complex with hla-a*11:01-gts1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	dengue virus 1		GTSGSPIVNR	28
+5wkh	F	H	274	10	d30 tcr in complex with hla-a*11:01-gts3	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	dengue virus 3		GTSGSPIINR	28
+5wlg	F	H	277	9	crystal structure of h-2db with the gap501 peptide (sql)	mus musculus	h2-d1	mus musculus	b2m	plasmodium berghei	gap50, pbk173_000161900, pbnk65e_000154900,pbnk65ny_000154100, pbsp11a_000154100, pbsp11rll_000154100 	SQLLNAKYL	28
+5wli	J	L	276	9	crystal structure of h-2db with the gap501 peptide (sql)	mus musculus	h2-d1	mus musculus	b2m	plasmodium berghei		SQLLNAKYL	28
+5wmn	C	F	276	9	crystal structure of hla-b7 in complex with spi, an influenza peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		SPIVPSFDM	28
+5wmo	A	C	276	9	crystal structure of hla-b7 in complex with rpp, an ebv peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	epstein-barr virus strain ag876		RPPIFIRRL	28
+5wmp	A	C	276	10	crystal structure of hla-b7 in complex with tpr, a cmv peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	cytomegalovirus		TPRVTGGGAM	28
+5wmq	A	C	276	9	crystal structure of hla-b8 in complex with elr, an influenza a virus peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		ELRSRYWAI	28
+5wmr	A	C	267	9	crystal structure of hla-b8 in complex with qik, a cmv peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	cytomegalovirus		QIKVRVDMV	28
+5wsh	A	C	275	9	structure of hla-a2 p130	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GVWIRTPTA	28
+5wwi	A	E	274	11	crystal structure of hla-a*2402 in complex with avian influenza a(h7n9) virus-derived peptide h7-25 (data set 1)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		LYKKLKREMTF	28
+5wwu	A	E	274	11	crystal structure of hla-a*2402 in complex with 2009 pandemic influenza a(h1n1) virus and avian influenza a(h5n1) virus-derived peptide h1-25	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus(a/chicken/china/028/2014(h7n9)) 		LYKKLKREITF	28
+5wxd	A	E	274	11	crystal structure of hla-a*2402 in complex with avian influenza a(h7n9) virus-derived peptide h7-25 (data set 1)	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus(a/chicken/china/028/2014(h7n9)) 		LYKKLKREMTF	28
+5xmf	A	C	275	9	crystal structure of feline mhc class i for 2,1 angstrom	felis catus	fla-i	felis catus	b2m	feline immunodeficiency virus	gag	RMANVSTGR	28
+5xmm	A	C	275	9	fla-e*01801-167w/s	felis catus	fla-i	felis catus	b2m	feline immunodeficiency virus	gag	DMANVSTGR	28
+5xos	A	C	276	9	crystal structure of hla-b35 in complex with a pepetide antigen	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		IPLTEEAEL	28
+5xot	A	C	276	9	crystal structure of phla-b35 in complex with tu55 t cell receptor	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		IPLTEEAEL	28
+5xov	D	F	274	10	crystal structure of peptide-hla-a24 bound to s19-2 v-delta/v-beta tcr	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RYPLTFGWCF	28
+5xs3	A	C	271	9	crystal structure of hla class i antigen	homo sapiens		homo sapiens		homo sapiens		VRSRRCLRL	25
+5y91	A	C	273	9	the structure of the mhc class i molecule of bony fishes provides insights into the conserved nature of the antigen-presenting system	ctenopharyngodon idella	uaa106	ctenopharyngodon idella	b2m	spring viraemia of carp virus		FANFCLMMI	27
+5ylx	A	C	275	9	integrated illustration of a valid epitope based on the sla class i structure and tetramer technique could carry forward the development of molecular vaccine in swine species	sus scrofa	sla-1	sus scrofa	b2m	porcine reproductive and respiratory syndromevirus 		TMPPGFELY	28
+5ymv	D	F	271	9	crystal structure of 9-mer peptide from influenza virus in complex with bf2*1201	gallus gallus		gallus gallus	b2m	unidentified influenza virus		AVKGVGTMV	29
+5ymw	J	L	271	8	crystal structure of 8-mer peptide from rous sarcoma virus in complex with bf2*1201	gallus gallus		gallus gallus	b2m	rous sarcoma virus - prague c		LPACVLEV	29
+5yxn	C	I	275	10	a t cell receptor in complex with hla-a0201 restricted hepatitis c virus ns3 peptide (klvalginav)	homo sapiens		homo sapiens		homo sapiens	hla-a, hlaa	KLVALGINAV	28
+5yxu	E	J	276	10	an affinity enhanced t cell receptor in complex with hla-a0201 restricted hcv ns3 peptide klvalginav	homo sapiens		homo sapiens		homo sapiens	hla-a, hlaa	KLVALGINAV	28
+6a2b	A	C	272	9	crystal structure of xenopus laevis mhc i complex	xenopus laevis		xenopus laevis	b2m	xenopus laevis		YMMPRHWPI	28
+6a6h	A	C	275	9	crystal structure of swine major histocompatibility complex class i sla-2*040202 for 2.3 angstrom	sus scrofa	sla-b, sla-2	sus scrofa	b2m	foot-and-mouth disease virus - type a		MTAHIVVPY	28
+6am5	A	C	275	10	crystal structure of dmf5 tcr bound to hla-a2 presenting synthetic peptide smlgigivpv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		SMLGIGIVPV	28
+6amt	D	F	274	10	human class i mhc hla-a2 in complex with synthetic peptide mmwdrglgmm	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		MMWDRGLGMM	28
+6amu	A	C	269	10	crystal structure of dmf5 tcr bound to hla-a2 presenting synthetic peptide mmwdrglgmm	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		MMWDRGLGMM	27
+6at5	A	C	275	13	crystal structure of hla-b*07:02 in complex with an ny-eso-1 peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		APRGPHGGAASGL	28
+6at9	A	C	274	10	crystal structure of an anaplastic lymphoma kinase-derived neuroblastoma tumor antigen bound to the human major histocompatibility complex class i molecule hla-a*0101	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AQDIYRASYY	28
+6avf	H	P	269	13	crystal structure of the kfj5 tcr-ny-eso-1-hla-b*07:02 complex	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	trav4	homo sapiens	tcrbv3s1, trbv28	APRGPHGGAASGL	28
+6avg	F	P	275	13	crystal structure of the kfj37 tcr-ny-eso-1-hla-b*07:02 complex	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	trav4	homo sapiens	trbv9	APRGPHGGAASGL	28
+6bj2	A	C	273	9	tcr589 in complex with hiv(pol448-456)/hla-b35	homo sapiens		homo sapiens		homo sapiens	hla-b, hlab	IPLTEEAEL	28
+6bj3	A	C	275	9	tcr55 in complex with hiv(pol448-456)/hla-b35	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		IPLTEEAEL	27
+6bj8	A	C	274	9	tcr55 in complex with pep20/hla-b35	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	tra@	VPLTEDAEL	26
+6d2r	A	C	276	11	hla-b*57:01 presenting gsfdysgvhlw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GSFDYSGVHLW	28
+6d2t	A	C	276	9	hla-b*57:01 presenting lalltgvrw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LALLTGVRW	28
+6d29	A	C	276	10	hla-b*57:01 presenting tsmsfvprpw	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TSMSFVPRPW	28
+6d78	A	C	275	9	the complex between high-affinity tcr dmf5(alpha-d26y,beta-l98w) and human class i mhc hla-a2 with the bound mart-1(27-35)peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AAGIGILTV	28
+6dkp	A	C	275	10	the complex among dmf5(alpha-d26y, alpha-y50a,beta-l98w) tcr, human class i mhc hla-a2 and mart-1(26-35)(a27l) peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+6ei2	A	C	275	10	crystal structure of hla-a68 presenting a c-terminally extended peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ETSPLTAEKL	28
+6eqa	A	C	276	9	hla class i histocompatibility antigen	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AAGIGILTV	28
+6eqb	A	C	276	9	hla class i histocompatibility antigen	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AAGIGILTV	28
+6ewa	E	G	274	9	crystal structure of hla-a2 in complex with lilrb1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		ILKEPVHGV	28
+6ewc	E	G	276	9	crystal structure of non-phosphorylated form of rls phosphopeptide bound to hla-a2 in complex with lilrb1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RLSSPLHFV	28
+6ewo	E	G	274	9	crystal structure of non-phosphorylated form of rtf phosphopeptide bound to hla-a2 in complex with lilrb1	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RTFSPTYGL	28
+6g3j	D	F	276	10	mhc a02 allele presenting mtsaigilvp	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		MTSAIGILPV	28
+6g3k	D	F	276	10	mhc a02 allele presenting mtsaigilpv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ITSGIGVLPV	28
+6g9q	A	P	276	9	ternary complex of p14 tcr with murine mhc class i h-2 db in complex with self-antigen derived from dopamine monooxygenase.	mus musculus	h2-d1	mus musculus	b2m	mus musculus	trav14-1, tcra	KAPYDYAPI	28
+6g9r	G	K	276	9	murine class i major histocompatibility complex h-2 db in complex with self-antigen derived from dopamine monooxygenase.	mus musculus	h2-d1	mus musculus	b2m	mus musculus		KAPYDYAPI	28
+6gb5	C	F	275	7	structure of h-2db with truncated sev peptide and gl	mus musculus	h2-d1	mus musculus	b2m	sendai virus		FAPGNYP	28
+6gb7	G	L	270	7	structure of h-2db with scoop loop from tapasin	mus musculus	h2-d1	mus musculus	b2m	mus musculus	b2m	FAPGNYP	28
+6ggm	C	Q	270	9	hla-e*01:03 in complex with the mtb44 peptide variant: mtb44*p2-phe.	homo sapiens	hla-e	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacteriaceae		RFPAKAPLL	28
+6gh1	G	Z	274	9	hla-e*01:03 in complex with mtb44	homo sapiens	hla-e	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis		RLPAKAPLL	28
+6gh4	G	Y	274	9	hla-e*01:03 in complex with the mtb44 peptide variant: mtb44*p2-gln.	homo sapiens	hla-e	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacteriaceae		RQPAKAPLL	28
+6ghn	C	Q	272	9	hla-e*01:03 in complex with the mtb44 peptide variant: mtb44*p9-phe.	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	mycobacteriaceae		RLPAKAPLF	28
+6gl1	E	Q	274	9	hla-e*01:03 in complex with the hiv epitope, rl9hiv	homo sapiens	hla-e	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RMYSPTSIL	28
+6h6d	D	F	273	10	crystal structures of the murine class i major histocompatibility complex h-2db in complex with adenovirus-derived peptide ad10	mus musculus	h2-d1	mus musculus	b2m	unidentified adenovirus		SGPSNTPPEI	28
+6h6h	D	F	273	10	crystal structures of the murine class i major histocompatibility complex h-2dbm13 in complex with adenovirus-derived peptide ad10	mus musculus	h2-d1, h-2d, h2-l	mus musculus	b2m	unidentified adenovirus		SGPSNTPPEI	28
+6id4	E	U	275	9	defining the structural basis for human alloantibody binding to human leukocyte antigen allele hla-a*11:01	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AIFQSSMTK	28
+6iex	A	C	274	10	crystal structure of hla-b*4001 in complex with sars-cov derived peptide n216-225 getalallll	homo sapiens	hla-b	homo sapiens	b2m	sars coronavirus		GETALALLLL	28
+6ilc	A	C	279	8	crystal structure of bat mhc class i ptal-n*01:01 for 2.2 angstrom	pteropus alecto	ptal-n	pteropus alecto	pal_glean10023531	hendra virus		DFANTFLP	28
+6ile	A	C	276	8	crystal structure of a mutant ptal-n*01:01 for 2.9 angstrom, 52m 53d 54l deleted	pteropus alecto	ptal-n	pteropus alecto	pal_glean10023531	hendra virus		DFANTFLP	28
+6ilf	A	C	279	9	crystal structure of bat mhc class i ptal-n*01:01 for 2.7 angstrom	pteropus alecto	ptal-n	pteropus alecto	pal_glean10023531	hendra virus		DYINTNLVP	28
+6ilg	A	C	279	8	crystal structure of bat mhc class i ptal-n*01:01 for 2.6 angstrom	pteropus alecto	ptal-n	pteropus alecto	pal_glean10023531	hendra virus		DFANTFLL	28
+6irl	A	C	272	8	crystal structure of 8-mer peptide from avian influenza h5n1 virus in complex with bf2*1501	gallus gallus	bf2	gallus gallus	b2m	influenza a virus		RREVHTYY	30
+6j1v	A	C	274	9	the structure of hla-a*3003/rt313	homo sapiens		homo sapiens		human immunodeficiency virus 1		AIFQSSMTK	28
+6j1w	A	C	274	9	the structure of hla-a*3001/rt313	homo sapiens		human immunodeficiency virus 1		homo sapiens		AIFQSSMTK	28
+6j2a	A	C	274	9	the structure of hla-a*3003/np44	homo sapiens		homo sapiens		influenza a virus		CTELKLSDY	28
+6j2d	A	C	276	8	crystal structure of bat (pteropus alecto) mhc class i ptal-n*01:01 in complex with hendra virus-derived peptide hev1	pteropus alecto	ptal-n	pteropus alecto	pal_glean10023531	hendra virus		DFANTFLP	27
+6j2e	D	F	277	10	crystal structure of bat (pteropus alecto) mhc class i ptal-n*01:01 in complex with ebola virus-derived peptide ebov-np1	pteropus alecto	ptal-n	homo sapiens	b2m	ebola virus sp.		DFQESADSFL	28
+6j2f	D	F	277	9	crystal structure of bat (pteropus alecto) mhc class i ptal-n*01:01 in complex with hendra virus-derived peptide hev2	pteropus alecto	ptal-n	pteropus alecto	pal_glean10023531	hendra virus		DYINTNVLP	28
+6j2g	D	F	277	11	crystal structure of bat (pteropus alecto) mhc class i ptal-n*01:01 in complex with ebola virus-derived peptide ebov-np2	pteropus alecto	ptal-n	homo sapiens	b2m	ebola virus sp.		DFQESADSFLL	28
+6j2h	D	F	273	8	crystal structure of bat (pteropus alecto) mhc class i ptal-n*01:01 mutant (met52 asp53 leu54 deleted) in complex with hendra virus- derived peptide hev1	pteropus alecto	ptal-n	homo sapiens	b2m	hendra virus		DFANTFLP	27
+6j2i	D	F	280	9	crystal structure of bat (pteropus alecto) mhc class i ptal-n*01:01 in complex with h17n10 influenza-like virus-derivrd peptide h17n10-np	pteropus alecto	ptal-n	homo sapiens	b2m	h17n10 subtype		DFEKEGYSL	31
+6j29	A	C	274	9	the structure of hla-a*3003/mtb	homo sapiens		mycobacterium tuberculosis		homo sapiens		QIMYNYPAM	28
+6joz	A	C	274	9	crystal structure of brlf peptide from ebv in complex with hla-a1101.	homo sapiens	hla-a, hlaa	homo sapiens	b2m	synthetic construct		ATIGTAMYK	28
+6jq2	A	P	274	8	crystal structure of h2-kb in complex with a dpagt1 self-peptide	mus musculus		mus musculus		mus musculus	b2m	SIIVFNLV	28
+6jq3	A	P	274	8	crystal structure of h2-kb in complex with a dpagt1 mutant peptide	mus musculus	h2-k1, h2-k	mus musculus		mus musculus	b2m	SIIVFNLL	28
+6jtn	A	C	273	10	crystal structure of hla-c08 in complex with a tumor mut10m peptide	homo sapiens	hla-cw, hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GADGVGKSAL	27
+6jto	A	C	273	10	crystal structure of hla-c05 in complex with a tumor mut10m peptide	homo sapiens	hla-c, hlac	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GADGVGKSAL	27
+6jtp	A	C	273	9	crystal structure of hla-c08 in complex with a tumor mut9m peptide	homo sapiens	hla-cw, hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GADGVGKSA	27
+6k7t	A	C	253	8	crystal structure of bat (pteropus alecto) mhc class i ptal-n*01:01 in complex with hendra virus-derived peptide hev1--human beta-2 microglobulin	pteropus alecto	ptal-n	homo sapiens	b2m	hendra henipavirus		DFANTFLP	28
+6kwk	A	C	275	9	crystal structure of psla-1*0401 complex with fmdv-derived epitope mtahitvpy	sus scrofa		sus scrofa	b2m	foot-and-mouth disease virus		MTAHITVPY	28
+6kwl	A	C	275	9	crystal structure of psla-1*0401(r156a) complex with fmdv-derived epitope mtahitvpy	sus scrofa		sus scrofa	b2m	foot-and-mouth disease virus		MTAHITVPY	28
+6kwn	A	C	275	9	crystal structure of psla-1*1301(f99y) complex with s-oiv-derived epitope nsdtvgwsw	sus scrofa	sla-1	sus scrofa	b2m	swine influenza virus		NSDTVGWSW	28
+6kwo	A	C	272	9	crystal structure of psla-1*1301 complex with mutant epitope esdtvgwsw	sus scrofa	sla-1	sus scrofa	b2m	neuraminidase deficient flu strains		ESDTVGWSW	27
+6kx9	A	C	272	8	crystal structure of 8-mer peptide from avian influenza h5n1 virus in complex with bf2*1501	gallus gallus	bf2	gallus gallus	b2m	synthetic construct		RRALREGY	30
+6kyu	A	C	271	9	complex assembly, crystallization and preliminary x-ray crystallographic studies of duck mhc class i molecule	anas platyrhynchos	apnl-uaa*b4	anas platyrhynchos	b2m	duck tembusu virus		LRKRQLTVL	28
+6l9m	J	L	278	9	h2-ld complexed with ah1 peptide	homo sapiens		homo sapiens		homo sapiens		SPSYVYHQF	29
+6l9n	J	L	278	9	h2-ld complexed with a5 peptide	homo sapiens		homo sapiens		homo sapiens		SPSYAYHQF	29
+6lbe	C	F	268	9	crystal structure of bony fish mhc class i binding beta2m-2 for 2.6 angstrom	ctenopharyngodon idella	uaa106	ctenopharyngodon idella	b2m-b	synthetic construct		FANFCLMMI	24
+6lf8	A	C	275	12	crystal structure of psla-1*0401 complex with dodecapeptide rvedvtntaeyw	sus scrofa		sus scrofa	b2m	unidentified influenza virus		RVEDVTNTAEYW	28
+6lf9	J	L	273	12	crystal structure of psla-1*1301 complex with dodecapeptide rvedvtntaeyw	sus scrofa		sus scrofa	b2m	synthetic construct		RVEDVTNTAEYW	28
+6lhh	A	C	270	8	crystal structure of chicken 8mer-bf2*1501	gallus gallus	bf2	gallus gallus	b2m	gallus gallus		RRREQTDY	28
+6lup	D	F	267	9	crystal structure of shark mhc class i for 2.3 angstrom	ginglymostoma cirratum	gici-uaa01	ginglymostoma cirratum	b2m, b2m	synthetic construct		FANFFIRGL	27
+6m2j	A	C	274	9	uncommon structural features of rabbit mhc class i (rla-a1) complexed with rabbit haemorrhagic disease virus (rhdv) derived peptide, vp60-1	oryctolagus cuniculus		homo sapiens	b2m	rabbit hemorrhagic disease virus		TLIDLTELI	28
+6m2k	A	C	274	9	uncommon structural features of rabbit mhc class i (rla-a1) complexed with rabbit haemorrhagic disease virus (rhdv) derived peptide, vp60- 10	rabbit hemorrhagic disease virus		homo sapiens	b2m	oryctolagus cuniculus		FVPFNSPNI	28
+6m24	A	C	274	9	uncommon structural features of rabbit mhc class i (rla-a1) complexed with rabbit haemorrhagic disease virus (rhdv) derived peptide, vp60-2	oryctolagus cuniculus		homo sapiens	b2m	rabbit hemorrhagic disease virus		ALMPGQFFV	28
+6mpp	A	B	274	10	hla-a*01:01 complex with nras q61k peptide by nmr	homo sapiens	hla-a, hlaa	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	ILDTAGKEEY	28
+6mt3	A	B	276	9	crystal structure of hla-b*18:01 in complex with np338 influenza peptide	homo sapiens	hla-b, hlab	unidentified influenza virus		homo sapiens	b2m, cdabp0092, hdcma22p	FEDLRVLSF	28
+6mt4	A	C	276	9	crystal structure of hla-b*37:01 in complex with np338-l7s influenza peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		FEDLRVSSF	28
+6mt5	A	C	276	9	crystal structure of hla-b*37:01 in complex with np338-v6l influenza peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		FEDLRLLSF	28
+6mt6	A	B	276	9	crystal structure of hla-b*37:01 in complex with np338 influenza peptide	homo sapiens	hla-b, hlab	unidentified influenza virus		homo sapiens	b2m, cdabp0092, hdcma22p	FEDLRVLSF	28
+6mtl	A	C	276	9	crystal structure of hla-b*44:05 in complex with np338 influenza peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		FEDLRVLSF	28
+6mtm	A	C	276	9	crystal structure of em2 tcr in complex with hla-b*37:01-np338	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	unidentified influenza virus		FEDLRVLSF	28
+6nca	T	1	275	9	hla-a2 (a*02:01) bound to a peptide from the epstein-barr virus brlf1 protein	epstein-barr virus		homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	YVLDHLIVV	28
+6npr	C	R	274	10	crystal structure of h-2dd with c84-c139 disulfide in complex with gp120 derived peptide p18-i10	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		RGPGRAFVTI	27
+6o4y	A	C	274	9	structure of hla-a2:01 with peptide mm91	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		KLVVGAVGV	28
+6o4z	A	C	274	9	structure of hla-a2:01 with peptide mm92	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	actinomyces radingae		KLVVVAVGV	28
+6o9b	A	C	278	9	crystal structure of hla-a3*01 in complex with a wild-type beta- catenin peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		TTAPSLSGK	29
+6o9c	A	C	279	9	crystal structure of hla-a3*01 in complex with a mutant beta-catenin peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	ctnnb1, ctnnb, ok/sw-cl.35, pro2286	TTAPFLSGK	29
+6o51	A	C	274	10	structure of hla-a2:01 with peptide mm90	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	actinomyces radingae		YLVVVGAVGV	28
+6o53	A	C	273	10	structure of hla-a2:01 with peptide mm96	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	actinomyces radingae		KLVVVGAVGV	27
+6opd	A	C	275	9	crystal structure of ilnamivki peptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILNAMIVKI	28
+6p64	F	H	256	9	alpha-beta tcr binding to neoantigen kqwlvwlfl presented by hla-a206	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		KQWLVWLFL	28
+6pa1	E	G	269	9	killer cell immunoglobulin-like receptor 2dl2 in complex with hla- c*07:02	homo sapiens	hla-c, hlac	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		RYRPGTVAL	27
+6pag	A	C	277	9	killer cell immunoglobulin-like receptor 2dl3 in complex with hla- c*07:02	homo sapiens	hla-c, hlac	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		RYRPGTVAL	27
+6ptb	D	F	275	9	crystal structure of ilnamiaki peptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILNAMIAKI	28
+6pte	K	J	275	9	crystal structure of ilnamitki peptide bound to hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ILNAMITKI	28
+6pyj	A	C	276	9	crystal structure of hla-b*2705 in complex with lrn, a self-peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LRNQSVFNF	28
+6pyl	A	C	276	10	crystal structure of hla-b*2703 in complex with kk10, an hiv peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		KRWIILGLNK	28
+6pyv	A	C	276	9	crystal structure of hla-b*2703-p47g in complex with lrn, a self- peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LRNQSVFNF	28
+6pyw	A	C	276	9	crystal structure of hla-b*2705-w60a in complex with lrn, a self- peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LRNQSVFNF	28
+6pz5	A	C	276	9	crystal structure of hla-b*2703 in complex with lrn, a self-peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LRNQSVFNF	28
+6q3k	A	P	275	9	engineered human hla_a2 mhc class i molecule in complex with nv9 peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	cytomegalovirus		NLVPMVATV	29
+6q3s	A	C	274	9	engineered human hla_a2 mhc class i molecule in complex with tcr and sv9 peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SLLMWITQV	28
+6r2l	A	C	276	9	nybr1-a2-slskildtv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SLSKILDTV	28
+6rp9	F	H	275	9	crystal structure of the t-cell receptor nye_s3 bound to hla a2*01- sllmwitqv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SLLMWITQV	28
+6rpa	A	C	276	9	crystal structure of the t-cell receptor nye_s2 bound to hla a2*01- sllmwitqv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SLLMWITQV	28
+6rpb	P	R	271	9	crystal structure of the t-cell receptor nye_s1 bound to hla a2*01- sllmwitqv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SLLMWITQV	28
+6rsy	F	H	274	9	the complex between tcr a7b2 and human class i mhc hla-a0201-wt1 with the bound rmfpnapyl peptide.	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RMFPNAPYL	28
+6ss7	D	F	276	9	human leukocyte antigen class i a02 carrying llwagpmav	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	yellow fever virus		LLWAGPMAV	28
+6ss8	D	F	276	9	human leukocyte antigen class i a02 carrying llwngpiav	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	yellow fever virus		LLWNGPIAV	28
+6ss9	D	F	276	9	human leukocyte antigen class i a02 carrying llwngpmhv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	yellow fever virus		LLWNGPMHV	28
+6ssa	J	L	276	9	human leukocyte antigen class i a02 carrying llwngpmqv	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	yellow fever virus		LLWNGPMQV	28
+6tmo	A	C	276	10	structure determination of an enhanced affinity tcr, a24b17, in complex with hla-a*02:01 presenting a mart-1 peptide, eaagigiltv	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EAAGIGILTV	28
+6trn	A	C	274	10	crystal structure of hla a2*01-avydgrehtv	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AVYDGREHTV	28
+6tro	A	C	273	10	crystal structure of the t-cell receptor gvy01 bound to hla a2*01- gvydgrehtv	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GVYDGREHTV	27
+6uj7	D	F	278	10	crystal structure of hla-b*07:02 with r140q mutant idh2 peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SPNGTIQNIL	28
+6uj8	D	F	275	10	crystal structure of hla-b*07:02 with wild-type idh2 peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SPNGTIRNIL	27
+6uj9	A	C	277	10	crystal structure of hla-b*07:02 with r140q mutant idh2 peptide in complex with fab	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SPNGTIQNIL	29
+6ujo	A	C	275	9	hhat l75f neoantigen peptide kqwlvwlfl presented by hla-a206	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		KQWLVWLFL	28
+6ujq	A	C	275	9	hhat wild type peptide kqwlvwlll presented by hla-a206	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		KQWLVWLLL	28
+6uk2	A	C	275	9	complex of t cell receptor with hhat wild type peptide kqwlvwlll presented by hla-a206	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		KQWLVWLLL	28
+6uk4	A	C	275	9	complex of t cell receptor with hhat neoantigen peptide kqwlvwlfl presented by hla-a206	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		KQWLVWLFL	28
+6uli	A	C	273	9	molecular basis for tumor infiltrating tcr recognition of hotspot kras-g12d mutation	homo sapiens	hla-cw, hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GADGVGKSA	27
+6ulk	A	C	273	10	molecular basis for tumor infiltrating tcr recognition of hotspot kras-g12d mutation	homo sapiens	hla-cw, hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GADGVGKSAL	27
+6uln	A	C	273	9	molecular basis for tumor infiltrating tcr recognition of hotspot kras-g12d mutation	homo sapiens	hla-cw, hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GADGVGKSA	27
+6ulr	A	C	272	9	molecular basis for tumor infiltrating tcr recognition of hotspot kras-g12d mutation	homo sapiens	hla-cw, hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GADGVGKSA	26
+6uon	D	F	273	10	molecular basis for tumor infiltrating tcr recognition of hotspot kras-g12d mutation	homo sapiens		homo sapiens		homo sapiens	hla-cw, hla-c	GADGVGKSAL	27
+6uz1	F	H	275	9	noncanonical binding of single-chain a6 tcr variant s3-4 in complex with tax/hla-a2	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LLFGYPVYV	28
+6uzm	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		HLASSGHSL	28
+6uzn	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVRASGHSY	28
+6uzo	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		HLASSGHSY	28
+6uzp	A	C	276	9	hla-b*15:01 complexed with a synthetic peptide	homo sapiens	hla	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		HLASSGHSL	28
+6uzq	A	C	276	9	hla-b*15:01 complexed with a synthetic peptide	homo sapiens	hla	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVRASGHSY	28
+6uzs	A	C	276	9	hla-b*15:01 complexed with a synthetic peptide	homo sapiens	hla	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		HLASSGHSY	28
+6v2o	A	C	276	10	hla-b*57:01 presenting the peptide aslnlpavsw	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		ASLNLPAVSW	28
+6v2p	A	C	276	10	hla-b*57:03 presenting the peptide aslnlpavsw	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		ASLNLPAVSW	28
+6v2q	A	C	276	9	hla-b*57:03 presenting the peptide lsspvtksf	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LSSPVTKSF	28
+6v3j	A	C	288	9	kir3dl1 in complex with hla-b*57:03 presenting the peptide lsspvtksf	homo sapiens	hla-b, hla-b*5703gb	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LSSPVTKSF	28
+6vb0	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		ELRAREESY	28
+6vb1	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		ELRAREEAY	28
+6vb2	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		ELRARQECY	28
+6vb3	A	C	277	9	hla-b*15:01 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVAASGHSY	29
+6vb4	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVAASGHSY	28
+6vb5	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVRASGHSY	28
+6vb6	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVRASGHSY	28
+6vb7	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVRASGHSY	28
+6viu	A	C	276	9	hla-b*15:02 complexed with a synthetic peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		TVAASGHSY	28
+6vm7	A	C	275	9	silv44 t cell receptor bound to hla-a2 presenting gp100 peptide (itdqvpfsv)	homo sapiens	trav8-1, trac	homo sapiens	trbv19, trbc2	homo sapiens	hla-a	ITDQVPFSV	28
+6vm8	A	C	275	9	silv44 t cell receptor bound to hla-a2 presenting gp100t2m peptide (imdqvpfsv)	homo sapiens	hla-a	homo sapiens	trbv19, trbc2	homo sapiens	trav8-1, trac	IMDQVPFSV	28
+6vm9	A	C	275	9	t4h2 t cell receptor bound to hla-a2 presenting gp100t2m peptide (imdqvpfsv)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		IMDQVPFSV	28
+6vma	A	C	275	9	t4h2 t cell receptor bound to hla-a2 presenting gp100 peptide (itdqvpfsv)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	trav12-2, trac	ITDQVPFSV	28
+6vmc	A	C	275	9	t4h2 t cell receptor bound to hla-a2 presenting gp100t2l peptide (ildqvpfsv)	homo sapiens	trav12-2, trac	homo sapiens	trbv19, trbc2	homo sapiens	hla-a	ILDQVPFSV	28
+6vmx	F	H	267	9	structure of hd14 tcr in complex with hla-b7 presenting an ebv epitope	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	epstein-barr virus (strain b95-8)		RPPIFIRRL	28
+6vpz	A	C	276	11	hla-b*27:05 presenting an hiv-1 11mer peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		KRWIILGLNKI	28
+6vqo	F	Q	254	9	t cell receptor-p53-hla-a2 complex	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		HMTEVVRHC	27
+6vqy	C	F	277	7	hla-b*27:05 presenting an hiv-1 7mer peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		KRWIILG	28
+6vr1	D	Q	275	9	complex of hla-a2, a class i mhc, with a p53 peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	tp53, p53	HMTEVVRRC	28
+6vr5	D	Q	275	9	complex of hla-a2, a class i mhc, with a p53 peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	tp53, p53	HMTEVVRHC	28
+6vrm	A	P	273	9	t cell receptor-p53-hla-a2 complex	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		HMTEVVRHC	27
+6vrn	A	P	274	9	t cell receptor-p53-hla-a2 complex	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		HMTEVVRHC	28
+6w51	J	L	275	9	structure of the antibody fragment h2 in complex with hla- a*02:01/p53r175h	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		HMTEVVRHC	28
+6wzy	A	C	276	10	structure of dbna(10) peptides bound to h-2db mhc-i	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		SGPDNGAVAV	29
+6x00	A	C	274	11	structure of dbna(11) peptides bound to h-2db mhc-i	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		SGPDNGAVAVL	29
+6xqa	D	F	276	9	crystal structure of hla a*2402 in complex with tyqwvlknl, an 9-mer epitope from influenza b virus	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza b virus		TYQWVLKNL	28
+6y2a	A	C	276	9	crystal structure of hla-b2705 complexed with the nona-peptide mq	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GRLNQPIKV	28
+6y2b	A	C	276	9	crystal structure of hla-b2709 complexed with the nona-peptide mq	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GRLNQPIKV	28
+6y26	A	C	276	9	crystal structure of hla-b2705 complexed with the nona-peptide ma	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GRLNAPIKV	28
+6y27	A	C	276	9	crystal structure of hla-b2709 complexed with the nona-peptide ma	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GRLNAPIKV	28
+6y28	A	C	276	9	crystal structure of hla-b2705 complexed with the nona-peptide me	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GRLNEPIKV	28
+6y29	A	C	276	9	crystal structure of hla-b2709 complexed with the nona-peptide me	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		GRLNEPIKV	28
+6z9v	D	F	276	9	human class i major histocompatibility complex, a02 allele, presenting iigwmwipv	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		IIGWMWIPV	28
+6z9w	D	F	275	9	human class i major histocompatibility complex, a02 allele, presenting llgwvfaqv	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LLGWVFAQV	28
+6z9x	D	F	276	8	human class i major histocompatibility complex, a02 allele, presenting lls (t-butyl)y fgtpt	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		LLSFGTPT	28
+6zkw	A	C	274	9	crystal structure of inha:01 tcr in complex with hla-e bound to inha (53-61)	homo sapiens	hla-e, hla-6.2, hlae	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis h37rv		RLPAKAPLL	27
+6zkx	A	C	274	12	crystal structure of inha:01 tcr in complex with hla-e (y84c) bound to inha (53-61 gcg)	homo sapiens	hla-e, hla-6.2, hlae	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis h37rv		RLPAKAPLLGCG	27
+6zky	A	C	273	8	crystal structure of inha:01 tcr in complex with hla-e (s147c) bound to inha (53-61 h3c)	homo sapiens	hla-e, hla-6.2, hlae	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis h37rv		RLPAKAPL	27
+6zkz	A	C	272	8	crystal structure of inha:01 tcr in complex with hla-e (f116c) bound to inha (53-61 h4c)	homo sapiens	hla-e, hla-6.2, hlae	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis h37rv		RLPAKAPL	27
+7alo	D	F	276	8	structure of b*27:09/photorl9	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRKWRRWL	28
+7bbg	A	C	274	9	crystal structure of hla-a2-wt1-rmf and fab 11d06	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RMFPNAPYL	28
+7ciq	A	C	276	10	phosphorylation modification of mhc i polypeptide	homo sapiens	hla-b	homo sapiens	b2m	homo sapiens		RRFSRSPIRR	28
+7cir	A	C	276	9	peptide phosphorylation modification of mhc class i molecules	homo sapiens	hla-b	homo sapiens	b2m	homo sapiens		RRFRSPIRR	28
+7cis	A	C	276	7	peptide modification of mhc class i molecules	homo sapiens	hla-b	homo sapiens	b2m	homo sapiens		RRFRPIR	28
+7cjq	D	F	275	9	structure of dla-88*001:01	canis lupus familiaris		canis lupus familiaris	b2m	canine distemper virus strain onderstepoort		RTISYTYPF	28
+7cpo	A	C	270	9	crystal structure of anolis carolinensis mhc i complex	anolis carolinensis		anolis carolinensis		synthetic construct		HVYGPLKPI	25
+7dc6	C	F	275	9	giant panda mhc class i complexes	ailuropoda melanoleuca	aime-128	ailuropoda melanoleuca	b2m, panda_000996	canine coronavirus		NGYNFFSTF	28
+7duu	A	C	273	9	crystal structure of hla molecule with an kir receptor	homo sapiens	hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	hepacivirus c		LNPSVAATL	27
+7dyn	A	C	276	8	phosphorylation of mhc i peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		RRFRPIRR	28
+7dzm	A	C	278	9	crystal structure of the cross-restricted t18a tcr and hlab8101 bound to hiv-1 gag tl9 peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		TPQDLNTML	29
+7dzn	A	C	277	9	crystal structure of the cross-restricted t18a tcr and hlab4201 bound to hiv-1 gag tl9 peptide	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		TPQDLNTML	28
+7edo	D	F	278	8	first insight into marsupial mhc i peptide presentation: immune features of lower mammals paralleled with bats	trichosurus vulpecula	truv-ub	homo sapiens	b2m, cdabp0092, hdcma22p	uncultured virus		CNVTLNYP	28
+7ejl	A	C	274	9	complex structure of hla-a*2402 with the peptide from hcov(cov-2) spike protein	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		QYIKWPWYI	28
+7ejm	A	C	274	9	complex structure of hla-a*2402 with the peptide from hcov(cov-229e) spike protein	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	human coronavirus 229e		TYIKWPWWV	28
+7ejn	A	C	274	9	complex structure of hla-a*2402 with the peptide from hcov(cov-hku1) spike protein	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	human coronavirus hku1		MYVKWPWYV	28
+7em9	A	C	275	9	mooring stone-like arg114 pulls diverse bulged peptides: first insight into african swine fever virus-derived t cell epitopes presented by swine major histocompatibility complex class i	sus scrofa	sla-, sla-1	sus scrofa	b2m	uncultured virus		SLDEYSSDV	28
+7ema	A	C	275	9	mooring stone-like arg114 pulls diverse bulged peptides: first insight into african swine fever virus-derived t cell epitopes presented by swine major histocompatibility complex class i	sus scrofa	sla-, sla-1	sus scrofa	b2m	uncultured virus		YSSDVTTLV	28
+7emb	A	C	275	9	mooring stone-like arg114 pulls diverse bulged peptides: first insight into african swine fever virus-derived t cell epitopes presented by swine major histocompatibility complex class i	sus scrofa	sla-, sla-1	sus scrofa	b2m	uncultured virus		AAAIEEEDI	28
+7emc	G	I	275	9	mooring stone-like arg114 pulls diverse bulged peptides: first insight into african swine fever virus-derived t cell epitopes presented by swine major histocompatibility complex class i	sus scrofa	sla-, sla-1	sus scrofa	b2m	uncultured virus		ATEIRELLV	28
+7emd	A	C	275	9	mooring stone-like arg114 pulls diverse bulged peptides: first insight into african swine fever virus-derived t cell epitopes presented by swine major histocompatibility complex class i	sus scrofa	sla-, sla-1	sus scrofa	b2m	uncultured virus		YGDFFHDMV	28
+7eu2	D	F	279	9	complex structure of hla0201 with recognizing sars-cov-2 epitope s1	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		KIADYNYKL	32
+7f4w	C	F	280	9	complex structure of hla2402 with recognizing sars-cov-2 epitope pep4	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		NYNYLYRLF	33
+7ji2	D	F	278	8	crystal structure of h2-kb in complex with a ova mutant peptide	mus musculus bactrianus	h2-k1, h2-k	mus musculus bactrianus	b2m	synthetic construct		SIIQFEHL	28
+7jwi	A	C	277	9	crystal structure of b17.r2 tcr in complex with h2d-b-np366	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		ASNENMETM	28
+7jyu	D	F	274	10	crystal structure of hla-a*2402 in complex with iyfspirvtf, an 10-mer epitope from influenza b virus	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		IYFSPIRVTF	28
+7jyv	A	C	276	9	crystal structure of hla a*2402 in complex with yfspirvtf, an 9-mer influenza epitope	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza b virus		YFSPIRVTF	28
+7jyw	A	C	275	9	crystal structure of hla a*2402 in complex with tyqwiirnw, an 9-mer influenza epitope	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		TYQWIIRNW	28
+7jyx	D	F	274	11	crystal structure of hla a*2402 in complex with tyqwiirnwet, an 11-mer epitope from influenza	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		TYQWIIRNWET	28
+7k80	A	F	275	8	kir3dl1*001 in complex with hla-a*24:02 presenting the rypltfgw peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		RYPLTFGW	28
+7k81	A	C	280	8	kir3dl1*005 in complex with hla-a*24:02 presenting the rypltfgw peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		RYPLTFGW	28
+7kgo	A	C	275	9	crystal structure of hla-a*0201in complex with sars-cov-2 n351-359	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		ILLNKHIDA	28
+7kgp	A	C	278	9	crystal structure of hla-a*0201 in complex with sars-cov-2 n316-324	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		GMSRIGMEV	28
+7kgq	A	C	276	9	crystal structure of hla-a*0201in complex with sars-cov-2 n222-230	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		LLLDRLNQL	28
+7kgr	A	C	274	9	crystal structure of hla-a*0201in complex with sars-cov-2 n159-167	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		LQLPQGTTL	28
+7kgs	A	C	278	9	crystal structure of hla-a*0201 in complex with sars-cov-2 n138-146	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		ALNTPKDHI	28
+7l1b	A	C	274	9	crystal structure of hla-a*03:01 in complex with a wild-type pik3ca peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AHHGGWTTK	28
+7l1c	A	C	274	9	crystal structure of hla-a*03:01 in complex with a mutant pik3ca peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALHGGWTTK	28
+7l1d	A	C	274	9	crystal structure of human 21lt2-2 tcr bound to hla-a*03:01 in complex with a mutant pik3ca peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALHGGWTTK	28
+7lfz	A	C	275	9	human leukocyte antigen b*07:02 in complex with sars-cov2 epitope iprrnvatl	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		IPRRNVATL	28
+7lg0	A	C	275	9	human leukocyte antigen b*07:02 in complex with sars-cov2 epitope sprwyfyyl	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus		SPRWYFYYL	28
+7lg2	A	C	274	9	human leukocyte antigen a*0201 in complex with sars-cov2 epitope alweiqqvv	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		ALWEIQQVV	28
+7lg3	A	C	274	9	human leukocyte antigen a*0201 in complex with sars-cov2 epitope klwaqcvql	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		KLWAQCVQL	28
+7lgd	C	F	276	9	hla-b*07:02 in complex with sars-cov-2 nucleocapsid peptide n105-113	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		SPRWYFYYL	28
+7lgt	C	F	276	9	hla-b*07:02 in complex with 229e-derived coronavirus nucleocapsid peptide n75-83	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	human coronavirus 229e		SPKLHFYYL	28
+7m8s	D	F	274	10	crystal structure of hla-a*02:01 in complex with klndlcftnv, an 10-mer epitope from sars-cov-2 spike (s386-395)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		KLNDLCFTNV	28
+7m8t	A	C	276	9	crystal structure of hla-a*11:01 in complex with nsasfstfk, an 9-mer epitope from sars-cov-2 spike (s370-378)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		NSASFSTFK	28
+7m8u	A	C	276	9	crystal structure of hla-b*35:01 in complex with ipfamqmay, an 9-mer epitope from sars-cov-2 spike (s896-904)	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		IPFAMQMAY	28
+7mj6	A	C	275	9	hla-a*02:01 bound to neuroblastoma derived igfbpl1 peptide	homo sapiens	hla-a*02	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LLLPLLPPL	28
+7mj7	A	C	275	11	hla-a*02:01 bound to neuroblastoma derived igfbpl1 peptide	homo sapiens	hla-a*02	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LLLPLLPPLSP	28
+7mj8	A	C	276	12	hla-a*02:01 bound to neuroblastoma derived igfbpl1 peptide	homo sapiens	hla-a*02	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LLLPLLPPLSPS	28
+7mj9	A	C	275	9	hla-a*02:01 bound to neuroblastoma derived mutant igfbpl1 peptide	homo sapiens	hla-a*02	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LLLPRLPPL	28
+7mja	A	C	274	9	hla-a*24:02 bound to neuroblastoma derived phox2b peptide	homo sapiens	hla-a, hla, hla-a*24 	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		QYNPIRTTF	28
+7mkb	A	C	274	9	human leukocyte antigen a*0201 in complex with sars-cov-2 epitope ylqprtfll	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7mle	A	C	277	9	crystal structure of hla-a*03:01 in complex with vvrpsvask, an 9-mer epitope from influenza b virus	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza b virus		VVRPSVASK	28
+7n1a	D	F	273	9	sars-cov-2 ylq peptide binds to hla-a2	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7n1b	D	F	272	9	sars-cov-2 rlq peptide binds to hla-a2	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		RLQSLQTYV	28
+7n1e	A	C	274	9	sars-cov-2 rlq peptide-specific tcr prlq3 binds to rlq-hla-a2	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		RLQSLQTYV	28
+7n1f	A	C	272	9	sars-cov-2 ylq peptide-specific tcr pylq7 binds to ylq-hla-a2	homo sapiens	tcr alpha	homo sapiens	tcr beta	homo sapiens	hla-a	YLQPRTFLL	28
+7n2n	A	C	275	9	tcr-antigen complex as4.2-prpf3-hla*b27	homo sapiens		homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	TRLALIAPK	28
+7n2o	A	C	276	9	as4.2-yeih-hla*b27	homo sapiens		homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	LRVMMLAPF	28
+7n2p	A	C	262	9	as4.3-rnaseh2b-hla*b27	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GQVMVVAPR	28
+7n2q	H	J	276	9	as4.3-yeih-hla*b27	homo sapiens		homo sapiens		homo sapiens		LRVMMLAPF	28
+7n2r	A	C	259	9	as4.3-prpf3-hla*b27	homo sapiens		homo sapiens		homo sapiens	hla-b	TRLALIAPK	28
+7n2s	A	C	276	9	as3.1-prpf3-hla*b27	homo sapiens		homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	TRLALIAPK	28
+7n4k	A	C	273	10	6218 tcr in complex with h2-db pa 224	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		SSLENFRAYV	28
+7n5c	A	C	274	10	6218 tcr in complex with h2db pa with an engineered tcr-pmhc disulfide bond	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		SSLCNFRAYV	28
+7n5p	A	C	272	10	6218 tcr in complex with h2-db pa224-233 with a cysteine mutant	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		SSLCNFRAYV	28
+7n5q	F	H	278	10	peptide-mhc complex of mouse h2-db presenting pa224 with e4c mutation	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		SSLCNFRAYV	28
+7n6d	M	O	276	9	hla peptide complex	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7n6e	D	F	274	9	tcr peptide hla-a2 complex	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7n9j	A	C	276	9	crystal structure of h2db in complex with hsf2 melanoma neoantigen	mus musculus	h2-d1	mus musculus		homo sapiens	b2m, cdabp0092, hdcma22p	YGFRNVVHI	27
+7na5	A	C	278	9	structure of the h2db-tcr ternary complex with hsf2 melanoma neoantigen	mus musculus	h2-d1	homo sapiens	b2m, cdabp0092, hdcma22p	mus musculus		YGFRNVVHI	29
+7nmd	D	F	276	9	human major histocompatibility complex a24 allele presenting qlprlfpll	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		QLPRLFPLL	28
+7nme	A	C	276	9	human mhc class i, a24 allele presenting qlprlfpll, complex with 4c6 tcr	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		QLPRLFPLL	28
+7nmf	A	C	276	9	human mhc class i, a24 allele presenting qlprlfpll, complex with 4c6 tcr, monoclinic form	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		QLPRLFPLL	28
+7nmg	A	C	276	9	human mhc class i, a24 allele presenting lwm, complex with 4c6 tcr	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LWMRLLPLL	28
+7nui	A	D	276	9	crystal structure of hla-b*08:01 in complex with elrsrywai viral peptide	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		ELRSRYWAI	28
+7ow3	J	L	275	10	crystal structure of hla-a*11:01 in complex with kras peptide (vvvgaggvgk)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		VVVGAGGVGK	28
+7ow5	A	C	275	10	crystal structure of a tcr in complex with hla-a*11:01 bound to kras peptide (vvvgaggvgk)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		VVVGAGGVGK	27
+7ow6	A	C	276	10	crystal structure of a tcr in complex with hla-a*11:01 bound to kras g12d peptide (vvvgadgvgk)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		VVVGADGVGK	28
+7p0a	D	F	255	8	crystal structure of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 peptide with d- aminoacid (p3p6f)	mus musculus	h2-d1	mus musculus	b2m	lymphocytic choriomeningitis virus (strainarmstrong) 		KAPYNATM	26
+7p0t	D	F	258	8	crystal structure of the murine class i major histocompatibility complex h-2db in complex with lcmv-derived gp33 peptide with d- aminoacid	mus musculus	h2-d1	mus musculus	b2m	lymphocytic choriomeningitis mammarenavirus		KAVYNATM	28
+7p3d	A	C	276	9	mhc i a02 allele presenting ylqprtfll	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7p3e	D	F	276	9	mhc i a02 allele presenting ylqlrtfll	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome-relatedcoronavirus 		YLQLRTFLL	28
+7p4b	G	Z	276	9	hla-e*01:03 in complex with il9	homo sapiens	hla-e, hla-6.2, hlae	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis h37rv	esxh, cfp7, rv0288, mtv035.16	IMYNYPAML	28
+7p49	G	Z	276	9	hla-e*01:03 in complex with mtb14	homo sapiens	hla-e, hla-6.2, hlae	homo sapiens	b2m, cdabp0092, hdcma22p	mycobacterium tuberculosis (strain atcc 25618 /h37rv) 	ppsb, rv2932, mtcy338.21, mtv011.01	RMAATAQVL	28
+7pb2	F	H	274	10	crystal structure of jdi tcr in complex with hla-a*11:01 bound to kras g12d peptide (vvvgadgvgk)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		VVVGADGVGK	27
+7pbe	F	H	276	9	emergence of immune escape at dominant sars-cov-2 killer t-cell epitope	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7phr	H	P	275	9	structure of a fully assembled t-cell receptor engaging a tumor- associated peptide-mhc i	homo sapiens		homo sapiens		homo sapiens	cd3g, t3g	YLEPGPVTV	28
+7qpj	C	E	276	9	crystal structure of engineered tcr (756) complexed to hla-a*02:01 presenting mage-a10 9-mer peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		GLYDGMEHL	28
+7r7v	A	C	276	9	crystal structure of hla-b*5301 complex with an hiv-1 gag-derived epitope qw9	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	hiv-1 06tg.ht008		QASQEVKNW	28
+7r7w	A	C	276	9	crystal structure of hla-b*5301 complex with an hiv-1 gag-derived epitope qw9 s3t variant	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	hiv-1 06tg.ht008		QATQEVKNW	28
+7r7x	C	F	277	9	crystal structure of hla-b*5701 complex with an hiv-1 gag-derived epitope qw9	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	hiv-1 06tg.ht008		QASQEVKNW	28
+7r7y	A	C	276	9	crystal structure of hla-b*5701 complex with an hiv-1 gag-derived epitope qw9 s3t variant	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	hiv-1 06tg.ht008		QATQEVKNW	28
+7r80	C	E	274	9	crystal structure of c3 tcr complex with qw9-bound hla-b*5301	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	hiv-1 06tg.ht008		QASQEVKNW	28
+7re7	D	F	277	9	tcr mimic antibody (fab fragment) in complex with afp/hla-a*02	homo sapiens		homo sapiens		homo sapiens	hla-a	FMNKFIYEI	28
+7re8	D	F	275	9	class i mhc (hla-a*02) presenting alpha fetoprotein peptide (afp)	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		FMNKFIYEI	28
+7rm4	P	R	275	9	neoantigen p53r175h-specific tcr 6-11 binds to p53r175h-hla-a2	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens	tp53, p53	HMTEVVRHC	28
+7rrg	A	C	272	9	crystal structure of human 0606t1-2 tcr bound to hla-a*03:01 in complex with a mutant pik3ca peptide	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ALHGGWTTK	28
+7rtd	A	C	274	9	sars-cov-2 spike-derived peptide s269-277 (ylqprtfll) presented by hla-a*02:01	homo sapiens	hla-a, hla	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7rtr	A	C	266	9	ylq-sg3 tcr in complex with sars-cov-2 spike-derived peptide s269-277 (ylqprtfll) presented by hla-a*02:01	homo sapiens	hla-a, hla	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YLQPRTFLL	28
+7rzd	A	C	275	9	crystal structure of hla-b*07:02 in complex with mll(747-755) peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EPRSPSHSM	28
+7rzj	A	E	275	8	crystal structure of hla-b*07:02 in complex with mll(747-755) phosphopeptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EPRPSHSM	28
+7s7d	A	E	275	8	structure of hla-b*07:02 in complex with synthetic sulfo-mll peptide analog	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EPRPSHSM	28
+7s7e	A	C	275	9	structure of hla-b*07:02 in complex with dot1l(998-1006) peptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LPASPAHQL	28
+7s7f	A	C	275	8	structure of hla-b*07:02 in complex with dot1l(998-1006) phosphopeptide	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		LPAPAHQL	28
+7s8a	A	C	275	8	structure of hla-b*07:02 in complex with mll(747-755) phosphopeptide, cubic crystal form	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EPRPSHSM	28
+7s8e	A	E	275	8	structure of hla-b*07:02 in complex with mll(747-755) phosphopeptide and bound glycerol	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EPRPSHSM	28
+7s8f	A	C	275	9	structure of hla-b*07:02 in complex with mll(747-755) peptide and bound glycerol	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EPRSPSHSM	28
+7s8q	D	F	274	10	crystal structure of hla a*1101 in complex with ktngnafigk, an 10-mer epitope from influenza b	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza b virus		KTNGNAFIGK	28
+7s8r	D	F	275	9	crystal structure of hla a*1101 in complex with salewiknk, an 9-mer epitope from influenza b	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza b virus		SALEWIKNK	28
+7s8s	A	C	274	10	crystal structure of hla a*1101 in complex with rvlvngtflk, an 10-mer epitope from influenza b	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza b virus		RVLVNGTFLK	28
+7s79	A	E	275	8	structure of hla-b*07:02 in complex with synthetic phosphono-mll peptide analog	homo sapiens	hla-b, hlab	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		EPRPSHSM	28
+7sa2	A	C	278	9	sars-cov-2 spike-derived peptide s1060-1068 (vvflhvtyv) presented by hla-a*02:01	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		VVFLHVTYV	28
+7sif	A	C	276	9	crystal structure of hla b*3505 in complex with npdiviyqy, an 9-mer epitope from hiv-i	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		NPDIVIYQY	28
+7sig	A	C	276	9	crystal structure of hla b*3501 in complex with npdiviyqy, an 9-mer epitope from hiv-i	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		NPDIVIYQY	28
+7sis	A	C	277	9	sars-cov-2 spike-derived peptide s976-984 (vlndilsrl) presented by hla-a*02:01	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		VLNDILSRL	28
+7su9	A	C	273	9	kras-g12d specific tcr9a in complex with c*05-gadgvgksl	homo sapiens	tcrav	homo sapiens		homo sapiens	hla-c	GADGVGKSL	27
+7t0l	D	F	276	9	hla-b*27:05 in complex with the pan-hla-ia monoclonal antibody w6/32	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		FRYNGLIHR	28
+7tlt	C	F	275	9	sars-cov-2 spike-derived peptide s489-497 (yfplqsygf) presented by hla-a*29:02	homo sapiens	hla-a, hla	homo sapiens	b2m, cdabp0092, hdcma22p	severe acute respiratory syndrome coronavirus2 		YFPLQSYGF	28
+7tr4	A	P	275	10	ma2-mart1-hlaa0201	homo sapiens		homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		ELAGIGILTV	28
+7tuc	A	P	274	9	crystal structure of hla-b*44:05 (t73c) with 9mer eefgrafsf	homo sapiens	hla-b44	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct	hla-dpa1	EEFGRAFSF	28
+7u21	D	F	275	9	human class i mhc hla-a2 in complex with avgsyvysv peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		AVGSYVYSV	28
+7uc5	D	F	277	9	crystal structure of hla a*0301 in complex with ilrgsvahk, a 9-mer epitope from influenza a	homo sapiens	hla-a, hlaa	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		ILRGSVAHK	28
+7wj2	A	C	276	8	crystal structure of hla-c*1402 complexed with 8-mer hiv gag peptide	homo sapiens	hla-c	homo sapiens	b2m, cdabp0092, hdcma22p	human immunodeficiency virus 1		LYNTVATL	28
+7wkj	A	C	274	9	a covid-19 t-cell response detection method based on a newly identified human cd8+ t cell epitope from sars-cov-2-hubei province, 2021.	homo sapiens	hla-a	homo sapiens	b2m	homo sapiens		KTFPPTEPK	28
+7wt4	A	F	277	8	crystal structure of hla-a*2402 complexed with 8-mer influenza pb1 peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	influenza a virus		RYGFVANF	29
+7wt5	A	F	277	8	crystal structure of hla-a*2450 complexed with 8-mer model peptide	homo sapiens	hla-a	homo sapiens	b2m, cdabp0092, hdcma22p	synthetic construct		RAGFVANF	29
+8cx4	A	C	276	9	tcr-antigen complex as8.4-yeih-hla*b27	homo sapiens	hla-b	homo sapiens	b2m, cdabp0092, hdcma22p	escherichia coli		LRVMMLAPF	28
+8d5e	A	P	274	9	the complex of gtf2b peptide tgaasfdef presented by h2-dd	mus musculus	h2-d1	mus musculus	b2m	mus musculus		TGAASFDEF	27
+8d5f	A	P	273	9	the complex of gtf2b neoantigen tgaarfdef presented by h2-dd	mus musculus	h2-d1	mus musculus	b2m	mus musculus		TGAARFDEF	27
+8d5j	A	C	275	9	the complex of pre-mrna-processing factor 19 (prpf19) neoantigen kylqvashv presented by h2-kd	mus musculus	h2-k1	mus musculus	b2m	mus musculus		KYLQVASHV	29
+8d5k	A	C	273	9	the complex of pre-mrna-processing factor 19 (prpf19) peptide kylqvashv presented by h2-kd	mus musculus	h2-k1, h2-k	mus musculus	b2m	mus musculus		KYRQVASHV	28
+8eb2	G	I	275	9	structure of hla-a*02:01 in complex with ny-eso-1 peptide and pa2.1 fab	homo sapiens	hla-a, hla	homo sapiens	b2m, cdabp0092, hdcma22p	homo sapiens		SLLMWITQV	28
+8gvb	H	P	273	8	the complex between public tcr td08 and hla-a24 bound to hiv-1 nef138- 8 peptide	homo sapiens		homo sapiens		homo sapiens	hla-a	RYPLTFGW	27
+8gvg	H	P	274	8	the complex between public tcr td08 and hla-a24 bound to hiv-1 nef138- 8 (2f) peptide	homo sapiens		homo sapiens		homo sapiens	hla-a	RFPLTFGW	28
+8gvi	H	P	274	8	the complex between h25-11 tcr and hla-a24 bound to hiv-1 nef138-8 peptide	homo sapiens		homo sapiens		homo sapiens	hla-a	RYPLTFGW	28
